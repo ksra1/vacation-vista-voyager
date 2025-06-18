@@ -36,7 +36,7 @@ const Index = () => {
   useEffect(() => {
     const fetchItinerary = async () => {
       try {
-        const response = await fetch('/itinerary.json');
+        const response = await fetch('/vacation-vista-voyager/itinerary.json');
         const data: ItineraryData = await response.json();
         setItineraryData(data);
       } catch (error) {

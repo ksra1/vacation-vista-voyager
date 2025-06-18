@@ -1,6 +1,241 @@
-
 {
   "itinerary": [
+    {
+      "city": "Munich",
+      "date": "July 10, 2025",
+      "activities": [
+        {
+          "time": "7:30 AM - 8:30 AM",
+          "activity": "Breakfast",
+          "location": "Café Luitpold (Brienner Straße 11)",
+          "mapLink": "https://maps.app.goo.gl/CaféLuitpoldBriennerStraße11",
+          "directions": [
+            "Exit hotel, walk to Marsstraße tram stop (~2 min, 50m, flat)",
+            "Take tram and U-Bahn to café"
+          ],
+          "transportation": [
+            "Tram 16/17 to Hauptbahnhof (~5 min), U4/U5 to Odeonsplatz (~5 min), walk 5 min (300m, flat)"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at Café Luitpold (Brienner Straße 11)."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€40-60 (artisan granola, vegan croissants, juices, €8-15",
+            "kids’ waffles, smoothies, €6-10, Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€40-60 (artisan granola, vegan croissants, juices, €8-15",
+            "kids’ waffles, smoothies, €6-10, Apple Pay)",
+            "Elegant, historic café, luxurious vibe",
+            "14-year-old likes smoothies, 10-year-old loves waffles",
+            "Book via cafeluitpold",
+            "de for 7:30 AM"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "8:30 AM - 8:45 AM",
+          "activity": "Travel to Nymphenburg",
+          "location": "Nymphenburg Palace Gardens (Schloß Nymphenburg 1)",
+          "mapLink": "https://maps.app.goo.gl/NymphenburgPalaceGardensSchloßNymphenburg1",
+          "directions": [
+            "Walk to Odeonsplatz U-Bahn (~5 min, 300m, flat)",
+            "Take tram to Nymphenburg"
+          ],
+          "transportation": [
+            "U4/U5 to Hauptbahnhof (~5 min), tram 17 to Schloss Nymphenburg (~10 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to Nymphenburg."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€17",
+            "90 (group day ticket, Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€17",
+            "90 (group day ticket, Apple Pay)",
+            "Munich’s most luxurious gardens, pristine and royal",
+            "Supervise kids in transit"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "8:45 AM - 11:00 AM",
+          "activity": "Nymphenburg Palace Gardens",
+          "location": "Nymphenburg Palace Gardens",
+          "mapLink": "https://maps.app.goo.gl/NymphenburgPalaceGardens",
+          "directions": [
+            "Stroll canals, fountains, Badenburg Lake",
+            "View Amalienburg exterior",
+            "Optional luxury rowboat ride (€15/hr for 4)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Nymphenburg Palace Gardens."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€15 (rowboats, optional, cash/Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€15 (rowboats, optional, cash/Apple Pay)",
+            "Well-maintained royal gardens, Alps views",
+            "14-year-old loves photos, 10-year-old enjoys lake",
+            "Book rowboats on-site",
+            "supervise 10-year-old near water"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:00 AM - 12:00 PM",
+          "activity": "Vegetarian Lunch",
+          "location": "Café Palmenhaus (Nymphenburg grounds)",
+          "mapLink": "https://maps.app.goo.gl/CaféPalmenhausNymphenburggrounds",
+          "directions": [
+            "Walk from gardens to Palmenhaus (~5 min, 300m, flat)",
+            "Follow “Café” signs"
+          ],
+          "transportation": [
+            "Walk (~5 min)"
+          ],
+          "thingsToDo": [
+            "Enjoy vegetarian lunch at Café Palmenhaus (Nymphenburg grounds)."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€50-70 (wraps, salads, desserts, €10-15",
+            "kids’ sandwiches, sorbet, €8-12, Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€50-70 (wraps, salads, desserts, €10-15",
+            "kids’ sandwiches, sorbet, €8-12, Apple Pay)",
+            "Upscale greenhouse, flawless garden views",
+            "14-year-old likes salads, 10-year-old prefers sorbet",
+            "Book via palmenhaus",
+            "de for 11:00 AM"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "12:00 PM - 12:15 PM",
+          "activity": "Return to Hotel",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "directions": [
+            "Walk to Schloss Nymphenburg tram stop (~5 min, 300m, flat)",
+            "Take tram to hotel"
+          ],
+          "transportation": [
+            "Tram 17 to Marsstraße (~15 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Return to Hotel."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in group ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in group ticket",
+            "Check out by 12:00 PM",
+            "Supervise kids in transit"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:15 PM - 12:30 PM",
+          "activity": "Check Out",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "directions": [
+            "At hotel front desk",
+            "Collect deposit, grab bags"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at Novotel München City Arnulfpark."
+          ],
+          "ticketsToBuy": [
+            "Confirm deposit refund (€20 cash)"
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Ensure bags are ready for airport transfer",
+            "Confirm deposit refund (€20 cash)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:30 PM - 12:40 PM",
+          "activity": "Travel to Hauptbahnhof",
+          "location": "Munich Hauptbahnhof",
+          "mapLink": "https://maps.app.goo.gl/MunichHauptbahnhof",
+          "directions": [
+            "Walk to Marsstraße tram stop (~2 min, 50m, flat)",
+            "Take tram to Hauptbahnhof"
+          ],
+          "transportation": [
+            "Tram 16/17 to Hauptbahnhof (~10 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to Hauptbahnhof."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in group ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in group ticket",
+            "Prepare for S-Bahn to airport",
+            "Supervise kids in busy station"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:40 PM - 1:25 PM",
+          "activity": "Travel to Airport",
+          "location": "Munich Airport (MUC)",
+          "mapLink": "https://maps.app.goo.gl/MunichAirportMUC",
+          "directions": [
+            "Board S8 at Hauptbahnhof, alight at Munich Airport Terminal"
+          ],
+          "transportation": [
+            "S8 to airport (~45 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to Airport."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€12/person (S-Bahn, Apple Pay)",
+            "Taxi alternative: ~€70, 35 min, cash"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€12/person (S-Bahn, Apple Pay)",
+            "Arrive by ~1:25 PM for 4:00 PM flight (2 hours for check-in)",
+            "Kids carry light bags",
+            "Taxi alternative: ~€70, 35 min, cash"
+          ],
+          "type": [
+            "travel"
+          ]
+        }
+      ]
+    },
     {
       "city": "Paris, Venice",
       "date": "July 3, 2025",
@@ -55,24 +290,183 @@
           ]
         },
         {
-          "time": "8:05 AM - 9:35 AM",
-          "activity": "Breakfast at Café Constant",
-          "location": "Café Constant (135 Rue Saint-Dominique)",
-          "mapLink": "https://maps.app.goo.gl/CaféConstant135RueSaint-Dominique",
+          "time": "6:25 AM - 7:00 AM",
+          "activity": "Clear customs/immigration",
+          "location": "Passport Control, Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/PassportControl,Terminal2E",
           "directions": [
-            "At Café Constant"
+            "At passport control (~30-45 min)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy breakfast at café constant at Café Constant (135 Rue Saint-Dominique)."
+            "Perform activity: Clear customs/immigration."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: €40-48 (Apple Pay, €2-3 cash tip optional)",
+            "Busy area"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:00 AM - 7:05 AM",
+          "activity": "Walk to luggage storage",
+          "location": "Luggage Storage, Terminal 2E",
+          "mapLink": [
+            "https://maps.app.goo.gl/LuggageS",
+            "https://maps.app.goo.gl/rage,Terminal2E"
+          ],
+          "directions": [
+            "Follow \"Luggage Storage\" signs (near Gate 2, ~100-200m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Luggage Storage, Terminal 2E.",
+            "Handle luggage at Luggage Storage, Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path, busy terminal"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:05 AM - 7:15 AM",
+          "activity": "Store luggage and withdraw cash",
+          "location": "Luggage Storage, Terminal 2E",
+          "mapLink": [
+            "https://maps.app.goo.gl/LuggageS",
+            "https://maps.app.goo.gl/rage,Terminal2E"
+          ],
+          "directions": [
+            "At luggage storage counter and nearby ATM"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Handle luggage at Luggage Storage, Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: ~‚Ç¨40 (luggage storage, Apple Pay)",
+            "Withdraw ~‚Ç¨70 cash (ATM fee ~‚Ç¨2-3)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:15 AM - 7:20 AM",
+          "activity": "Walk to taxi stand",
+          "location": "Taxi Stand, Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/TaxiStand,Terminal2E",
+          "directions": [
+            "Follow \"Taxis\" signs (outside Gate 2, ~50-100m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Taxi Stand, Terminal 2E.",
+            "Travel to Taxi Stand, Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path, busy area"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:20 AM - 8:00 AM",
+          "activity": "Taxi to Trocad√©ro",
+          "location": "From CDG to Place du Trocad√©ro",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromCDG",
+            "https://maps.app.goo.gl/PlaceduTrocad√©ro"
+          ],
+          "directions": [
+            "Board taxi at Terminal 2E taxi stand",
+            "Drop off at Place du Trocad√©ro (near Palais de Chaillot)"
+          ],
+          "transportation": [
+            "Taxi (~40 min)"
+          ],
+          "thingsToDo": [
+            "Travel to From CDG to Place du Trocad√©ro."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: ‚Ç¨50-60 (Apple Pay",
+            "‚Ç¨50 cash backup)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "8:00 AM - 8:05 AM",
+          "activity": "Walk to Caf√© Constant",
+          "location": "Caf√© Constant (135 Rue Saint-Dominique)",
+          "mapLink": "https://maps.app.goo.gl/Caf√©Constant135RueSaint-Dominique",
+          "directions": [
+            "From Place du Trocad√©ro, head southwest past Palais de Chaillot, turn left on Avenue du Pr√©sident Wilson (70m), right on Avenue de la Bourdonnais (150m), right on Rue Saint-Dominique (80m) (~5 min, 400m)"
+          ],
+          "transportation": [
+            "Walk (~5 min)"
+          ],
+          "thingsToDo": [
+            "Walk to Caf√© Constant (135 Rue Saint-Dominique)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat, wide sidewalks"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "8:05 AM - 9:35 AM",
+          "activity": "Breakfast at Caf√© Constant",
+          "location": "Caf√© Constant (135 Rue Saint-Dominique)",
+          "mapLink": "https://maps.app.goo.gl/Caf√©Constant135RueSaint-Dominique",
+          "directions": [
+            "At Caf√© Constant"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at caf√© constant at Caf√© Constant (135 Rue Saint-Dominique)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: ‚Ç¨40-48 (Apple Pay",
+            "‚Ç¨2-3 cash tip optional)",
             "Kid-friendly menu with pastries and omelettes",
             "Cozy bistro known for classic French dishes"
           ],
@@ -81,18 +475,42 @@
           ]
         },
         {
-          "time": "9:40 AM - 10:40 AM",
-          "activity": "Eiffel Tower view at Trocadéro Gardens",
-          "location": "Trocadéro Gardens",
-          "mapLink": "https://maps.app.goo.gl/TrocadéroGardens",
+          "time": "9:35 AM - 9:40 AM",
+          "activity": "Walk to Trocad√©ro Gardens",
+          "location": "Trocad√©ro Gardens",
+          "mapLink": "https://maps.app.goo.gl/Trocad√©roGardens",
           "directions": [
-            "At Trocadéro Gardens"
+            "Exit Caf√© Constant, turn right on Rue Saint-Dominique (80m), left on Avenue de la Bourdonnais (150m), right on Avenue du Pr√©sident Wilson (70m), straight across Place du Trocad√©ro to gardens (100m) (~5 min, 400m)"
+          ],
+          "transportation": [
+            "Walk (~5 min)"
+          ],
+          "thingsToDo": [
+            "Walk to Trocad√©ro Gardens."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat, wide sidewalks"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "9:40 AM - 10:40 AM",
+          "activity": "Eiffel Tower view at Trocad√©ro Gardens",
+          "location": "Trocad√©ro Gardens",
+          "mapLink": "https://maps.app.goo.gl/Trocad√©roGardens",
+          "directions": [
+            "At Trocad√©ro Gardens"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Trocadéro Gardens."
+            "Explore or relax at Trocad√©ro Gardens."
           ],
           "ticketsToBuy": [
             "None."
@@ -102,101 +520,3083 @@
             "Scenic spot with stunning Eiffel Tower views, ideal for photos and relaxing"
           ],
           "type": [
-            "sightseeing"
+            "activity"
           ]
-        }
-      ]
-    },
-    {
-      "city": "Munich",
-      "date": "July 10, 2025",
-      "activities": [
+        },
         {
-          "time": "7:30 AM - 8:30 AM",
-          "activity": "Breakfast",
-          "location": "Café Luitpold (Brienner Straße 11)",
-          "mapLink": "https://maps.app.goo.gl/CaféLuitpoldBriennerStraße11",
+          "time": "10:40 AM - 10:55 AM",
+          "activity": "Taxi to Louvre Pyramid",
+          "location": "From Place du Trocad√©ro to Place du Carrousel",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromPlaceduTrocad√©ro",
+            "https://maps.app.goo.gl/PlaceduCarrousel"
+          ],
           "directions": [
-            "Exit hotel, walk to Marsstraße tram stop (~2 min, 50m, flat)",
-            "Take tram and U-Bahn to café"
+            "Board taxi at Place du Trocad√©ro taxi stand (near Palais de Chaillot)",
+            "Drop off at Place du Carrousel (near Louvre Pyramid entrance)"
           ],
           "transportation": [
-            "Tram 16/17 to Hauptbahnhof (~5 min), U4/U5 to Odeonsplatz (~5 min), walk 5 min (300m, flat)"
+            "Taxi (~15 min)"
           ],
           "thingsToDo": [
-            "Enjoy breakfast at Café Luitpold (Brienner Straße 11)."
+            "Travel to From Place du Trocad√©ro to Place du Carrousel."
           ],
           "ticketsToBuy": [
-            "Cost: ~€40-60 (artisan granola, vegan croissants, juices, €8-15",
-            "kids' waffles, smoothies, €6-10, Apple Pay)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: ~€40-60 (artisan granola, vegan croissants, juices, €8-15",
-            "kids' waffles, smoothies, €6-10, Apple Pay)",
-            "Elegant, historic café, luxurious vibe",
-            "14-year-old likes smoothies, 10-year-old loves waffles",
-            "Book via cafeluitpold.de for 7:30 AM"
+            "Cost: ‚Ç¨15 (Apple Pay",
+            "‚Ç¨15 cash backup)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "10:55 AM - 11:55 AM",
+          "activity": "View Louvre Pyramid (outside)",
+          "location": "Louvre Pyramid (Place du Carrousel)",
+          "mapLink": "https://maps.app.goo.gl/LouvrePyramidPlaceduCarrousel",
+          "directions": [
+            "At Louvre Pyramid courtyard"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Louvre Pyramid (Place du Carrousel)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free (~1 hr)",
+            "Iconic glass pyramid in the Louvre‚Äôs courtyard, a modern architectural landmark"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:55 AM - 12:10 PM",
+          "activity": "Taxi to Caf√© des Marronniers",
+          "location": "From Place du Carrousel to Jardin des Tuileries",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromPlaceduCarrousel",
+            "https://maps.app.goo.gl/JardindesTuileries"
+          ],
+          "directions": [
+            "Board taxi at Place du Carrousel",
+            "Drop off at Jardin des Tuileries near Caf√© des Marronniers"
+          ],
+          "transportation": [
+            "Taxi (~15 min)"
+          ],
+          "thingsToDo": [
+            "Travel to From Place du Carrousel to Jardin des Tuileries."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: ‚Ç¨15 (Apple Pay",
+            "‚Ç¨15 cash backup)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:10 PM - 1:40 PM",
+          "activity": "Lunch at Caf√© des Marronniers",
+          "location": "Caf√© des Marronniers (Jardin des Tuileries)",
+          "mapLink": "https://maps.app.goo.gl/Caf√©desMarronniersJardindesTuileries",
+          "directions": [
+            "At Caf√© des Marronniers (look for outdoor seating)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy lunch at caf√© des marronniers at Caf√© des Marronniers (Jardin des Tuileries)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: ‚Ç¨60 (Apple Pay",
+            "‚Ç¨3-5 cash tip optional)",
+            "Outdoor seating with kid-friendly sandwiches and salads",
+            "Charming caf√© with garden views"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "8:45 AM - 11:00 AM",
-          "activity": "Nymphenburg Palace Gardens",
-          "location": "Nymphenburg Palace Gardens",
-          "mapLink": "https://maps.app.goo.gl/NymphenburgPalaceGardens",
+          "time": "1:40 PM - 1:45 PM",
+          "activity": "Taxi to Le Souffl√©",
+          "location": "From Jardin des Tuileries to Le Souffl√© (36 Rue du Mont Thabor)",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromJardindesTuileries",
+            "https://maps.app.goo.gl/LeSouffl√©36RueduMontThabor"
+          ],
           "directions": [
-            "Stroll canals, fountains, Badenburg Lake",
-            "View Amalienburg exterior",
-            "Optional luxury rowboat ride (€15/hr for 4)"
+            "Board taxi near Jardin des Tuileries Concorde entrance",
+            "Drop off at Le Souffl√©"
+          ],
+          "transportation": [
+            "Taxi (~5 min)"
+          ],
+          "thingsToDo": [
+            "Travel to From Jardin des Tuileries to Le Souffl√© (36 Rue du Mont Thabor)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: ‚Ç¨10 (Apple Pay",
+            "‚Ç¨10 cash backup)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "1:45 PM - 3:15 PM",
+          "activity": "Dinner at Le Souffl√©",
+          "location": "Le Souffl√© (36 Rue du Mont Thabor)",
+          "mapLink": "https://maps.app.goo.gl/LeSouffl√©36RueduMontThabor",
+          "directions": [
+            "At Le Souffl√©"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Perform activity: Nymphenburg Palace Gardens."
+            "Enjoy dinner at le souffl√© at Le Souffl√© (36 Rue du Mont Thabor)."
           ],
           "ticketsToBuy": [
-            "Cost: ~€15 (rowboats, optional, cash/Apple Pay)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: ~€15 (rowboats, optional, cash/Apple Pay)",
-            "Well-maintained royal gardens, Alps views",
-            "14-year-old loves photos, 10-year-old enjoys lake",
-            "Book rowboats on-site",
-            "supervise 10-year-old near water"
+            "Cost: ‚Ç¨80 (Apple Pay",
+            "‚Ç¨5 cash tip optional)",
+            "Kid-friendly menu with sweet and savory souffl√©s",
+            "Elegant bistro famous for its signature souffl√©s"
           ],
           "type": [
-            "sightseeing"
+            "dining"
           ]
         },
         {
-          "time": "12:40 PM - 1:25 PM",
-          "activity": "Travel to Airport",
-          "location": "Munich Airport (MUC)",
-          "mapLink": "https://maps.app.goo.gl/MunichAirportMUC",
+          "time": "3:15 PM - 3:55 PM",
+          "activity": "Taxi to CDG",
+          "location": "From Le Souffl√© to CDG Terminal 2E",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromLeSouffl√©",
+            "https://maps.app.goo.gl/CDGTerminal2E"
+          ],
           "directions": [
-            "Board S8 at Hauptbahnhof, alight at Munich Airport Terminal"
+            "Board taxi at Le Souffl√©",
+            "Drop off at Terminal 2E departures"
           ],
           "transportation": [
-            "S8 to airport (~45 min)"
+            "Taxi (~40 min)"
           ],
           "thingsToDo": [
-            "Perform activity: Travel to Airport."
+            "Travel to From Le Souffl√© to CDG Terminal 2E."
           ],
           "ticketsToBuy": [
-            "Cost: ~€12/person (S-Bahn, Apple Pay)",
-            "Taxi alternative: ~€70, 35 min, cash"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: ~€12/person (S-Bahn, Apple Pay)",
-            "Arrive by ~1:25 PM for 4:00 PM flight (2 hours for check-in)",
-            "Kids carry light bags",
-            "Taxi alternative: ~€70, 35 min, cash"
+            "Cost: ‚Ç¨50-60 (Apple Pay",
+            "‚Ç¨50 cash backup)"
           ],
           "type": [
             "travel"
+          ]
+        },
+        {
+          "time": "3:55 PM - 4:05 PM",
+          "activity": "Retrieve luggage and check-in",
+          "location": "CDG Terminal 2E (near Gate 2)",
+          "mapLink": "https://maps.app.goo.gl/CDGTerminal2EnearGate2",
+          "directions": [
+            "At luggage storage (near Gate 2), then proceed to check-in counters"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at CDG Terminal 2E (near Gate 2).",
+            "Handle luggage at CDG Terminal 2E (near Gate 2)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Board by 3:45 PM",
+            "Busy terminal"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "4:05 PM - 5:45 PM",
+          "activity": "Flight to Venice",
+          "location": "From CDG to VCE (Marco Polo Airport)",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromCDG",
+            "https://maps.app.goo.gl/VCEMarcoPoloAirport"
+          ],
+          "directions": [
+            "Board flight at Terminal 2E"
+          ],
+          "transportation": [
+            "Flight Delta 8356 (~1h 40m)"
+          ],
+          "thingsToDo": [
+            "Travel to From CDG to VCE (Marco Polo Airport)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Board by 3:45 PM",
+            "Prepare for Venice arrival"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "17:45:00",
+          "activity": "Arrive at VCE (Marco Polo Airport)",
+          "location": "Marco Polo Airport (VCE)",
+          "mapLink": "https://maps.app.goo.gl/MarcoPoloAirportVCE",
+          "directions": [
+            "N/A"
+          ],
+          "transportation": [
+            "Flight Delta 8356 from CDG (Schengen, no immigration)"
+          ],
+          "thingsToDo": [
+            "Arrive at Marco Polo Airport (VCE)."
+          ],
+          "ticketsToBuy": [
+            "Flight cost: €300-450"
+          ],
+          "costsAndNotes": [
+            "Flight cost: €300-450",
+            "Check flight number on screens",
+            "Busy terminal"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "5:45 PM - 6:15 PM",
+          "activity": "Collect luggage",
+          "location": "Baggage Claim, VCE",
+          "mapLink": "https://maps.app.goo.gl/BaggageClaim,VCE",
+          "directions": [
+            "Follow “Baggage Claim” signs (~100m walk from gate)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Handle luggage at Baggage Claim, VCE."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "15-30 min",
+            "Check bags for damage"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:15 PM - 6:20 PM",
+          "activity": "Customs",
+          "location": "Customs Area, VCE",
+          "mapLink": [
+            "https://maps.app.goo.gl/Cus",
+            "https://maps.app.goo.gl/msArea,VCE"
+          ],
+          "directions": [
+            "Walk through “Nothing to Declare” lane (green lane, ~50m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Customs."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "~5 min",
+            "Flat, busy terminal"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:20 PM - 6:30 PM",
+          "activity": "Walk to Alilaguna dock",
+          "location": "Alilaguna Dock, VCE",
+          "mapLink": "https://maps.app.goo.gl/AlilagunaDock,VCE",
+          "directions": [
+            "Exit customs, turn left, follow “Water Transport” signs (~7-10 min, 700m)",
+            "Walk through covered walkway, cross parking area to dock"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Alilaguna Dock, VCE."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path, busy with tourists"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:30 PM - 7:00 PM",
+          "activity": "Alilaguna Water Bus to Ferrovia",
+          "location": "From VCE to Ferrovia",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromVCE",
+            "https://maps.app.goo.gl/Ferrovia"
+          ],
+          "directions": [
+            "Board at Alilaguna dock",
+            "Verify “Ferrovia” stop on sign or ask staff"
+          ],
+          "transportation": [
+            "Alilaguna Blue Line boat (~20-30 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Alilaguna Water Bus to Ferrovia."
+          ],
+          "ticketsToBuy": [
+            "Cost: €44 (€15/adult, €7/child, Apple Pay",
+            "€44 cash backup)"
+          ],
+          "costsAndNotes": [
+            "Cost: €44 (€15/adult, €7/child, Apple Pay",
+            "€44 cash backup)",
+            "Sit near front for views",
+            "Store carry-ons"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:00 PM - 7:01 PM",
+          "activity": "Walk to Hotel Carlton",
+          "location": "Hotel Carlton (Santa Croce 578)",
+          "mapLink": [
+            "https://maps.app.goo.gl/HotelCarl",
+            "https://maps.app.goo.gl/nSantaCroce578"
+          ],
+          "directions": [
+            "Exit Ferrovia stop (front of Santa Lucia Station), cross street (crosswalk, 10m), turn left, walk 40m along Rio Terà Lista di Spagna (~1 min, 50m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Hotel Carlton (Santa Croce 578)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "No bridges, flat path",
+            "watch for cyclists"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:01 PM - 7:30 PM",
+          "activity": "Check-in at Hotel Carlton",
+          "location": "Hotel Carlton (Santa Croce 578)",
+          "mapLink": [
+            "https://maps.app.goo.gl/HotelCarl",
+            "https://maps.app.goo.gl/nSantaCroce578"
+          ],
+          "directions": [
+            "At hotel front desk"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at Hotel Carlton (Santa Croce 578)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €150-200 (booked, Priceline Ref: 784-525-885-17, Conf #: 4929039618)",
+            "€10 cash for tips (e"
+          ],
+          "costsAndNotes": [
+            "Cost: €150-200 (booked, Priceline Ref: 784-525-885-17, Conf #: 4929039618)",
+            "Request canal-view room",
+            "Confirm luggage storage for Day 2",
+            "Use Apple Pay for incidentals",
+            "€10 cash for tips (e",
+            "g",
+            ", bellhop)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:30 PM - 8:30 PM",
+          "activity": "Dinner at La Cupola",
+          "location": "La Cupola (Hotel Carlton restaurant)",
+          "mapLink": [
+            "https://maps.app.goo.gl/LaCupolaHotelCarl",
+            "https://maps.app.goo.gl/nrestaurant"
+          ],
+          "directions": [
+            "No walking needed (on-site)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy dinner at la cupola at La Cupola (Hotel Carlton restaurant)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €60-80 (€15-20/person, Apple Pay",
+            "€5 cash tip optional)"
+          ],
+          "costsAndNotes": [
+            "Cost: €60-80 (€15-20/person, Apple Pay",
+            "€5 cash tip optional)",
+            "Italian classics (pasta, pizza)",
+            "Order penne pomodoro for teens",
+            "Kids can share dishes"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "8:30 PM Onward",
+          "activity": "Relax at hotel",
+          "location": "Hotel Carlton (Santa Croce 578)",
+          "mapLink": [
+            "https://maps.app.goo.gl/HotelCarl",
+            "https://maps.app.goo.gl/nSantaCroce578"
+          ],
+          "directions": [
+            "N/A"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Hotel Carlton (Santa Croce 578)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Unpack minimally",
+            "Early night for slow Day 2 start"
+          ],
+          "type": [
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Milan, Venice",
+      "date": "July 4, 2025",
+      "activities": [
+        {
+          "time": "8:30 AM - 9:30 AM",
+          "activity": "Breakfast at Hotel Carlton",
+          "location": "Hotel Carlton (Santa Croce 578)",
+          "mapLink": [
+            "https://maps.app.goo.gl/HotelCarl",
+            "https://maps.app.goo.gl/nSantaCroce578"
+          ],
+          "directions": [
+            "No walking needed (on-site)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at hotel carlton at Hotel Carlton (Santa Croce 578)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €40-60 (included or Apple Pay",
+            "€5 cash tip optional)"
+          ],
+          "costsAndNotes": [
+            "Cost: €40-60 (included or Apple Pay",
+            "€5 cash tip optional)",
+            "Kids can pick cereals",
+            "Pack water bottles for the day"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "9:30 AM - 9:45 AM",
+          "activity": "Check out and store luggage",
+          "location": "Hotel Carlton (Santa Croce 578)",
+          "mapLink": [
+            "https://maps.app.goo.gl/HotelCarl",
+            "https://maps.app.goo.gl/nSantaCroce578"
+          ],
+          "directions": [
+            "At hotel front desk"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at Hotel Carlton (Santa Croce 578).",
+            "Handle luggage at Hotel Carlton (Santa Croce 578)."
+          ],
+          "ticketsToBuy": [
+            "Cost: Free (€5 cash tip optional)"
+          ],
+          "costsAndNotes": [
+            "Cost: Free (€5 cash tip optional)",
+            "Store luggage for later retrieval"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "9:45 AM - 9:47 AM",
+          "activity": "Walk to Ferrovia Vaporetto stop",
+          "location": "Ferrovia Vaporetto Stop",
+          "mapLink": [
+            "https://maps.app.goo.gl/FerroviaVaporet",
+            "https://maps.app.goo.gl/S",
+            "https://maps.app.goo.gl/p"
+          ],
+          "directions": [
+            "Exit hotel, cross street to Santa Lucia Station (10m), turn right, walk 40m to Ferrovia stop (~2 min, 50m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Ferrovia Vaporetto Stop.",
+            "Travel to Ferrovia Vaporetto Stop."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "9:47 AM - 10:07 AM",
+          "activity": "Vaporetto to Campo San Barnaba",
+          "location": "From Ferrovia to Campo San Barnaba",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromFerrovia",
+            "https://maps.app.goo.gl/CampoSanBarnaba"
+          ],
+          "directions": [
+            "Board Line 1 at Ferrovia to Ca’ Rezzonico",
+            "Exit, turn right on Fondamenta Rezzonico (50m), left on Calle del Traghetto (50m), right into Campo San Barnaba (50m, ~3 min, 150m)"
+          ],
+          "transportation": [
+            "Vaporetto Line 1 to Ca’ Rezzonico (~15 min)"
+          ],
+          "thingsToDo": [
+            "Travel to From Ferrovia to Campo San Barnaba."
+          ],
+          "ticketsToBuy": [
+            "Cost: €15 (24-hour pass/family, Apple Pay",
+            "€15 cash backup)"
+          ],
+          "costsAndNotes": [
+            "Cost: €15 (24-hour pass/family, Apple Pay",
+            "€15 cash backup)",
+            "Board early for seats",
+            "Arrive ~10:07 AM"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "10:07 AM - 10:30 AM",
+          "activity": "Arrive at Campo San Barnaba, prepare for gondola",
+          "location": "Campo San Barnaba",
+          "mapLink": "https://maps.app.goo.gl/CampoSanBarnaba",
+          "directions": [
+            "At Campo San Barnaba (no additional walking)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Arrive at Campo San Barnaba."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Prepare for gondola ride"
+          ],
+          "type": [
+            "travel",
+            "activity"
+          ]
+        },
+        {
+          "time": "10:30 AM - 11:00 AM",
+          "activity": "Gondola Ride",
+          "location": "Campo San Barnaba gondola station",
+          "mapLink": "https://maps.app.goo.gl/CampoSanBarnabagondolastation",
+          "directions": [
+            "At Campo San Barnaba gondola station"
+          ],
+          "transportation": [
+            "Gondola (~30 min, booked via GetYourGuide)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Gondola Ride."
+          ],
+          "ticketsToBuy": [
+            "Cost: €90 (Apple Pay/cash)"
+          ],
+          "costsAndNotes": [
+            "Cost: €90 (Apple Pay/cash)",
+            "Kid-friendly gondolier",
+            "Seat kids in middle for safety"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:00 AM - 11:03 AM",
+          "activity": "Walk to Gelateria Nico",
+          "location": "Gelateria Nico (near canal)",
+          "mapLink": "https://maps.app.goo.gl/GelateriaNiconearcanal",
+          "directions": [
+            "Exit gondola, walk east across Campo San Barnaba (50m), turn left on Calle del Pistor (50m), arrive at Gelateria Nico (~3 min, 150m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Gelateria Nico (near canal)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:03 AM - 11:30 AM",
+          "activity": "Gelato at Gelateria Nico",
+          "location": "Gelateria Nico (near canal)",
+          "mapLink": "https://maps.app.goo.gl/GelateriaNiconearcanal",
+          "directions": [
+            "At Gelateria Nico"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy gelato at gelateria nico at Gelateria Nico (near canal)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €12-20 (€3-5/person, Apple Pay",
+            "€5 cash backup, €1-2 cash for restrooms)"
+          ],
+          "costsAndNotes": [
+            "Cost: €12-20 (€3-5/person, Apple Pay",
+            "€5 cash backup, €1-2 cash for restrooms)",
+            "Try pistachio or stracciatella",
+            "Relax by canal"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "11:30 AM - 11:33 AM",
+          "activity": "Walk to Ca’ Rezzonico Vaporetto stop",
+          "location": "Ca’ Rezzonico Vaporetto Stop",
+          "mapLink": [
+            "https://maps.app.goo.gl/Ca’RezzonicoVaporet",
+            "https://maps.app.goo.gl/S",
+            "https://maps.app.goo.gl/p"
+          ],
+          "directions": [
+            "Exit Gelateria Nico, turn right on Calle del Pistor (50m), right on Fondamenta Rezzonico (50m), arrive at Ca’ Rezzonico stop (~3 min, 150m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Ca’ Rezzonico Vaporetto Stop.",
+            "Travel to Ca’ Rezzonico Vaporetto Stop."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:33 AM - 11:45 AM",
+          "activity": "Vaporetto to St. Mark’s Square",
+          "location": "From Ca’ Rezzonico to St. Mark’s Square",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromCa’Rezzonico",
+            "https://maps.app.goo.gl/St.Mark’sSquare"
+          ],
+          "directions": [
+            "Board Line 1 at Ca’ Rezzonico to San Zaccaria",
+            "Exit, walk straight on Riva degli Schiavoni (50m), turn left into Calle delle Rasse (30m), arrive at St",
+            "Mark’s Square (20m, ~2 min, 100m)"
+          ],
+          "transportation": [
+            "Vaporetto Line 1 to San Zaccaria (~10 min)"
+          ],
+          "thingsToDo": [
+            "Travel to From Ca’ Rezzonico to St. Mark’s Square."
+          ],
+          "ticketsToBuy": [
+            "Store tickets for re-boarding"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in 24-hour pass",
+            "Store tickets for re-boarding",
+            "Busy area",
+            "Arrive ~11:45 AM"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:45 AM - 12:15 PM",
+          "activity": "Explore St. Mark’s Square (Exterior)",
+          "location": "St. Mark’s Square",
+          "mapLink": "https://maps.app.goo.gl/St.Mark’sSquare",
+          "directions": [
+            "At St",
+            "Mark’s Square"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at St. Mark’s Square."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "View St",
+            "Mark’s Basilica, Doge’s Palace, Bridge of Sighs",
+            "Take photos",
+            "in crowds"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:15 PM - 12:20 PM",
+          "activity": "Walk to Trattoria Al Gazzettino",
+          "location": "Trattoria Al Gazzettino (San Marco 4973)",
+          "mapLink": [
+            "https://maps.app.goo.gl/Trat",
+            "https://maps.app.goo.gl/riaAlGazzettinoSanMarco4973"
+          ],
+          "directions": [
+            "Exit St",
+            "Mark’s Square (eastern side, near Bridge of Sighs), walk straight on Calle delle Rasse (150m), turn left on Calle de la Rizza (100m), arrive at Trattoria (~5 min, 300m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Trattoria Al Gazzettino (San Marco 4973)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Busy area"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:20 PM - 1:20 PM",
+          "activity": "Lunch at Trattoria Al Gazzettino",
+          "location": "Trattoria Al Gazzettino (San Marco 4973)",
+          "mapLink": [
+            "https://maps.app.goo.gl/Trat",
+            "https://maps.app.goo.gl/riaAlGazzettinoSanMarco4973"
+          ],
+          "directions": [
+            "At Trattoria Al Gazzettino"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy lunch at trattoria al gazzettino at Trattoria Al Gazzettino (San Marco 4973)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €60-80 (€15-20/person, Apple Pay",
+            "€5 cash tip optional)"
+          ],
+          "costsAndNotes": [
+            "Cost: €60-80 (€15-20/person, Apple Pay",
+            "€5 cash tip optional)",
+            "Pasta, pizza",
+            "Reserved for 1:15 PM",
+            "arrive early",
+            "Kids can share dishes"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "1:20 PM - 1:25 PM",
+          "activity": "Walk to San Marco area for free time",
+          "location": "St. Mark’s Square",
+          "mapLink": "https://maps.app.goo.gl/St.Mark’sSquare",
+          "directions": [
+            "Exit Trattoria, turn right on Calle de la Rizza (100m), right on Calle delle Rasse (150m), arrive at St",
+            "Mark’s Square (~5 min, 300m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to St. Mark’s Square.",
+            "Explore or relax at St. Mark’s Square."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Busy area"
+          ],
+          "type": [
+            "travel",
+            "activity"
+          ]
+        },
+        {
+          "time": "1:25 PM - 3:00 PM",
+          "activity": "Free Time in San Marco Area",
+          "location": "San Marco Area (St. Mark’s Square or Libreria Acqua Alta)",
+          "mapLink": "https://maps.app.goo.gl/SanMarcoAreaSt.Mark’sSquareorLibreriaAcquaAlta",
+          "directions": [
+            "Option 1: Stay in St",
+            "Mark’s Square",
+            "Option 2: For Libreria Acqua Alta, head north on Salizada San Provolo (200m), turn right on Calle Lunga Santa Maria Formosa (200m), arrive at Libreria Acqua Alta (~10 min, 500m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at San Marco Area (St. Mark’s Square or Libreria Acqua Alta)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €10-20 (souvenirs, Apple Pay",
+            "€20 cash backup)"
+          ],
+          "costsAndNotes": [
+            "Cost: €10-20 (souvenirs, Apple Pay",
+            "€20 cash backup)",
+            "Set souvenir budget",
+            "Crowded areas"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "3:00 PM - 3:03 PM",
+          "activity": "Walk to San Zaccaria Vaporetto stop",
+          "location": "San Zaccaria Vaporetto Stop",
+          "mapLink": [
+            "https://maps.app.goo.gl/SanZaccariaVaporet",
+            "https://maps.app.goo.gl/S",
+            "https://maps.app.goo.gl/p"
+          ],
+          "directions": [
+            "From St",
+            "Mark’s Square, walk straight on Calle delle Rasse (50m), turn right on Riva degli Schiavoni (50m), arrive at San Zaccaria stop (~3 min, 100m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to San Zaccaria Vaporetto Stop.",
+            "Travel to San Zaccaria Vaporetto Stop."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Busy area",
+            "Adjust route if at Libreria Acqua Alta"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "3:03 PM - 3:43 PM",
+          "activity": "Vaporetto to Ferrovia",
+          "location": "From San Zaccaria to Ferrovia",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromSanZaccaria",
+            "https://maps.app.goo.gl/Ferrovia"
+          ],
+          "directions": [
+            "Board Line 1 at San Zaccaria to Ferrovia"
+          ],
+          "transportation": [
+            "Vaporetto Line 1 (~40 min)"
+          ],
+          "thingsToDo": [
+            "Travel to From San Zaccaria to Ferrovia."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Included in 24-hour pass",
+            "Board early for seats"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "3:43 PM - 3:45 PM",
+          "activity": "Walk to Hotel Carlton",
+          "location": "Hotel Carlton (Santa Croce 578)",
+          "mapLink": [
+            "https://maps.app.goo.gl/HotelCarl",
+            "https://maps.app.goo.gl/nSantaCroce578"
+          ],
+          "directions": [
+            "Exit Ferrovia stop, cross street (crosswalk, 10m), turn left, walk 40m along Rio Terà Lista di Spagna (~2 min, 50m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Hotel Carlton (Santa Croce 578)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "3:45 PM - 4:00 PM",
+          "activity": "Retrieve luggage from Hotel Carlton",
+          "location": "Hotel Carlton (Santa Croce 578)",
+          "mapLink": [
+            "https://maps.app.goo.gl/HotelCarl",
+            "https://maps.app.goo.gl/nSantaCroce578"
+          ],
+          "directions": [
+            "At hotel front desk"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Handle luggage at Hotel Carlton (Santa Croce 578)."
+          ],
+          "ticketsToBuy": [
+            "Cost: Free (€5 cash tip optional)"
+          ],
+          "costsAndNotes": [
+            "Cost: Free (€5 cash tip optional)",
+            "Retrieve stored luggage"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "4:00 PM - 4:02 PM",
+          "activity": "Walk to Venezia Santa Lucia Station",
+          "location": "Venezia Santa Lucia Station",
+          "mapLink": "https://maps.app.goo.gl/VeneziaSantaLuciaStation",
+          "directions": [
+            "Exit hotel, cross street (10m), enter station (~2 min, 50m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Venezia Santa Lucia Station."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "4:02 PM - 6:18 PM",
+          "activity": "At Venezia Santa Lucia Station",
+          "location": "Venezia Santa Lucia Station",
+          "mapLink": "https://maps.app.goo.gl/VeneziaSantaLuciaStation",
+          "directions": [
+            "Look for “FrecciaClub” lounge signs",
+            "Check platform screens for “Frecciarossa 9754” by 6:08 PM"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: At Venezia Santa Lucia Station."
+          ],
+          "ticketsToBuy": [
+            "Cost: €20-30 (snacks, Apple Pay",
+            "€5 cash tip optional)",
+            "Access FrecciaClub lounge (included with FrecciaFAMILY/BUSINESS ticket)"
+          ],
+          "costsAndNotes": [
+            "Cost: €20-30 (snacks, Apple Pay",
+            "€5 cash tip optional)",
+            "Access FrecciaClub lounge (included with FrecciaFAMILY/BUSINESS ticket)",
+            "Kids can use amenities (e",
+            "g",
+            ", coloring books)"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "6:18 PM - 8:45 PM",
+          "activity": "Train to Milan",
+          "location": "From Venezia Santa Lucia to Milano Centrale",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromVeneziaSantaLucia",
+            "https://maps.app.goo.gl/MilanoCentrale"
+          ],
+          "directions": [
+            "Board Frecciarossa 9754 by 6:08 PM"
+          ],
+          "transportation": [
+            "Frecciarossa 9754 (~2h 27m, PNR: XJTRUN, Coach 3, Seats 1A, 1B, 2A, 2B)"
+          ],
+          "thingsToDo": [
+            "Travel to From Venezia Santa Lucia to Milano Centrale."
+          ],
+          "ticketsToBuy": [
+            "Cost: €49 (FrecciaFAMILY/BUSINESS, booked)"
+          ],
+          "costsAndNotes": [
+            "Cost: €49 (FrecciaFAMILY/BUSINESS, booked)",
+            "Non-stop",
+            "Wider seats, complimentary snacks/drinks, kid-friendly amenities",
+            "Free Wi-Fi"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "20:45:00",
+          "activity": "Arrive at Milano Centrale",
+          "location": "Milano Centrale Station",
+          "mapLink": "https://maps.app.goo.gl/MilanoCentraleStation",
+          "directions": [
+            "Follow “Exit” signs (~5 min, 200m, flat, escalators)"
+          ],
+          "transportation": [
+            "Frecciarossa 9754 from Venice (~2h 27m, PNR: XJTRUN, Coach 3, Seats 1A, 1B, 2A, 2B)"
+          ],
+          "thingsToDo": [
+            "Arrive at Milano Centrale Station."
+          ],
+          "ticketsToBuy": [
+            "Cost: €49 (FrecciaFAMILY/BUSINESS, booked)",
+            "FRECCIABistrò/EasyFood (veggie sandwich/salad, €4-10, cash, €15-20 ready)",
+            "Visit Bistrò ~6:30 PM or bring Venice snacks (€5-10, cash)"
+          ],
+          "costsAndNotes": [
+            "Cost: €49 (FrecciaFAMILY/BUSINESS, booked)",
+            "Busy station",
+            "Train food: Free Business Class snacks (taralli, juice)",
+            "FRECCIABistrò/EasyFood (veggie sandwich/salad, €4-10, cash, €15-20 ready)",
+            "Visit Bistrò ~6:30 PM or bring Venice snacks (€5-10, cash)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "8:45 PM - 8:50 PM",
+          "activity": "Withdraw cash",
+          "location": "Milano Centrale Station",
+          "mapLink": "https://maps.app.goo.gl/MilanoCentraleStation",
+          "directions": [
+            "At station ATM (near ticket counters)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Withdraw cash."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€100 withdrawal (fee ~€2-3, cash only)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€100 withdrawal (fee ~€2-3, cash only)"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "8:50 PM - 8:55 PM",
+          "activity": "Walk to taxi stand",
+          "location": "Taxi Stand, Milano Centrale",
+          "mapLink": "https://maps.app.goo.gl/TaxiStand,MilanoCentrale",
+          "directions": [
+            "Exit main entrance, turn right, follow “Taxi” signs (~5 min, 100m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Taxi Stand, Milano Centrale.",
+            "Travel to Taxi Stand, Milano Centrale."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path, busy area"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "8:55 PM - 9:10 PM",
+          "activity": "Taxi to NH Collection Porta Nuova",
+          "location": "NH Collection Porta Nuova (Via Melchiorre Gioia 6)",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuovaViaMelchiorreGioia6",
+          "directions": [
+            "Board taxi at station",
+            "Drop off at hotel"
+          ],
+          "transportation": [
+            "Taxi (~10-15 min)"
+          ],
+          "thingsToDo": [
+            "Travel to NH Collection Porta Nuova (Via Melchiorre Gioia 6)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €10-15 (cash, €20 ready)",
+            "€5 cash tip optional"
+          ],
+          "costsAndNotes": [
+            "Cost: €10-15 (cash, €20 ready)",
+            "Porters assist",
+            "€5 cash tip optional"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "9:10 PM - 9:30 PM",
+          "activity": "Check-in at NH Collection Porta Nuova",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "At hotel front desk"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at NH Collection Porta Nuova."
+          ],
+          "ticketsToBuy": [
+            "€20 cash deposit (refundable)"
+          ],
+          "costsAndNotes": [
+            "Cost: Booked (check-in from 15:00)",
+            "Request quiet, high-floor room with city views",
+            "€20 cash deposit (refundable)",
+            "Confirm check-out by 11:00 (Jul 6)",
+            "Modern hotel",
+            "kids relax in lounge"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "9:30 PM - 9:35 PM",
+          "activity": "Walk to Flower Burger",
+          "location": "Flower Burger (Via Amerigo Vespucci 9)",
+          "mapLink": "https://maps.app.goo.gl/FlowerBurgerViaAmerigoVespucci9",
+          "directions": [
+            "Exit hotel, turn left on Via Melchiorre Gioia, right on Via Amerigo Vespucci, left on Viale della Liberazione (~5 min, 350m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Flower Burger (Via Amerigo Vespucci 9)."
+          ],
+          "ticketsToBuy": [
+            "Taxi alternative: ~2 min, €8-12 (cash, €20 ready)"
+          ],
+          "costsAndNotes": [
+            "Flat path",
+            "Taxi alternative: ~2 min, €8-12 (cash, €20 ready)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "9:35 PM - 10:30 PM",
+          "activity": "Dinner at Flower Burger",
+          "location": "Flower Burger (Via Amerigo Vespucci 9)",
+          "mapLink": "https://maps.app.goo.gl/FlowerBurgerViaAmerigoVespucci9",
+          "directions": [
+            "At Flower Burger"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy dinner at flower burger at Flower Burger (Via Amerigo Vespucci 9)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €30-50 (booked for 9:45 PM via flowerburger",
+            "it, €5 cash tip optional)",
+            "Vegan burgers (spicy chickpea, ~€8-12/person)",
+            "Drinks: €5-10 (cash, EUR only)"
+          ],
+          "costsAndNotes": [
+            "Cost: €30-50 (booked for 9:45 PM via flowerburger",
+            "it, €5 cash tip optional)",
+            "Vegan burgers (spicy chickpea, ~€8-12/person)",
+            "Teen customizes spicy, 10-year-old likes fries",
+            "Casual vibe",
+            "reserve window table",
+            "Drinks: €5-10 (cash, EUR only)"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "10:30 PM - 10:35 PM",
+          "activity": "Walk back to hotel",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "Same route: right on Viale della Liberazione, left on Via Amerigo Vespucci, right on Via Melchiorre Gioia (~5 min, 350m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to NH Collection Porta Nuova."
+          ],
+          "ticketsToBuy": [
+            "Taxi alternative: ~2 min, €8-12 (cash, €20 ready)"
+          ],
+          "costsAndNotes": [
+            "Flat path",
+            "Taxi alternative: ~2 min, €8-12 (cash, €20 ready)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "10:35 PM Onward",
+          "activity": "Relax at hotel",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "N/A"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at NH Collection Porta Nuova."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Unpack essentials, early night",
+            "Kids use Wi-Fi",
+            "guide 10-year-old to bed"
+          ],
+          "type": [
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Milan",
+      "date": "July 5, 2025",
+      "activities": [
+        {
+          "time": "8:00 AM - 8:05 AM",
+          "activity": "Walk to Soulgreen",
+          "location": "Soulgreen (Piazza Gae Aulenti 8)",
+          "mapLink": "https://maps.app.goo.gl/SoulgreenPiazzaGaeAulenti8",
+          "directions": [
+            "Exit hotel, turn left on Via Melchiorre Gioia, right on Via Amerigo Vespucci (~5 min, 400m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Soulgreen (Piazza Gae Aulenti 8)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "8:05 AM - 9:05 AM",
+          "activity": "Breakfast at Soulgreen",
+          "location": "Soulgreen (Piazza Gae Aulenti 8)",
+          "mapLink": "https://maps.app.goo.gl/SoulgreenPiazzaGaeAulenti8",
+          "directions": [
+            "At Soulgreen"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at soulgreen at Soulgreen (Piazza Gae Aulenti 8)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €35-55 (booked for 8:15 AM via soulgreen",
+            "com, €5 cash tip optional)",
+            "Veggie focaccia/panini/sformato (~€7-10)",
+            "Drinks: €2-4",
+            "Drinks: €5-10 (cash, EUR only)"
+          ],
+          "costsAndNotes": [
+            "Cost: €35-55 (booked for 8:15 AM via soulgreen",
+            "com, €5 cash tip optional)",
+            "Veggie focaccia/panini/sformato (~€7-10)",
+            "Teen likes spicy panini, 10-year-old prefers mild focaccia",
+            "Drinks: €2-4",
+            "Luxurious vibe",
+            "reserve quiet table",
+            "Drinks: €5-10 (cash, EUR only)"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "9:05 AM - 9:15 AM",
+          "activity": "Taxi to Galleria Vittorio Emanuele II",
+          "location": "Galleria Vittorio Emanuele II (Piazza del Duomo)",
+          "mapLink": [
+            "https://maps.app.goo.gl/GalleriaVit",
+            "https://maps.app.goo.gl/rioEmanueleIIPiazzadelDuomo"
+          ],
+          "directions": [
+            "Board taxi at Soulgreen",
+            "Drop off at Piazza del Duomo"
+          ],
+          "transportation": [
+            "Taxi (~10 min)"
+          ],
+          "thingsToDo": [
+            "Travel to Galleria Vittorio Emanuele II (Piazza del Duomo)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €10-15 (cash, €20 ready)"
+          ],
+          "costsAndNotes": [
+            "Cost: €10-15 (cash, €20 ready)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "9:15 AM - 11:00 AM",
+          "activity": "Explore Galleria Vittorio Emanuele II",
+          "location": "Galleria Vittorio Emanuele II",
+          "mapLink": [
+            "https://maps.app.goo.gl/GalleriaVit",
+            "https://maps.app.goo.gl/rioEmanueleII"
+          ],
+          "directions": [
+            "At Galleria"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Galleria Vittorio Emanuele II."
+          ],
+          "ticketsToBuy": [
+            "Souvenirs: €5-10 (cash, EUR only)"
+          ],
+          "costsAndNotes": [
+            "Cost: Free (~1h 45m)",
+            "Luxury boutiques (Prada, Gucci)",
+            "Teen enjoys fashion, 10-year-old spins on bull mosaic",
+            "Calm morning",
+            "Souvenirs: €5-10 (cash, EUR only)",
+            "Supervise 10-year-old in crowds"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:00 AM - 11:05 AM",
+          "activity": "Walk to Peck",
+          "location": "Peck (Via Spadari 9)",
+          "mapLink": "https://maps.app.goo.gl/PeckViaSpadari9",
+          "directions": [
+            "Exit Galleria onto Piazza della Scala, left on Via Alessandro Manzoni, right on Via Gesù, left on Via Spadari (~5 min, 300m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Peck (Via Spadari 9)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:05 AM - 12:15 PM",
+          "activity": "Explore Peck",
+          "location": "Peck (Via Spadari 9)",
+          "mapLink": "https://maps.app.goo.gl/PeckViaSpadari9",
+          "directions": [
+            "At Peck"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Peck (Via Spadari 9)."
+          ],
+          "ticketsToBuy": [
+            "Cost: Free entry, purchases €20-40 (cash)",
+            "Set snack budget (olives, €5-15, cash)",
+            "Cafe bites: €10-15 (cash)"
+          ],
+          "costsAndNotes": [
+            "Cost: Free entry, purchases €20-40 (cash)",
+            "Veggie cheeses, pastas, snacks",
+            "Teen loves cheeses, 10-year-old tries breadsticks",
+            "Set snack budget (olives, €5-15, cash)",
+            "Cafe bites: €10-15 (cash)",
+            "Supervise 10-year-old near displays"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:15 PM - 12:20 PM",
+          "activity": "Walk to Panini Durini",
+          "location": "Panini Durini (Via San Prospero 4)",
+          "mapLink": "https://maps.app.goo.gl/PaniniDuriniViaSanProspero4",
+          "directions": [
+            "Exit Peck, left on Via Spadari, right on Via Victor Hugo, left on Via Orefici, right on Via Cordusio (~5 min, 350m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Panini Durini (Via San Prospero 4)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:20 PM - 1:30 PM",
+          "activity": "Lunch at Panini Durini",
+          "location": "Panini Durini (Via San Prospero 4)",
+          "mapLink": "https://maps.app.goo.gl/PaniniDuriniViaSanProspero4",
+          "directions": [
+            "At Panini Durini"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy lunch at panini durini at Panini Durini (Via San Prospero 4)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €30-50 (booked for 12:30 PM via paninidurini",
+            "it, €5 cash tip optional)",
+            "Veggie focaccia/panini/salad (~€7-12)",
+            "Drinks/gelato: €5-10 (cash)",
+            "Backup: California Bakery (Piazza San Fedele 1, €40-60, cash drinks €5-10)"
+          ],
+          "costsAndNotes": [
+            "Cost: €30-50 (booked for 12:30 PM via paninidurini",
+            "it, €5 cash tip optional)",
+            "Veggie focaccia/panini/salad (~€7-12)",
+            "Teen likes spicy focaccia, 10-year-old prefers mild",
+            "Casual vibe",
+            "reserve quiet table",
+            "Drinks/gelato: €5-10 (cash)",
+            "Backup: California Bakery (Piazza San Fedele 1, €40-60, cash drinks €5-10)"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "1:30 PM - 1:40 PM",
+          "activity": "Taxi to Brera District",
+          "location": "Brera District (Via Brera)",
+          "mapLink": "https://maps.app.goo.gl/BreraDistrictViaBrera",
+          "directions": [
+            "Board taxi at Panini Durini",
+            "Drop off at Via Brera (near Via Brera 28)"
+          ],
+          "transportation": [
+            "Taxi (~5 min)"
+          ],
+          "thingsToDo": [
+            "Travel to Brera District (Via Brera)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €8-12 (cash, €20 ready)"
+          ],
+          "costsAndNotes": [
+            "Cost: €8-12 (cash, €20 ready)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "1:40 PM - 3:30 PM",
+          "activity": "Explore Brera District & Orto Botanico di Brera",
+          "location": "Brera District & Orto Botanico di Brera",
+          "mapLink": [
+            "https://maps.app.goo.gl/BreraDistrict&Or",
+            "https://maps.app.goo.gl/BotanicodiBrera"
+          ],
+          "directions": [
+            "At Brera District; walk to Orto Botanico (~45 min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Brera District & Orto Botanico di Brera."
+          ],
+          "ticketsToBuy": [
+            "Street snacks: €5-10 (cash, EUR only)"
+          ],
+          "costsAndNotes": [
+            "Cost: Free (~1h 50m)",
+            "Cobblestone streets, luxury boutiques",
+            "Teen enjoys photos, 10-year-old loves streets",
+            "Orto Botanico: serene garden, kids relax",
+            "Street snacks: €5-10 (cash, EUR only)"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "3:30 PM - 3:40 PM",
+          "activity": "Taxi to Navigli District",
+          "location": "Navigli District (Alzaia Naviglio Grande)",
+          "mapLink": "https://maps.app.goo.gl/NavigliDistrictAlzaiaNaviglioGrande",
+          "directions": [
+            "Board taxi at Brera",
+            "Drop off at Alzaia Naviglio Grande (near Alzaia Naviglio Grande 4)"
+          ],
+          "transportation": [
+            "Taxi (~10 min)"
+          ],
+          "thingsToDo": [
+            "Travel to Navigli District (Alzaia Naviglio Grande)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €10-15 (cash, €20 ready)"
+          ],
+          "costsAndNotes": [
+            "Cost: €10-15 (cash, €20 ready)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "3:40 PM - 5:00 PM",
+          "activity": "Explore Navigli District",
+          "location": "Navigli District (Alzaia Naviglio Grande)",
+          "mapLink": "https://maps.app.goo.gl/NavigliDistrictAlzaiaNaviglioGrande",
+          "directions": [
+            "At Navigli District"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Navigli District (Alzaia Naviglio Grande)."
+          ],
+          "ticketsToBuy": [
+            "Purchases: €5-15 (cash, EUR only)"
+          ],
+          "costsAndNotes": [
+            "Cost: Free (~1h 20m)",
+            "Canal-side stroll, artisan shops, vintage market",
+            "Teen enjoys views, 10-year-old loves boats",
+            "Purchases: €5-15 (cash, EUR only)",
+            "Supervise 10-year-old near water"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "5:00 PM - 5:15 PM",
+          "activity": "Taxi to hotel",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "Board taxi at Navigli",
+            "Drop off at Via Melchiorre Gioia 6"
+          ],
+          "transportation": [
+            "Taxi (~15 min)"
+          ],
+          "thingsToDo": [
+            "Travel to NH Collection Porta Nuova."
+          ],
+          "ticketsToBuy": [
+            "Cost: €10-15 (cash, €20 ready)"
+          ],
+          "costsAndNotes": [
+            "Cost: €10-15 (cash, €20 ready)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "5:15 PM - 7:00 PM",
+          "activity": "Rest at hotel",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "N/A"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Rest at hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Kids relax (Wi-Fi, TV)",
+            "prepare for evening"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "7:00 PM - 7:10 PM",
+          "activity": "Walk to Cioccolatitaliani",
+          "location": "Cioccolatitaliani (Piazza Gae Aulenti 1)",
+          "mapLink": "https://maps.app.goo.gl/CioccolatitalianiPiazzaGaeAulenti1",
+          "directions": [
+            "Exit hotel, left on Via Melchiorre Gioia, right on Via Amerigo Vespucci (~5 min, 400m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Cioccolatitaliani (Piazza Gae Aulenti 1)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:10 PM - 8:20 PM",
+          "activity": "Dinner at Cioccolatitaliani",
+          "location": "Cioccolatitaliani (Piazza Gae Aulenti 1)",
+          "mapLink": "https://maps.app.goo.gl/CioccolatitalianiPiazzaGaeAulenti1",
+          "directions": [
+            "At Cioccolatitaliani"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy dinner at cioccolatitaliani at Cioccolatitaliani (Piazza Gae Aulenti 1)."
+          ],
+          "ticketsToBuy": [
+            "Cost: €30-50 (booked for 7:15 PM via cioccolatitaliani",
+            "it, €5 cash tip optional)",
+            "Veggie panini/salad/crepes (~€8-12/person)",
+            "Drinks: €5-10 (cash, EUR only)"
+          ],
+          "costsAndNotes": [
+            "Cost: €30-50 (booked for 7:15 PM via cioccolatitaliani",
+            "it, €5 cash tip optional)",
+            "Veggie panini/salad/crepes (~€8-12/person)",
+            "Teen likes spicy panini, 10-year-old prefers mild crepe",
+            "Modern vibe",
+            "reserve quiet table",
+            "Drinks: €5-10 (cash, EUR only)"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "8:20 PM - 8:30 PM",
+          "activity": "Walk back to hotel",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "Same route: left on Via Amerigo Vespucci, right on Via Melchiorre Gioia (~5 min, 400m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to NH Collection Porta Nuova."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "8:30 PM Onward",
+          "activity": "Relax at hotel",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "N/A"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at NH Collection Porta Nuova."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Early night for train to Lucerne"
+          ],
+          "type": [
+            "travel",
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Grindelwald",
+      "date": "July 6, 2025",
+      "activities": [
+        {
+          "time": "18:00:00",
+          "activity": "Arrive at Grindelwald Station",
+          "location": "Grindelwald Bahnhof",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhof",
+          "directions": [
+            "Follow “Exit” signs (~2 min, 50m, flat)"
+          ],
+          "transportation": [
+            "Train from Lucerne (~2h 30m, booked via sbb",
+            "ch, 1st class, Swiss Family Card for free child fares)"
+          ],
+          "thingsToDo": [
+            "Arrive at Grindelwald Bahnhof."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: ~CHF 80-100/adult (1st class, booked)",
+            "Busy station",
+            "Train snacks: Bring from Lucerne (~CHF 5-10, cash) or buy at station kiosk (~CHF 10-15, Apple Pay)",
+            "Kids carry light bags"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:00 PM - 6:05 PM",
+          "activity": "Withdraw cash",
+          "location": "Grindelwald Bahnhof",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhof",
+          "directions": [
+            "At station ATM (near ticket office)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Withdraw cash."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: ~CHF 100 withdrawal (fee ~CHF 2-3, cash only)",
+            "Check Apple Pay for nearby vendors"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "6:05 PM - 6:10 PM",
+          "activity": "Walk to taxi stand",
+          "location": "Taxi Stand, Grindelwald Bahnhof",
+          "mapLink": "https://maps.app.goo.gl/TaxiStand,GrindelwaldBahnhof",
+          "directions": [
+            "Exit station, turn left, follow “Taxi” signs (~2 min, 50m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Taxi Stand, Grindelwald Bahnhof.",
+            "Travel to Taxi Stand, Grindelwald Bahnhof."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat path, small station"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:10 PM - 6:15 PM",
+          "activity": "Taxi to Eiger Mountain & Soul Resort",
+          "location": "Eiger Mountain & Soul Resort (Dorfstrasse 133)",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResortDorfstrasse133",
+          "directions": [
+            "Board taxi at station",
+            "Drop off at hotel"
+          ],
+          "transportation": [
+            "Taxi (~5 min)"
+          ],
+          "thingsToDo": [
+            "Travel to Eiger Mountain & Soul Resort (Dorfstrasse 133)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: CHF 10-15 (cash, CHF 20 ready)",
+            "Porters assist",
+            "CHF 5 cash tip optional"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:15 PM - 6:35 PM",
+          "activity": "Check-in at Eiger Mountain & Soul Resort",
+          "location": "Eiger Mountain & Soul Resort",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
+          "directions": [
+            "At hotel front desk"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at Eiger Mountain & Soul Resort."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Booked (check-in from 15:00)",
+            "Request quiet, high-floor room with valley views",
+            "CHF 20 cash deposit (refundable)",
+            "Confirm check-out by 11:00 (Jul 8)",
+            "Luxurious hotel",
+            "kids relax in lounge with Wi-Fi"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:35 PM - 6:45 PM",
+          "activity": "Walk to Restaurant Barry’s",
+          "location": "Restaurant Barry’s (Dorfstrasse 133, inside hotel)",
+          "mapLink": "https://maps.app.goo.gl/RestaurantBarry’sDorfstrasse133,insidehotel",
+          "directions": [
+            "At hotel restaurant (no walking needed)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Restaurant Barry’s (Dorfstrasse 133, inside hotel)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Inside hotel, convenient after travel"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:45 PM - 8:00 PM",
+          "activity": "Dinner at Restaurant Barry’s",
+          "location": "Restaurant Barry’s",
+          "mapLink": "https://maps.app.goo.gl/RestaurantBarry’s",
+          "directions": [
+            "At Restaurant Barry’s"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy dinner at restaurant barry’s at Restaurant Barry’s."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: CHF 80-120 (booked for 7:00 PM via eigermountainandsoul",
+            "com, CHF 5-10 cash tip optional)",
+            "Vegetarian options (veggie tartare, mushroom risotto, ~CHF 20-30/person)",
+            "Teen likes spicy pasta, 10-year-old prefers mild pizza",
+            "Upscale yet cozy vibe",
+            "reserve table with Eiger view",
+            "Drinks: CHF 5-15 (Apple Pay likely)"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "8:00 PM Onward",
+          "activity": "Relax at hotel",
+          "location": "Eiger Mountain & Soul Resort",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
+          "directions": [
+            "N/A"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Eiger Mountain & Soul Resort."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Unpack essentials, early night",
+            "Kids use Wi-Fi",
+            "guide 10-year-old to bed",
+            "Hotel lounge has board games for family"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "8:00 AM - 8:30 AM",
+          "activity": "Breakfast at hotel",
+          "location": "Eiger Mountain & Soul Resort",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
+          "directions": [
+            "Buffet with veggie options (muesli, cheese, croissants, fruits, yogurt)",
+            "Pack picnic (cheese/bread, ~CHF 4-9/person from hotel/Coop)",
+            "Request quiet table"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at hotel at Eiger Mountain & Soul Resort."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Included (~CHF 20-30 value)",
+            "Teen likes granola, 10-year-old prefers pastries",
+            "Drinks: Coffee, juice included"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "8:30 AM - 8:45 AM",
+          "activity": "Walk to First cable car station",
+          "location": "Grindelwald First Cable Car Station",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldFirstCableCarStation",
+          "directions": [
+            "Exit hotel, left on Dorfstrasse, ~5-10 min walk (300m) to station",
+            "Flat path"
+          ],
+          "transportation": [
+            "Walk (~5-10 min)"
+          ],
+          "thingsToDo": [
+            "Walk to Grindelwald First Cable Car Station."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Supervise 10-year-old in morning crowds"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "8:45 AM - 9:15 AM",
+          "activity": "Cable car to Grindelwald First",
+          "location": "Grindelwald First",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldFirst",
+          "directions": [
+            "Board cable car (~8:45 AM, check jungfrau",
+            "ch)",
+            "Scenic 25-min ride with Eiger/valley views",
+            "Buy tickets on-site"
+          ],
+          "transportation": [
+            "Cable car (~25 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Cable car to Grindelwald First."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: CHF 68/adult round-trip, CHF 34/kids 6-15 (Apple Pay)",
+            "Swiss Travel Pass may cover",
+            "Teen enjoys views"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "9:15 AM - 9:45 AM",
+          "activity": "First Cliff Walk",
+          "location": "Grindelwald First",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldFirst",
+          "directions": [
+            "Explore suspended walkway (15 min) for Eiger, Mönch, Jungfrau views",
+            "Take photos from platform",
+            "No booking needed"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Grindelwald First."
+          ],
+          "ticketsToBuy": [
+            "Cost: Free with cable car ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Free with cable car ticket",
+            "Unique: Swiss engineering, iconic vistas",
+            "Supervise 10-year-old near edges"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "9:45 AM - 12:05 PM",
+          "activity": "Bachalpsee Lake hike with picnic",
+          "location": "Bachalpsee (via Grindelwald First)",
+          "mapLink": "https://maps.app.goo.gl/BachalpseeviaGrindelwaldFirst",
+          "directions": [
+            "Hike to Bachalpsee (2",
+            "5 km one-way, 45 min, easy)",
+            "Enjoy lake with Schreckhorn reflection",
+            "Picnic (20 min, cheese/bread)",
+            "Return (5 km total)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Bachalpsee Lake hike with picnic."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Picnic CHF 4-9/person",
+            "Unique: Iconic Swiss lake, alpine picnic",
+            "Teen loves photos, 10-year-old enjoys trails"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:05 PM - 12:35 PM",
+          "activity": "Cable car back to Grindelwald",
+          "location": "Grindelwald First Cable Car Station",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldFirstCableCarStation",
+          "directions": [
+            "Return via cable car (25 min)",
+            "Optional drink at First café (~CHF 5-10, cash/Apple Pay)"
+          ],
+          "transportation": [
+            "Cable car (~25 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Cable car back to Grindelwald."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in round-trip ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in round-trip ticket",
+            "Supervise kids during boarding"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:35 PM - 12:50 PM",
+          "activity": "Walk to Glacier Gorge",
+          "location": "Gletscherschlucht (Glacier Gorge)",
+          "mapLink": "https://maps.app.goo.gl/GletscherschluchtGlacierGorge",
+          "directions": [
+            "Walk from cable car station via Dorfstrasse to Gletscherschlucht entrance (~15 min, 1 km)",
+            "Flat path, scenic village views"
+          ],
+          "transportation": [
+            "Walk (~15 min)"
+          ],
+          "thingsToDo": [
+            "Walk to Gletscherschlucht (Glacier Gorge)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Supervise 10-year-old on village paths"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:50 PM - 2:20 PM",
+          "activity": "Explore Glacier Gorge",
+          "location": "Gletscherschlucht",
+          "mapLink": "https://maps.app.goo.gl/Gletscherschlucht",
+          "directions": [
+            "Explore 1-km walkway with tunnels, waterfalls, “spiderweb” net (~1h 30m)",
+            "Self-guided, no booking needed"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Gletscherschlucht."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: CHF 19/adult, CHF 10/kids 6-16, free under 6 (Apple Pay)",
+            "Teen loves photos, 10-year-old enjoys net",
+            "Supervise near edges"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "2:20 PM - 2:35 PM",
+          "activity": "Walk to Restaurant Barry’s",
+          "location": "Restaurant Barry’s (Dorfstrasse 133)",
+          "mapLink": "https://maps.app.goo.gl/RestaurantBarry’sDorfstrasse133",
+          "directions": [
+            "Walk from Gletscherschlucht via Dorfstrasse to restaurant (~15 min, 1 km)",
+            "Flat path, scenic chalet views"
+          ],
+          "transportation": [
+            "Walk (~15 min)"
+          ],
+          "thingsToDo": [
+            "Walk to Restaurant Barry’s (Dorfstrasse 133)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Taxi alternative: ~5 min, CHF 10-15 (cash, CHF 20 ready)",
+            "Supervise 10-year-old"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "2:35 PM - 3:50 PM",
+          "activity": "Lunch at Restaurant Barry’s",
+          "location": "Restaurant Barry’s",
+          "mapLink": "https://maps.app.goo.gl/RestaurantBarry’s",
+          "directions": [
+            "Vegetarian Swiss dishes (veggie fondue, rosti, ~CHF 20-30/person)",
+            "Reserve terrace table for Eiger views (booked for 2:45 PM via barrys",
+            "ch)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy lunch at restaurant barry’s at Restaurant Barry’s."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: CHF 80-120 (CHF 5-10 cash tip optional)",
+            "Teen likes spicy soup, 10-year-old prefers mild fondue",
+            "Apple Pay likely"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "3:50 PM - 4:00 PM",
+          "activity": "Walk to Dorfstrasse",
+          "location": "Dorfstrasse",
+          "mapLink": "https://maps.app.goo.gl/Dorfstrasse",
+          "directions": [
+            "Walk from restaurant to Dorfstrasse (~5 min, 300m)",
+            "Flat path, chalet-lined street"
+          ],
+          "transportation": [
+            "Walk (~5 min)"
+          ],
+          "thingsToDo": [
+            "Walk to Dorfstrasse."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Supervise 10-year-old in afternoon crowds"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "4:00 PM - 4:45 PM",
+          "activity": "Explore Dorfstrasse & shops",
+          "location": "Dorfstrasse",
+          "mapLink": "https://maps.app.goo.gl/Dorfstrasse",
+          "directions": [
+            "Stroll Dorfstrasse, visit boutiques (Swiss chocolate, crafts)",
+            "See chalets, Eiger backdrop",
+            "(~45 min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Dorfstrasse."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free, souvenirs CHF 10-20 (cash, some Apple Pay)",
+            "Teen loves photos, 10-year-old likes chocolate shops"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "4:45 PM - 4:55 PM",
+          "activity": "Walk to hotel",
+          "location": "Eiger Mountain & Soul Resort",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
+          "directions": [
+            "Walk from Dorfstrasse to hotel (~5 min, 300m)",
+            "Flat path"
+          ],
+          "transportation": [
+            "Walk (~5 min)"
+          ],
+          "thingsToDo": [
+            "Walk to Eiger Mountain & Soul Resort."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Taxi alternative: ~5 min, CHF 10-15 (cash, CHF 20 ready)",
+            "Supervise kids"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "4:55 PM Onward",
+          "activity": "Relax at hotel",
+          "location": "Eiger Mountain & Soul Resort",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
+          "directions": [
+            "Kids relax (Wi-Fi, TV, lounge games)",
+            "Pack lightly for next destination"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Eiger Mountain & Soul Resort."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Early evening for rest before departure (e",
+            "g",
+            ", Munich)"
+          ],
+          "type": [
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Munich",
+      "date": "July 8, 2025",
+      "activities": [
+        {
+          "time": "19:04:00",
+          "activity": "Arrive at München Hbf",
+          "location": "Munich Hauptbahnhof",
+          "mapLink": "https://maps.app.goo.gl/MunichHauptbahnhof",
+          "directions": [
+            "Follow “Exit” signs to tram stop (~2 min, 100m, flat)",
+            "Board tram to hotel"
+          ],
+          "transportation": [
+            "Train EC 195 from Zürich HB (dep",
+            "15:33, arr",
+            "19:04, 1st class, booked via bahn",
+            "de, 4 seats, Wg",
+            "2, Pl",
+            "93-96, table, reserved)",
+            "Tram 16/17 to Marsstraße (~5 min, €3",
+            "20/person or €17",
+            "90 group day ticket)"
+          ],
+          "thingsToDo": [
+            "Arrive at Munich Hauptbahnhof."
+          ],
+          "ticketsToBuy": [
+            "Cost: Train €112",
+            "98 (booked), tram ~€17",
+            "90 (group ticket, Apple Pay)",
+            "Show ticket (code: GYSETXVR) and IDs at control",
+            "Snacks: Bring from Zürich (~€5-10, cash) or buy at station kiosk (~€10-15, Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: Train €112",
+            "98 (booked), tram ~€17",
+            "90 (group ticket, Apple Pay)",
+            "Busy station",
+            "kids carry light bags",
+            "Show ticket (code: GYSETXVR) and IDs at control",
+            "Snacks: Bring from Zürich (~€5-10, cash) or buy at station kiosk (~€10-15, Apple Pay)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:04 PM - 7:14 PM",
+          "activity": "Withdraw Cash",
+          "location": "Munich Hauptbahnhof",
+          "mapLink": "https://maps.app.goo.gl/MunichHauptbahnhof",
+          "directions": [
+            "At station ATM (near ticket office, ground floor, follow “Geldautomat” signs)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Withdraw Cash."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€100 withdrawal (fee ~€2-3, cash only)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€100 withdrawal (fee ~€2-3, cash only)",
+            "Keep cash for taxis, tips",
+            "Check Apple Pay for nearby vendors",
+            "Supervise 10-year-old in busy station"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:14 PM - 7:19 PM",
+          "activity": "Walk to Tram Stop",
+          "location": "Hauptbahnhof Tram Stop",
+          "mapLink": [
+            "https://maps.app.goo.gl/HauptbahnhofTramS",
+            "https://maps.app.goo.gl/p"
+          ],
+          "directions": [
+            "Exit station, follow “Tram” signs to platform (~2 min, 100m, flat)"
+          ],
+          "transportation": [
+            "Walk (~2 min)"
+          ],
+          "thingsToDo": [
+            "Walk to Hauptbahnhof Tram Stop."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Flat path, busy evening crowds",
+            "Supervise 10-year-old"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:19 PM - 7:24 PM",
+          "activity": "Tram to Hotel",
+          "location": "Novotel München City Arnulfpark (Arnulfstraße 57)",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfparkArnulfstraße57",
+          "directions": [
+            "Board tram 16/17 at Hauptbahnhof, alight at Marsstraße, walk 2 min to hotel (50m, flat)"
+          ],
+          "transportation": [
+            "Tram (~5 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Tram to Hotel."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in group ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in group ticket",
+            "Modern trams",
+            "kids sit together",
+            "Luxurious hotel",
+            "confirm early check-in for Jul 9"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "7:24 PM - 7:44 PM",
+          "activity": "Check-in at Novotel",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "directions": [
+            "At hotel front desk"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at Novotel München City Arnulfpark."
+          ],
+          "ticketsToBuy": [
+            "€20 cash deposit (refundable)"
+          ],
+          "costsAndNotes": [
+            "Cost: Booked (check-in from 15:00)",
+            "Request quiet, high-floor family room with city views",
+            "€20 cash deposit (refundable)",
+            "Confirm check-out by 12:00 (Jul 10)",
+            "Upscale hotel",
+            "kids relax in lounge with Wi-Fi"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:44 PM Onward",
+          "activity": "Relax at Hotel",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "directions": [
+            "N/A"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Novotel München City Arnulfpark."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Unpack essentials, early night after travel",
+            "Kids use Wi-Fi",
+            "guide 10-year-old to bed",
+            "Hotel has kids’ play area, board games"
+          ],
+          "type": [
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Munich",
+      "date": "July 9, 2025",
+      "activities": [
+        {
+          "time": "8:00 AM - 9:00 AM",
+          "activity": "Breakfast",
+          "location": "Seehaus im Englischen Garten (Kleinhesseloher 3)",
+          "mapLink": "https://maps.app.goo.gl/SeehausimEnglischenGartenKleinhesseloher3",
+          "directions": [
+            "Exit hotel, walk to Marsstraße tram stop (~2 min, 50m, flat)",
+            "Board tram to Kurfürstenplatz, then U-Bahn to restaurant"
+          ],
+          "transportation": [
+            "Tram 12 to Kurfürstenplatz (~10 min), U3 to Münchner Freiheit (~5 min), walk 10 min (500m, flat)"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at Seehaus im Englischen Garten (Kleinhesseloher 3)."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€40-60 (vegetarian pastries, avocado tartines, juices, €8-15",
+            "kids’ pancakes, smoothies, €6-10, Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€40-60 (vegetarian pastries, avocado tartines, juices, €8-15",
+            "kids’ pancakes, smoothies, €6-10, Apple Pay)",
+            "Luxurious lakeside setting, pristine views",
+            "14-year-old likes granola, 10-year-old loves pancakes",
+            "Reserve table via seehaus",
+            "de for 8:00 AM"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "9:00 AM - 11:30 AM",
+          "activity": "Marienplatz & Maximilianstraße Stroll",
+          "location": "Marienplatz, Maximilianstraße",
+          "mapLink": "https://maps.app.goo.gl/Marienplatz,Maximilianstraße",
+          "directions": [
+            "Exit Seehaus, walk to Münchner Freiheit U-Bahn (~10 min, 500m, flat)",
+            "Take U-Bahn to Marienplatz, then walk to Maximilianstraße"
+          ],
+          "transportation": [
+            "U3 to Marienplatz (~15 min), walk 5 min to Maximilianstraße (300m, flat)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Marienplatz & Maximilianstraße Stroll."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€17",
+            "90 (group day ticket, Apple Pay)",
+            "Grab gourmet vegetarian snacks (truffle fries, €5-8) at Viktualienmarkt"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€17",
+            "90 (group day ticket, Apple Pay)",
+            "Polished Marienplatz with Alps views, upscale boutiques",
+            "Explore Maximilianstraße’s luxury shops (Chanel, Gucci)",
+            "Kids enjoy street performers",
+            "Grab gourmet vegetarian snacks (truffle fries, €5-8) at Viktualienmarkt",
+            "Supervise 10-year-old in crowds"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:30 AM - 12:45 PM",
+          "activity": "Vegetarian Lunch",
+          "location": "Tian (Frauenstraße 4)",
+          "mapLink": "https://maps.app.goo.gl/TianFrauenstraße4",
+          "directions": [
+            "Walk from Maximilianstraße to Tian (~8 min, 500m, flat)",
+            "Follow Frauenstraße signs"
+          ],
+          "transportation": [
+            "Walk (~8 min)"
+          ],
+          "thingsToDo": [
+            "Enjoy vegetarian lunch at Tian (Frauenstraße 4)."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€60-80 (vegan tasting plates, truffle risotto, €15-25",
+            "kids’ pizzas, pastas, €10-12, Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€60-80 (vegan tasting plates, truffle risotto, €15-25",
+            "kids’ pizzas, pastas, €10-12, Apple Pay)",
+            "Michelin-recommended, elegant vegetarian dining",
+            "14-year-old likes spicy dishes, 10-year-old prefers mild pasta",
+            "Book via tian-restaurant",
+            "com for 12:00 PM",
+            "Upscale yet kid-friendly"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "12:45 PM - 1:05 PM",
+          "activity": "Travel to MAN Factory",
+          "location": "MAN Truck & Bus (Karlsfelder Str. 68)",
+          "mapLink": "https://maps.app.goo.gl/MANTruck&BusKarlsfelderStr.68",
+          "directions": [
+            "Walk to Marienplatz U-Bahn (~5 min, 300m, flat)",
+            "Take U-Bahn to factory"
+          ],
+          "transportation": [
+            "U3 to Marienplatz (~5 min), U1 to Feldmoching (~15 min), walk 10 min (600m, flat)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to MAN Factory."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in group ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in group ticket",
+            "Luxurious, high-tech MAN factory tour (2 hr) showcases premium truck/bus production",
+            "Book for 1:15 PM via besucherservice@man",
+            "eu or +49 89 1580 1333 (2-3 months ahead)",
+            "Supervise kids during transit"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "1:05 PM - 3:15 PM",
+          "activity": "MAN Factory Tour",
+          "location": "MAN Truck & Bus",
+          "mapLink": "https://maps.app.goo.gl/MANTruck&Bus",
+          "directions": [
+            "Check in at MAN visitor center (~5 min before tour, follow “Besucherzentrum” signs)",
+            "Follow guide for 2-hour tour"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: MAN Factory Tour."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€30 (€10/adult, €5/child, cash/Apple Pay)",
+            "If unavailable, visit Luitpoldpark (luxurious park, €15 bike rentals)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€30 (€10/adult, €5/child, cash/Apple Pay)",
+            "Prestigious tour of pristine facility with robotics, assembly",
+            "14-year-old loves tech, 10-year-old enjoys big vehicles",
+            "English tour",
+            "headsets provided",
+            "Moderate walking (~2 km)",
+            "supervise 10-year-old near machinery",
+            "If unavailable, visit Luitpoldpark (luxurious park, €15 bike rentals)"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "3:15 PM - 3:45 PM",
+          "activity": "Travel to Fünf Höfe",
+          "location": "Fünf Höfe (Theatinerstraße 15)",
+          "mapLink": "https://maps.app.goo.gl/FünfHöfeTheatinerstraße15",
+          "directions": [
+            "Walk to Feldmoching U-Bahn (~10 min, 600m, flat)",
+            "Take U-Bahn to Odeonsplatz"
+          ],
+          "transportation": [
+            "U1 to Marienplatz (~15 min), U3/U6 to Odeonsplatz (~5 min), walk 5 min (300m, flat)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to Fünf Höfe."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in group ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in group ticket",
+            "Sleek, upscale shopping arcade with luxury boutiques (Max Mara, Emporio Armani)",
+            "Supervise kids in busy U-Bahn"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "3:45 PM - 5:45 PM",
+          "activity": "Luxury Shopping",
+          "location": "Fünf Höfe",
+          "mapLink": "https://maps.app.goo.gl/FünfHöfe",
+          "directions": [
+            "Explore Fünf Höfe boutiques, Manufactum for premium gifts",
+            "Kids relax in stylish courtyard, grab Läderach chocolates (€10-20)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Luxury Shopping."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€20-40 (chocolates, Apple Pay), shopping varies",
+            "Set €20-30 budget/kid for souvenirs"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€20-40 (chocolates, Apple Pay), shopping varies",
+            "Munich’s most luxurious shopping destination, pristine architecture",
+            "14-year-old enjoys fashion, 10-year-old loves treats",
+            "Set €20-30 budget/kid for souvenirs"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "5:45 PM - 6:00 PM",
+          "activity": "Travel to Dinner",
+          "location": "1910 Restaurant & Bar (Sofitel Munich Bayerpost, Bayerstraße 12)",
+          "mapLink": "https://maps.app.goo.gl/1910Restaurant&BarSofitelMunichBayerpost,Bayerstraße12",
+          "directions": [
+            "Walk to Odeonsplatz U-Bahn (~5 min, 300m, flat)",
+            "Take U-Bahn to Hauptbahnhof, then walk to Sofitel"
+          ],
+          "transportation": [
+            "U3 to Hauptbahnhof (~5 min), walk 5 min (300m, flat)"
+          ],
+          "thingsToDo": [
+            "Enjoy travel to dinner at 1910 Restaurant & Bar (Sofitel Munich Bayerpost, Bayerstraße 12)."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in group ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in group ticket",
+            "Upscale vegetarian dining at Sofitel",
+            "Book for 6:15 PM via sofitel-munich",
+            "com",
+            "Supervise kids in evening transit"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "6:00 PM - 7:15 PM",
+          "activity": "Vegetarian Dinner",
+          "location": "1910 Restaurant & Bar",
+          "mapLink": "https://maps.app.goo.gl/1910Restaurant&Bar",
+          "directions": [
+            "Dine at 1910’s chic rooftop restaurant"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy vegetarian dinner at 1910 Restaurant & Bar."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€70-90 (cauliflower steak, vegan tartare, €18-25",
+            "kids’ pastas, flatbreads, €10-14, Apple Pay)",
+            "€5-10 cash tip optional"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€70-90 (cauliflower steak, vegan tartare, €18-25",
+            "kids’ pastas, flatbreads, €10-14, Apple Pay)",
+            "Luxurious ambiance, city views",
+            "14-year-old likes bold flavors, 10-year-old prefers mild flatbreads",
+            "€5-10 cash tip optional"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "7:15 PM - 7:30 PM",
+          "activity": "Travel to English Garden",
+          "location": "English Garden (near Haus der Kunst)",
+          "mapLink": "https://maps.app.goo.gl/EnglishGardennearHausderKunst",
+          "directions": [
+            "Walk to Hauptbahnhof U-Bahn (~5 min, 300m, flat)",
+            "Take U-Bahn to Odeonsplatz, then walk to garden"
+          ],
+          "transportation": [
+            "U3 to Odeonsplatz (~5 min), walk 10 min (600m, flat)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to English Garden."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in group ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in group ticket",
+            "Pristine park with curated paths, ideal for evening stroll",
+            "Supervise 10-year-old during walk"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "7:30 PM - 8:45 PM",
+          "activity": "English Garden Evening Stroll",
+          "location": "English Garden",
+          "mapLink": "https://maps.app.goo.gl/EnglishGarden",
+          "directions": [
+            "Wander Japanese Teahouse area, pristine streams",
+            "Watch Eisbachwelle surfers; grab premium gelato (€3-5)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: English Garden Evening Stroll."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€10-15 (gelato, Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€10-15 (gelato, Apple Pay)",
+            "Luxurious, well-maintained park, cultural teahouse",
+            "14-year-old loves photos, 10-year-old enjoys surfers",
+            "Stay near teahouse to avoid deep trails"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "8:45 PM - 9:05 PM",
+          "activity": "Return to Hotel",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "directions": [
+            "Walk to Odeonsplatz U-Bahn (~10 min, 600m, flat)",
+            "Take U-Bahn to Scheidplatz, then tram to hotel"
+          ],
+          "transportation": [
+            "U3 to Scheidplatz (~10 min), tram 12 to Marsstraße (~5 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Return to Hotel."
+          ],
+          "ticketsToBuy": [
+            "Cost: Included in group ticket"
+          ],
+          "costsAndNotes": [
+            "Cost: Included in group ticket",
+            "Early night for Day 2",
+            "Supervise kids in evening transit"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "9:05 PM Onward",
+          "activity": "Relax at Hotel",
+          "location": "Novotel",
+          "mapLink": "https://maps.app.goo.gl/Novotel",
+          "directions": [
+            "Kids relax (Wi-Fi, TV, lounge games)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Novotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free",
+            "Pack lightly for Jul 10 departure",
+            "Guide 10-year-old to bed",
+            "hotel has board games"
+          ],
+          "type": [
+            "activity"
           ]
         }
       ]
