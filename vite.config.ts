@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/vacation-vista-voyager/",
+  base: "vacation-vista-voyager",
   server: {
     host: "::",
     port: 8080,
