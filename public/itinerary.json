@@ -1,0 +1,205 @@
+
+{
+  "itinerary": [
+    {
+      "city": "Paris, Venice",
+      "date": "July 3, 2025",
+      "activities": [
+        {
+          "time": "06:15:00",
+          "activity": "Arrive at CDG",
+          "location": "CDG Airport (Terminal 2E)",
+          "mapLink": "https://maps.app.goo.gl/CDGAirportTerminal2E",
+          "directions": [
+            "Follow \"Arrivals\" signs"
+          ],
+          "transportation": [
+            "Flight Delta 96 from DTW"
+          ],
+          "thingsToDo": [
+            "Arrive at CDG Airport (Terminal 2E)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Check flight number on screens",
+            "Busy terminal"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:15 AM - 6:25 AM",
+          "activity": "Walk to Passport Control",
+          "location": "Passport Control, Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/PassportControl,Terminal2E",
+          "directions": [
+            "Follow \"Immigration\" signs (~5-10 min, 300-500m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Passport Control, Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Non-EU queue, passports ready"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "8:05 AM - 9:35 AM",
+          "activity": "Breakfast at Café Constant",
+          "location": "Café Constant (135 Rue Saint-Dominique)",
+          "mapLink": "https://maps.app.goo.gl/CaféConstant135RueSaint-Dominique",
+          "directions": [
+            "At Café Constant"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at café constant at Café Constant (135 Rue Saint-Dominique)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: €40-48 (Apple Pay, €2-3 cash tip optional)",
+            "Kid-friendly menu with pastries and omelettes",
+            "Cozy bistro known for classic French dishes"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "9:40 AM - 10:40 AM",
+          "activity": "Eiffel Tower view at Trocadéro Gardens",
+          "location": "Trocadéro Gardens",
+          "mapLink": "https://maps.app.goo.gl/TrocadéroGardens",
+          "directions": [
+            "At Trocadéro Gardens"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Trocadéro Gardens."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Cost: Free (~1 hr)",
+            "Scenic spot with stunning Eiffel Tower views, ideal for photos and relaxing"
+          ],
+          "type": [
+            "sightseeing"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Munich",
+      "date": "July 10, 2025",
+      "activities": [
+        {
+          "time": "7:30 AM - 8:30 AM",
+          "activity": "Breakfast",
+          "location": "Café Luitpold (Brienner Straße 11)",
+          "mapLink": "https://maps.app.goo.gl/CaféLuitpoldBriennerStraße11",
+          "directions": [
+            "Exit hotel, walk to Marsstraße tram stop (~2 min, 50m, flat)",
+            "Take tram and U-Bahn to café"
+          ],
+          "transportation": [
+            "Tram 16/17 to Hauptbahnhof (~5 min), U4/U5 to Odeonsplatz (~5 min), walk 5 min (300m, flat)"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at Café Luitpold (Brienner Straße 11)."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€40-60 (artisan granola, vegan croissants, juices, €8-15",
+            "kids' waffles, smoothies, €6-10, Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€40-60 (artisan granola, vegan croissants, juices, €8-15",
+            "kids' waffles, smoothies, €6-10, Apple Pay)",
+            "Elegant, historic café, luxurious vibe",
+            "14-year-old likes smoothies, 10-year-old loves waffles",
+            "Book via cafeluitpold.de for 7:30 AM"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "8:45 AM - 11:00 AM",
+          "activity": "Nymphenburg Palace Gardens",
+          "location": "Nymphenburg Palace Gardens",
+          "mapLink": "https://maps.app.goo.gl/NymphenburgPalaceGardens",
+          "directions": [
+            "Stroll canals, fountains, Badenburg Lake",
+            "View Amalienburg exterior",
+            "Optional luxury rowboat ride (€15/hr for 4)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Nymphenburg Palace Gardens."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€15 (rowboats, optional, cash/Apple Pay)"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€15 (rowboats, optional, cash/Apple Pay)",
+            "Well-maintained royal gardens, Alps views",
+            "14-year-old loves photos, 10-year-old enjoys lake",
+            "Book rowboats on-site",
+            "supervise 10-year-old near water"
+          ],
+          "type": [
+            "sightseeing"
+          ]
+        },
+        {
+          "time": "12:40 PM - 1:25 PM",
+          "activity": "Travel to Airport",
+          "location": "Munich Airport (MUC)",
+          "mapLink": "https://maps.app.goo.gl/MunichAirportMUC",
+          "directions": [
+            "Board S8 at Hauptbahnhof, alight at Munich Airport Terminal"
+          ],
+          "transportation": [
+            "S8 to airport (~45 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to Airport."
+          ],
+          "ticketsToBuy": [
+            "Cost: ~€12/person (S-Bahn, Apple Pay)",
+            "Taxi alternative: ~€70, 35 min, cash"
+          ],
+          "costsAndNotes": [
+            "Cost: ~€12/person (S-Bahn, Apple Pay)",
+            "Arrive by ~1:25 PM for 4:00 PM flight (2 hours for check-in)",
+            "Kids carry light bags",
+            "Taxi alternative: ~€70, 35 min, cash"
+          ],
+          "type": [
+            "travel"
+          ]
+        }
+      ]
+    }
+  ]
+}
