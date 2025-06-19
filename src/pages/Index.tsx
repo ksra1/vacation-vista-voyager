@@ -38,7 +38,16 @@ const Index = () => {
       try {
         const response = await fetch('/vacation-vista-voyager/itinerary.json');
         const data: ItineraryData = await response.json();
-        setItineraryData(data);
+        
+        // Sort the itinerary by date
+        const sortedData = {
+          ...data,
+          itinerary: data.itinerary.sort((a, b) => 
+            new Date(a.date).getTime() - new Date(b.date).getTime()
+          )
+        };
+        
+        setItineraryData(sortedData);
       } catch (error) {
         console.error('Error loading itinerary data:', error);
       } finally {
@@ -114,14 +123,19 @@ const Index = () => {
       {/* Main Content */}
       <div className="max-w-6xl mx-auto px-4 py-8">
         <Tabs defaultValue={`day-0`} className="w-full">
-          <TabsList className="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 mb-8 bg-white p-2 rounded-xl shadow-md">
+          <TabsList className="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 mb-8 bg-white p-1 rounded-xl shadow-md h-auto">
             {itineraryData.itinerary.map((day, index) => (
               <TabsTrigger 
                 key={index}
                 value={`day-${index}`} 
-                className="text-sm data-[state=active]:bg-gradient-to-r data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white text-gray-600 border-0 rounded-lg transition-all duration-200 hover:bg-gray-100"
+                className="flex flex-col items-center justify-center whitespace-nowrap px-4 py-3 text-sm font-medium ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:bg-gradient-to-r data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white text-gray-600 rounded-lg min-h-[60px] w-full"
               >
-                {new Date(day.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                <span className="font-semibold">
+                  {new Date(day.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                </span>
+                <span className="text-xs opacity-75 mt-1">
+                  {day.city}
+                </span>
               </TabsTrigger>
             ))}
           </TabsList>
