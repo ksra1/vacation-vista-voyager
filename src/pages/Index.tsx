@@ -86,7 +86,7 @@ const Index = () => {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-start pl-8">
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
         <div className="text-gray-800 text-xl">Loading your adventure...</div>
       </div>
     );
@@ -94,7 +94,7 @@ const Index = () => {
 
   if (!itineraryData) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-start pl-8">
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
         <div className="text-gray-800 text-xl">Failed to load itinerary data</div>
       </div>
     );
@@ -104,7 +104,7 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
       {/* Header */}
       <div className="bg-white shadow-md border-b">
-        <div className="max-w-6xl px-4 py-6">
+        <div className="max-w-6xl mx-auto px-4 py-6">
           <div className="flex items-center gap-3 mb-2">
             <div className="p-2 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg">
               <Plane className="w-8 h-8 text-white" />
@@ -121,10 +121,10 @@ const Index = () => {
       </div>
 
       {/* Main Content */}
-      <div className="max-w-6xl px-4 py-8">
+      <div className="max-w-6xl mx-auto px-4 py-8">
         <Tabs defaultValue={`day-0`} className="w-full">
-          <div className="mb-8 overflow-x-auto">
-            <TabsList className="inline-flex w-max min-w-full bg-white p-1 rounded-xl shadow-md h-auto">
+          <div className="mb-8">
+            <TabsList className="flex w-full justify-start bg-white p-1 rounded-xl shadow-md h-auto overflow-x-auto">
               {itineraryData.itinerary.map((day, index) => (
                 <TabsTrigger 
                   key={index}
