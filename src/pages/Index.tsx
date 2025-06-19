@@ -1,4 +1,3 @@
-
 import { useState, useEffect } from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Button } from "@/components/ui/button";
@@ -123,22 +122,24 @@ const Index = () => {
       {/* Main Content */}
       <div className="max-w-6xl mx-auto px-4 py-8">
         <Tabs defaultValue={`day-0`} className="w-full">
-          <TabsList className="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 mb-8 bg-white p-1 rounded-xl shadow-md h-auto">
-            {itineraryData.itinerary.map((day, index) => (
-              <TabsTrigger 
-                key={index}
-                value={`day-${index}`} 
-                className="flex flex-col items-center justify-center whitespace-nowrap px-4 py-3 text-sm font-medium ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:bg-gradient-to-r data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white text-gray-600 rounded-lg min-h-[60px] w-full"
-              >
-                <span className="font-semibold">
-                  {new Date(day.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
-                </span>
-                <span className="text-xs opacity-75 mt-1">
-                  {day.city}
-                </span>
-              </TabsTrigger>
-            ))}
-          </TabsList>
+          <div className="mb-8 overflow-x-auto">
+            <TabsList className="inline-flex w-max min-w-full bg-white p-1 rounded-xl shadow-md h-auto">
+              {itineraryData.itinerary.map((day, index) => (
+                <TabsTrigger 
+                  key={index}
+                  value={`day-${index}`} 
+                  className="flex flex-col items-center justify-center whitespace-nowrap px-4 py-3 text-sm font-medium ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:bg-gradient-to-r data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white text-gray-600 rounded-lg min-h-[60px] flex-shrink-0"
+                >
+                  <span className="font-semibold">
+                    {new Date(day.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                  </span>
+                  <span className="text-xs opacity-75 mt-1">
+                    {day.city}
+                  </span>
+                </TabsTrigger>
+              ))}
+            </TabsList>
+          </div>
 
           {itineraryData.itinerary.map((day, index) => (
             <TabsContent key={index} value={`day-${index}`} className="space-y-4">
