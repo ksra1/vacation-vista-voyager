@@ -1065,37 +1065,6 @@
       ]
     },
     {
-      "city": "Venice",
-      "date": "July 4, 2001",
-      "activities": [
-        {
-          "time": "10:07 AM - 10:30 AM",
-          "activity": "Arrive at Campo San Barnaba, prepare for gondola",
-          "location": "Campo San Barnaba",
-          "mapLink": "https://maps.app.goo.gl/CampoSanBarnaba",
-          "directions": [
-            "At Campo San Barnaba (no additional walking)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Arrive at Campo San Barnaba."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Prepare for gondola ride"
-          ],
-          "type": [
-            "travel",
-            "activity"
-          ]
-        }
-      ]
-    },
-    {
       "city": "Milan, Venice",
       "date": "July 4, 2025",
       "activities": [
@@ -1218,6 +1187,31 @@
           ],
           "type": [
             "travel"
+          ]
+        },
+        {
+          "time": "10:07 AM - 10:30 AM",
+          "activity": "Arrive at Campo San Barnaba, prepare for gondola",
+          "location": "Campo San Barnaba",
+          "mapLink": "https://maps.app.goo.gl/CampoSanBarnaba",
+          "directions": [
+            "At Campo San Barnaba (no additional walking)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Arrive at Campo San Barnaba."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Prepare for gondola ride"
+          ],
+          "type": [
+            "travel",
+            "activity"
           ]
         },
         {
