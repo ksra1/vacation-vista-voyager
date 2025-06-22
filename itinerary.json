@@ -226,9 +226,165 @@
           ],
           "costsAndNotes": [
             "Cost: ~€12/person (S-Bahn, Apple Pay)",
-            "Arrive by ~1:25 PM for 4:00 PM flight (2 hours for check-in)",
+            "Arrive by ~1:25 PM for 6:25 PM flight (2 hours for check-in)",
             "Kids carry light bags",
             "Taxi alternative: ~€70, 35 min, cash"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:25 PM - 9:55 PM",
+          "activity": "International Flight",
+          "location": "Munich (MUC) to Athens (ATH)",
+          "mapLink": [
+            "https://maps.app.goo.gl/MunichMUC",
+            "https://maps.app.goo.gl/AthensATH"
+          ],
+          "directions": [
+            "Depart from Munich Franz Josef Strauss Airport, Terminal 2, to Athens Eleftherios Venizelos Airport (ATH)",
+            "Check-in at MUC and present payment card for verification if required"
+          ],
+          "transportation": [
+            "Flight: Aegean Airlines, A3807, Nonstop, 2h 30m, Airbus A320neo, Economy (Fare Family: Family, Class: T)",
+            "Seats: Lakshmi Innamuri (14A), Passenger 1 (14B), Saanvi Kollapudi (14D), Sriram Kollapudi (14C)"
+          ],
+          "thingsToDo": [
+            "Travel to Munich (MUC) to Athens (ATH)."
+          ],
+          "ticketsToBuy": [
+            "Total: €638"
+          ],
+          "costsAndNotes": [
+            "Booking Ref: PKYTF7",
+            "Baggage: 1 paid bag (32 kg) for Lakshmi (Excess Baggage: 390-4084640176, 390-4084640175), others 0 checked",
+            "Cabin: 2 pieces (1 personal + 1 carry-on 8 kg)",
+            "Miles+Bonus: 708 miles each",
+            "Total: €638",
+            "56"
+          ],
+          "type": [
+            "travel"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Full Itinerary",
+      "date": "July 11, 2025",
+      "activities": [
+        {
+          "time": "2:45 PM - 5:30 PM",
+          "activity": "Ferry Travel",
+          "location": "Piraeus (Gate E7) to Adamantas (Milos)",
+          "mapLink": [
+            "https://maps.app.goo.gl/PiraeusGateE7",
+            "https://maps.app.goo.gl/AdamantasMilos"
+          ],
+          "directions": [
+            "Arrive at Piraeus port, Gate E7, at least 1 hour before departure (13:45)",
+            "Board directly with e-ticket"
+          ],
+          "transportation": [
+            "Ferry: Seajets, POWER JET, 2h 45m, Lounge (Economy)",
+            "Passengers: Passenger 1 (Full fare), Lakshmi Innamuri (Full fare), Saanvi Kollapudi (Full fare), Sriram Kollapudi (Child 5-10)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Ferry Travel."
+          ],
+          "ticketsToBuy": [
+            "Total: €563",
+            "00 (Ticket: €551",
+            "00, Fee: €12"
+          ],
+          "costsAndNotes": [
+            "Ferryhopper Code: FH25YY6593UN, Reservation: 7736EDALZ",
+            "Baggage: 1 large piece free per passenger (check Seajets for port fees)",
+            "Total: €563",
+            "00 (Ticket: €551",
+            "00, Fee: €12",
+            "00)",
+            "Check weather for delays",
+            "Use Ferryhopper app"
+          ],
+          "type": [
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Full Itinerary",
+      "date": "July 12, 2025",
+      "activities": [
+        {
+          "time": "4:35 PM - 7:55 PM",
+          "activity": "Ferry Travel",
+          "location": "Adamantas (Milos) to Piraeus",
+          "mapLink": [
+            "https://maps.app.goo.gl/AdamantasMilos",
+            "https://maps.app.goo.gl/Piraeus"
+          ],
+          "directions": [
+            "Arrive at Adamantas port at least 1 hour before departure (15:35)",
+            "Board directly with e-ticket"
+          ],
+          "transportation": [
+            "Ferry: Seajets, OLYMPIC CHAMPION JET, 3h 20m, Lounge (Economy)",
+            "Passengers: Passenger 1 (Full fare), Lakshmi Innamuri (Full fare), Saanvi Kollapudi (Full fare), Sriram Kollapudi (Child 5-10)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Ferry Travel."
+          ],
+          "ticketsToBuy": [
+            "Total: Included in €563"
+          ],
+          "costsAndNotes": [
+            "Ferryhopper Code: FH25YY6593UN, Reservation: 7736EDALZ",
+            "Baggage: 1 large piece free per passenger (check Seajets for port fees)",
+            "Total: Included in €563",
+            "00",
+            "Check weather for delays",
+            "Use Ferryhopper app"
+          ],
+          "type": [
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Full Itinerary",
+      "date": "July 2, 2025",
+      "activities": [
+        {
+          "time": "18:10 - 07:50+1",
+          "activity": "International Flight",
+          "location": "Detroit (DTW) to Venice (VCE) via Paris (CDG)",
+          "mapLink": [
+            "https://maps.app.goo.gl/DetroitDTW",
+            "https://maps.app.goo.gl/VeniceVCEviaParisCDG"
+          ],
+          "directions": [
+            "Depart from Detroit Metropolitan Wayne County Airport (DTW), Terminal N, to Paris Charles de Gaulle Airport (CDG)",
+            "Connect to Venice Marco Polo Airport (VCE)",
+            "Check-in at DTW and present payment card for verification if required"
+          ],
+          "transportation": [
+            "Flight 1: Delta Air Lines, DL 98, DTW to CDG, Dep 18:10 (Jul 2), Arr 07:50 (Jul 3), Boeing 767-400, Economy, Seats: Lakshmi Innamuri (29B), Passenger 1 (29A), Saanvi Kollapudi (29C), Sriram Kollapudi (28B)",
+            "Flight 2: Air France, AF 8390 (operated by Delta), CDG to VCE, Dep 09:30 (Jul 3), Arr 11:15 (Jul 3), Economy"
+          ],
+          "thingsToDo": [
+            "Travel to Detroit (DTW) to Venice (VCE) via Paris (CDG)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Booking Ref: HAFBMC",
+            "Baggage: 1 checked bag (23 kg) per passenger, 1 carry-on (10 kg)",
+            "Verify payment card if requested"
           ],
           "type": [
             "travel"
@@ -1538,7 +1694,8 @@
             "Cost: €64 (FrecciaFAMILY/BUSINESS, booked, PNR: XJTRUN, Entitlement: 2487908270)",
             "Non-stop",
             "Wider seats, complimentary snacks/drinks, kid-friendly amenities",
-            "Free Wi-Fi"
+            "Free Wi-Fi",
+            "Issued: 2025-04-19, via WEB"
           ],
           "type": [
             "travel"
@@ -2323,13 +2480,10 @@
           ],
           "costsAndNotes": [
             "Cost: €240 (booked, Booking Ref: 830816960404, 830816960306, 830816960208, 830816960110)",
-            "Passengers: Sravan Kollapudi, Lakshmi Innamuri, Saanvi Kollapudi (DOB: 12/02/2011), Sriram Kollapudi",
+            "Passengers: Passenger 1 (Adult), Lakshmi Innamuri (Adult), Saanvi Kollapudi (Child, DOB: 12/02/2011), Sriram Kollapudi (Child)",
             "Issued: 2025-06-11, via WWW",
             "INTERNAL-BAHN",
-            "DE_1",
-            "Contact: Sravan Kollapudi (+15862024673, sravan",
-            "kollapudi@gmail",
-            "com)"
+            "DE_1"
           ],
           "type": [
             "travel"
@@ -2356,17 +2510,23 @@
           ],
           "ticketsToBuy": [
             ": 144195204456, Ticket IDs: 510320533138, 688950413618, 648664022253, 956037337924)",
+            "Passengers: Passenger 1 (Full fare, CHF 34",
+            "00), Lakshmi Innamuri (Full fare, CHF 34",
+            "00), Saanvi Kollapudi (Reduced fare 1/2, CHF 17",
+            "00, DOB: 12/02/2011), Sriram Kollapudi (Reduced fare 1/2, CHF 17",
             "E-tickets non-transferable, refunds per T600"
           ],
           "costsAndNotes": [
             "Cost: CHF 102 (booked, Order no",
             ": 144195204456, Ticket IDs: 510320533138, 688950413618, 648664022253, 956037337924)",
-            "Passengers: Sravan Kollapudi (CHF 34), Lakshmi Innamuri (CHF 34), Saanvi Kollapudi (CHF 17, DOB: 12/02/2011), Sriram Kollapudi (CHF 17, DOB: 27/08/2014)",
+            "Passengers: Passenger 1 (Full fare, CHF 34",
+            "00), Lakshmi Innamuri (Full fare, CHF 34",
+            "00), Saanvi Kollapudi (Reduced fare 1/2, CHF 17",
+            "00, DOB: 12/02/2011), Sriram Kollapudi (Reduced fare 1/2, CHF 17",
+            "00, DOB: 27/08/2014)",
             "E-tickets non-transferable, refunds per T600",
             "9",
-            "Contact: Sravan Kollapudi (+15862024673, sravan",
-            "kollapudi@gmail",
-            "com)"
+            "Issued: 2025"
           ],
           "type": [
             "travel"
@@ -2393,22 +2553,24 @@
           ],
           "ticketsToBuy": [
             ": 144024104510, Ticket IDs: 922333704759, 105789006021, 266891476166, 021345828664)",
+            "Passengers: Passenger 1 (Full fare, CHF 11",
+            "80), Lakshmi Innamuri (Full fare, CHF 11",
+            "80), Saanvi Kollapudi (Reduced fare 1/2, CHF 5",
+            "90, DOB: 12/02/2011), Sriram Kollapudi (Reduced fare 1/2, CHF 5",
             "E-tickets non-transferable, refunds per T600"
           ],
           "costsAndNotes": [
             "Cost: CHF 35",
             "40 (booked, Order no",
             ": 144024104510, Ticket IDs: 922333704759, 105789006021, 266891476166, 021345828664)",
-            "Passengers: Sravan Kollapudi (CHF 11",
-            "80), Lakshmi Innamuri (CHF 11",
-            "80), Saanvi Kollapudi (CHF 5",
-            "90, DOB: 12/02/2011), Sriram Kollapudi (CHF 5",
+            "Passengers: Passenger 1 (Full fare, CHF 11",
+            "80), Lakshmi Innamuri (Full fare, CHF 11",
+            "80), Saanvi Kollapudi (Reduced fare 1/2, CHF 5",
+            "90, DOB: 12/02/2011), Sriram Kollapudi (Reduced fare 1/2, CHF 5",
             "90, DOB: 27/08/2014)",
             "E-tickets non-transferable, refunds per T600",
             "9",
-            "Contact: Sravan Kollapudi (+15862024673, sravan",
-            "kollapudi@gmail",
-            "com)"
+            "Issued: 2025"
           ],
           "type": [
             "travel"
@@ -3015,22 +3177,24 @@
           ],
           "ticketsToBuy": [
             ": 144336404444, Ticket IDs: 487277915166, 544229293763, 604325102188, 065351188798)",
+            "Passengers: Passenger 1 (Full fare, CHF 84",
+            "80), Lakshmi Innamuri (Full fare, CHF 84",
+            "80), Saanvi Kollapudi (Reduced fare 1/2, CHF 42",
+            "40, DOB: 12/02/2011), Sriram Kollapudi (Reduced fare 1/2, CHF 42",
             "E-tickets non-transferable, refunds per T600"
           ],
           "costsAndNotes": [
             "Cost: CHF 254",
             "40 (booked, Order no",
             ": 144336404444, Ticket IDs: 487277915166, 544229293763, 604325102188, 065351188798)",
-            "Passengers: Sravan Kollapudi (CHF 84",
-            "80), Lakshmi Innamuri (CHF 84",
-            "80), Saanvi Kollapudi (CHF 42",
-            "40, DOB: 12/02/2011), Sriram Kollapudi (CHF 42",
+            "Passengers: Passenger 1 (Full fare, CHF 84",
+            "80), Lakshmi Innamuri (Full fare, CHF 84",
+            "80), Saanvi Kollapudi (Reduced fare 1/2, CHF 42",
+            "40, DOB: 12/02/2011), Sriram Kollapudi (Reduced fare 1/2, CHF 42",
             "40, DOB: 27/08/2014)",
             "E-tickets non-transferable, refunds per T600",
             "9",
-            "Contact: Sravan Kollapudi (+15862024673, sravan",
-            "kollapudi@gmail",
-            "com)"
+            "Issued: 2025"
           ],
           "type": [
             "travel"
@@ -3063,12 +3227,9 @@
             "98 (booked, Order no",
             ": 495655912855, Reservation no",
             ": 806000251637)",
-            "Passengers: Sravan Kollapudi (42y), Lakshmi Innamuri (38y), Saanvi Kollapudi (14y), Sriram Kollapudi (10y)",
+            "Passengers: Passenger 1 (Adult, 42y), Lakshmi Innamuri (Adult, 38y), Saanvi Kollapudi (Child, 14y), Sriram Kollapudi (Child, 10y)",
             "Super Sparpreis Europa, no cancellation",
             "Issued: 2025-06-12, via DB",
-            "Contact: Sravan Kollapudi (+15862024673, sravan",
-            "kollapudi@gmail",
-            "com)",
             "Check www",
             "bahn",
             "de for schedule updates"
