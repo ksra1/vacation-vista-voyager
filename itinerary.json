@@ -237,8 +237,8 @@
       ]
     },
     {
-      "city": "Paris",
-      "date": "July 2, 2025",
+      "city": "Paris, Venice",
+      "date": "July 3, 2025",
       "activities": [
         {
           "time": "06:15:00",
@@ -675,13 +675,7 @@
           "type": [
             "travel"
           ]
-        }
-      ]
-    },
-    {
-      "city": "Venice",
-      "date": "July 3, 2025",
-      "activities": [
+        },
         {
           "time": "17:45:00",
           "activity": "Arrive at VCE (Marco Polo Airport)",
