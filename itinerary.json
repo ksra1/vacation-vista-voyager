@@ -1,7 +1,7 @@
 {
   "itinerary": [
     {
-      "city": "Munich",
+      "city": "Full Itinerary",
       "date": "July 10, 2025",
       "activities": [
         {
@@ -237,7 +237,7 @@
       ]
     },
     {
-      "city": "Paris, Venice",
+      "city": "Full Itinerary",
       "date": "July 3, 2025",
       "activities": [
         {
@@ -728,34 +728,6 @@
           ]
         },
         {
-          "time": "6:15 PM - 6:20 PM",
-          "activity": "Customs",
-          "location": "Customs Area, VCE",
-          "mapLink": [
-            "https://maps.app.goo.gl/Cus",
-            "https://maps.app.goo.gl/msArea,VCE"
-          ],
-          "directions": [
-            "Walk through “Nothing to Declare” lane (green lane, ~50m)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Perform activity: Customs."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "~5 min",
-            "Flat, busy terminal"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
           "time": "6:20 PM - 6:30 PM",
           "activity": "Walk to Alilaguna dock",
           "location": "Alilaguna Dock, VCE",
@@ -937,7 +909,7 @@
       ]
     },
     {
-      "city": "Milan, Venice",
+      "city": "Full Itinerary",
       "date": "July 4, 2025",
       "activities": [
         {
@@ -1560,10 +1532,10 @@
             "Travel to From Venezia Santa Lucia to Milano Centrale."
           ],
           "ticketsToBuy": [
-            "Cost: €49 (FrecciaFAMILY/BUSINESS, booked)"
+            "Cost: €64 (FrecciaFAMILY/BUSINESS, booked, PNR: XJTRUN, Entitlement: 2487908270)"
           ],
           "costsAndNotes": [
-            "Cost: €49 (FrecciaFAMILY/BUSINESS, booked)",
+            "Cost: €64 (FrecciaFAMILY/BUSINESS, booked, PNR: XJTRUN, Entitlement: 2487908270)",
             "Non-stop",
             "Wider seats, complimentary snacks/drinks, kid-friendly amenities",
             "Free Wi-Fi"
@@ -1587,12 +1559,12 @@
             "Arrive at Milano Centrale Station."
           ],
           "ticketsToBuy": [
-            "Cost: €49 (FrecciaFAMILY/BUSINESS, booked)",
+            "Cost: €64 (FrecciaFAMILY/BUSINESS, booked)",
             "FRECCIABistrò/EasyFood (veggie sandwich/salad, €4-10, cash, €15-20 ready)",
             "Visit Bistrò ~6:30 PM or bring Venice snacks (€5-10, cash)"
           ],
           "costsAndNotes": [
-            "Cost: €49 (FrecciaFAMILY/BUSINESS, booked)",
+            "Cost: €64 (FrecciaFAMILY/BUSINESS, booked)",
             "Busy station",
             "Train food: Free Business Class snacks (taralli, juice)",
             "FRECCIABistrò/EasyFood (veggie sandwich/salad, €4-10, cash, €15-20 ready)",
@@ -1820,7 +1792,7 @@
       ]
     },
     {
-      "city": "Milan",
+      "city": "Full Itinerary",
       "date": "July 5, 2025",
       "activities": [
         {
@@ -2324,39 +2296,126 @@
       ]
     },
     {
-      "city": "Grindelwald",
+      "city": "Full Itinerary",
       "date": "July 6, 2025",
       "activities": [
         {
-          "time": "18:00:00",
-          "activity": "Arrive at Grindelwald Station",
-          "location": "Grindelwald Bahnhof",
-          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhof",
+          "time": "10:10 AM - 1:41 PM",
+          "activity": "Train to Lucerne",
+          "location": "From Milano Centrale to Luzern",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromMilanoCentrale",
+            "https://maps.app.goo.gl/Luzern"
+          ],
           "directions": [
-            "Follow “Exit” signs (~2 min, 50m, flat)"
+            "Board EuroCity 178 by 10:00 AM",
+            "Arrive at Luzern train station",
+            "Present e-ticket and official ID during control"
           ],
           "transportation": [
-            "Train from Lucerne (~2h 30m, booked via sbb",
-            "ch, 1st class, Swiss Family Card for free child fares)"
+            "Train: EuroCity 178 (~3h 31m, PNR: 3CEZV5, 2nd Class, Coach 17, Seats 31, 32, 33, 38)"
           ],
           "thingsToDo": [
-            "Arrive at Grindelwald Bahnhof."
+            "Travel to From Milano Centrale to Luzern."
           ],
           "ticketsToBuy": [
-            "None."
+            "Cost: €240 (booked, Booking Ref: 830816960404, 830816960306, 830816960208, 830816960110)"
           ],
           "costsAndNotes": [
-            "Cost: ~CHF 80-100/adult (1st class, booked)",
-            "Busy station",
-            "Train snacks: Bring from Lucerne (~CHF 5-10, cash) or buy at station kiosk (~CHF 10-15, Apple Pay)",
-            "Kids carry light bags"
+            "Cost: €240 (booked, Booking Ref: 830816960404, 830816960306, 830816960208, 830816960110)",
+            "Passengers: Sravan Kollapudi, Lakshmi Innamuri, Saanvi Kollapudi (DOB: 12/02/2011), Sriram Kollapudi",
+            "Issued: 2025-06-11, via WWW",
+            "INTERNAL-BAHN",
+            "DE_1",
+            "Contact: Sravan Kollapudi (+15862024673, sravan",
+            "kollapudi@gmail",
+            "com)"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "6:00 PM - 6:05 PM",
+          "time": "1:41 PM - 4:11 PM",
+          "activity": "Train to Interlaken Ost",
+          "location": "From Luzern to Interlaken Ost",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromLuzern",
+            "https://maps.app.goo.gl/InterlakenOst"
+          ],
+          "directions": [
+            "Depart from Luzern train station",
+            "Arrive at Interlaken Ost train station via Brünig",
+            "Present e-ticket and official ID during control"
+          ],
+          "transportation": [
+            "Train: Point-to-point, 2nd Class (~2h 30m)"
+          ],
+          "thingsToDo": [
+            "Travel to From Luzern to Interlaken Ost."
+          ],
+          "ticketsToBuy": [
+            ": 144195204456, Ticket IDs: 510320533138, 688950413618, 648664022253, 956037337924)",
+            "E-tickets non-transferable, refunds per T600"
+          ],
+          "costsAndNotes": [
+            "Cost: CHF 102 (booked, Order no",
+            ": 144195204456, Ticket IDs: 510320533138, 688950413618, 648664022253, 956037337924)",
+            "Passengers: Sravan Kollapudi (CHF 34), Lakshmi Innamuri (CHF 34), Saanvi Kollapudi (CHF 17, DOB: 12/02/2011), Sriram Kollapudi (CHF 17, DOB: 27/08/2014)",
+            "E-tickets non-transferable, refunds per T600",
+            "9",
+            "Contact: Sravan Kollapudi (+15862024673, sravan",
+            "kollapudi@gmail",
+            "com)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "4:11 PM - 4:41 PM",
+          "activity": "Train to Grindelwald",
+          "location": "From Interlaken Ost to Grindelwald",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromInterlakenOst",
+            "https://maps.app.goo.gl/Grindelwald"
+          ],
+          "directions": [
+            "Depart from Interlaken Ost train station",
+            "Arrive at Grindelwald train station",
+            "Present e-ticket and official ID during control"
+          ],
+          "transportation": [
+            "Train: Point-to-point, 2nd Class (~30 min)"
+          ],
+          "thingsToDo": [
+            "Travel to From Interlaken Ost to Grindelwald."
+          ],
+          "ticketsToBuy": [
+            ": 144024104510, Ticket IDs: 922333704759, 105789006021, 266891476166, 021345828664)",
+            "E-tickets non-transferable, refunds per T600"
+          ],
+          "costsAndNotes": [
+            "Cost: CHF 35",
+            "40 (booked, Order no",
+            ": 144024104510, Ticket IDs: 922333704759, 105789006021, 266891476166, 021345828664)",
+            "Passengers: Sravan Kollapudi (CHF 11",
+            "80), Lakshmi Innamuri (CHF 11",
+            "80), Saanvi Kollapudi (CHF 5",
+            "90, DOB: 12/02/2011), Sriram Kollapudi (CHF 5",
+            "90, DOB: 27/08/2014)",
+            "E-tickets non-transferable, refunds per T600",
+            "9",
+            "Contact: Sravan Kollapudi (+15862024673, sravan",
+            "kollapudi@gmail",
+            "com)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "4:41 PM - 4:46 PM",
           "activity": "Withdraw cash",
           "location": "Grindelwald Bahnhof",
           "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhof",
@@ -2381,7 +2440,7 @@
           ]
         },
         {
-          "time": "6:05 PM - 6:10 PM",
+          "time": "4:46 PM - 4:51 PM",
           "activity": "Walk to taxi stand",
           "location": "Taxi Stand, Grindelwald Bahnhof",
           "mapLink": "https://maps.app.goo.gl/TaxiStand,GrindelwaldBahnhof",
@@ -2406,7 +2465,7 @@
           ]
         },
         {
-          "time": "6:10 PM - 6:15 PM",
+          "time": "4:51 PM - 4:56 PM",
           "activity": "Taxi to Eiger Mountain & Soul Resort",
           "location": "Eiger Mountain & Soul Resort (Dorfstrasse 133)",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResortDorfstrasse133",
@@ -2433,7 +2492,7 @@
           ]
         },
         {
-          "time": "6:15 PM - 6:35 PM",
+          "time": "4:56 PM - 5:16 PM",
           "activity": "Check-in at Eiger Mountain & Soul Resort",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
@@ -2462,7 +2521,7 @@
           ]
         },
         {
-          "time": "6:35 PM - 6:45 PM",
+          "time": "5:16 PM - 5:26 PM",
           "activity": "Walk to Restaurant Barry’s",
           "location": "Restaurant Barry’s (Dorfstrasse 133, inside hotel)",
           "mapLink": "https://maps.app.goo.gl/RestaurantBarry’sDorfstrasse133,insidehotel",
@@ -2486,7 +2545,7 @@
           ]
         },
         {
-          "time": "6:45 PM - 8:00 PM",
+          "time": "5:26 PM - 6:41 PM",
           "activity": "Dinner at Restaurant Barry’s",
           "location": "Restaurant Barry’s",
           "mapLink": "https://maps.app.goo.gl/RestaurantBarry’s",
@@ -2503,7 +2562,7 @@
             "None."
           ],
           "costsAndNotes": [
-            "Cost: CHF 80-120 (booked for 7:00 PM via eigermountainandsoul",
+            "Cost: CHF 80-120 (booked for 5:30 PM via eigermountainandsoul",
             "com, CHF 5-10 cash tip optional)",
             "Vegetarian options (veggie tartare, mushroom risotto, ~CHF 20-30/person)",
             "Teen likes spicy pasta, 10-year-old prefers mild pizza",
@@ -2516,7 +2575,7 @@
           ]
         },
         {
-          "time": "8:00 PM Onward",
+          "time": "6:41 PM Onward",
           "activity": "Relax at hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
@@ -2541,7 +2600,13 @@
           "type": [
             "activity"
           ]
-        },
+        }
+      ]
+    },
+    {
+      "city": "Full Itinerary",
+      "date": "July 7, 2025",
+      "activities": [
         {
           "time": "8:00 AM - 8:30 AM",
           "activity": "Breakfast at hotel",
@@ -2917,9 +2982,7 @@
           ],
           "costsAndNotes": [
             "Cost: Free",
-            "Early evening for rest before departure (e",
-            "g",
-            ", Munich)"
+            "Early evening for rest before departure"
           ],
           "type": [
             "activity"
@@ -2928,9 +2991,92 @@
       ]
     },
     {
-      "city": "Munich",
+      "city": "Full Itinerary",
       "date": "July 8, 2025",
       "activities": [
+        {
+          "time": "8:00 AM - 10:30 AM",
+          "activity": "Train to Zürich HB",
+          "location": "From Grindelwald to Zürich HB",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromGrindelwald",
+            "https://maps.app.goo.gl/ZürichHB"
+          ],
+          "directions": [
+            "Depart from Grindelwald train station",
+            "Arrive at Zürich HB train station via Interlaken Ost, Bern, and Olten",
+            "Present e-ticket and official ID during control"
+          ],
+          "transportation": [
+            "Train: Point-to-point, 2nd Class (~2h 30m)"
+          ],
+          "thingsToDo": [
+            "Travel to From Grindelwald to Zürich HB."
+          ],
+          "ticketsToBuy": [
+            ": 144336404444, Ticket IDs: 487277915166, 544229293763, 604325102188, 065351188798)",
+            "E-tickets non-transferable, refunds per T600"
+          ],
+          "costsAndNotes": [
+            "Cost: CHF 254",
+            "40 (booked, Order no",
+            ": 144336404444, Ticket IDs: 487277915166, 544229293763, 604325102188, 065351188798)",
+            "Passengers: Sravan Kollapudi (CHF 84",
+            "80), Lakshmi Innamuri (CHF 84",
+            "80), Saanvi Kollapudi (CHF 42",
+            "40, DOB: 12/02/2011), Sriram Kollapudi (CHF 42",
+            "40, DOB: 27/08/2014)",
+            "E-tickets non-transferable, refunds per T600",
+            "9",
+            "Contact: Sravan Kollapudi (+15862024673, sravan",
+            "kollapudi@gmail",
+            "com)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "3:33 PM - 7:04 PM",
+          "activity": "Train to Munich",
+          "location": "From Zürich HB to München Hbf",
+          "mapLink": [
+            "https://maps.app.goo.gl/FromZürichHB",
+            "https://maps.app.goo.gl/MünchenHbf"
+          ],
+          "directions": [
+            "Board EuroCity 195 by 3:23 PM, platform 34",
+            "Arrive at München Hbf, platform 27-36",
+            "Present e-ticket and official ID during control"
+          ],
+          "transportation": [
+            "Train: EuroCity 195 (~3h 31m, Ticket Code: GYSETXVR, 1st Class, Coach 2, Seats 93, 94, 95, 96)"
+          ],
+          "thingsToDo": [
+            "Travel to From Zürich HB to München Hbf."
+          ],
+          "ticketsToBuy": [
+            "Cost: €112"
+          ],
+          "costsAndNotes": [
+            "Cost: €112",
+            "98 (booked, Order no",
+            ": 495655912855, Reservation no",
+            ": 806000251637)",
+            "Passengers: Sravan Kollapudi (42y), Lakshmi Innamuri (38y), Saanvi Kollapudi (14y), Sriram Kollapudi (10y)",
+            "Super Sparpreis Europa, no cancellation",
+            "Issued: 2025-06-12, via DB",
+            "Contact: Sravan Kollapudi (+15862024673, sravan",
+            "kollapudi@gmail",
+            "com)",
+            "Check www",
+            "bahn",
+            "de for schedule updates"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
         {
           "time": "19:04:00",
           "activity": "Arrive at München Hbf",
@@ -2941,12 +3087,8 @@
             "Board tram to hotel"
           ],
           "transportation": [
-            "Train EC 195 from Zürich HB (dep",
-            "15:33, arr",
-            "19:04, 1st class, booked via bahn",
-            "de, 4 seats, Wg",
-            "2, Pl",
-            "93-96, table, reserved)",
+            "Train EC 195 from Zürich HB (~3h 31m, 1st class, booked via bahn",
+            "de, Coach 2, Seats 93-96, table, reserved)",
             "Tram 16/17 to Marsstraße (~5 min, €3",
             "20/person or €17",
             "90 group day ticket)"
@@ -3118,7 +3260,7 @@
       ]
     },
     {
-      "city": "Munich",
+      "city": "Full Itinerary",
       "date": "July 9, 2025",
       "activities": [
         {
