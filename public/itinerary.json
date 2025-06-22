@@ -237,541 +237,9 @@
       ]
     },
     {
-      "city": "Paris, Venice",
+      "city": "Venice",
       "date": "July 3, 2025",
       "activities": [
-        {
-          "time": "06:15:00",
-          "activity": "Arrive at CDG",
-          "location": "CDG Airport (Terminal 2E)",
-          "mapLink": "https://maps.app.goo.gl/CDGAirportTerminal2E",
-          "directions": [
-            "Follow \"Arrivals\" signs"
-          ],
-          "transportation": [
-            "Flight Delta 96 from DTW"
-          ],
-          "thingsToDo": [
-            "Arrive at CDG Airport (Terminal 2E)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Check flight number on screens",
-            "Busy terminal"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "6:15 AM - 6:25 AM",
-          "activity": "Walk to Passport Control",
-          "location": "Passport Control, Terminal 2E",
-          "mapLink": "https://maps.app.goo.gl/PassportControl,Terminal2E",
-          "directions": [
-            "Follow \"Immigration\" signs (~5-10 min, 300-500m)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to Passport Control, Terminal 2E."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Non-EU queue, passports ready"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "6:25 AM - 7:00 AM",
-          "activity": "Clear customs/immigration",
-          "location": "Passport Control, Terminal 2E",
-          "mapLink": "https://maps.app.goo.gl/PassportControl,Terminal2E",
-          "directions": [
-            "At passport control (~30-45 min)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Perform activity: Clear customs/immigration."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Busy area"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "7:00 AM - 7:05 AM",
-          "activity": "Walk to luggage storage",
-          "location": "Luggage Storage, Terminal 2E",
-          "mapLink": [
-            "https://maps.app.goo.gl/LuggageS",
-            "https://maps.app.goo.gl/rage,Terminal2E"
-          ],
-          "directions": [
-            "Follow \"Luggage Storage\" signs (near Gate 2, ~100-200m)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to Luggage Storage, Terminal 2E.",
-            "Handle luggage at Luggage Storage, Terminal 2E."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Flat path, busy terminal"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "7:05 AM - 7:15 AM",
-          "activity": "Store luggage and withdraw cash",
-          "location": "Luggage Storage, Terminal 2E",
-          "mapLink": [
-            "https://maps.app.goo.gl/LuggageS",
-            "https://maps.app.goo.gl/rage,Terminal2E"
-          ],
-          "directions": [
-            "At luggage storage counter and nearby ATM"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Handle luggage at Luggage Storage, Terminal 2E."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ~‚Ç¨40 (luggage storage, Apple Pay)",
-            "Withdraw ~‚Ç¨70 cash (ATM fee ~‚Ç¨2-3)"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "7:15 AM - 7:20 AM",
-          "activity": "Walk to taxi stand",
-          "location": "Taxi Stand, Terminal 2E",
-          "mapLink": "https://maps.app.goo.gl/TaxiStand,Terminal2E",
-          "directions": [
-            "Follow \"Taxis\" signs (outside Gate 2, ~50-100m)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to Taxi Stand, Terminal 2E.",
-            "Travel to Taxi Stand, Terminal 2E."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Flat path, busy area"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "7:20 AM - 8:00 AM",
-          "activity": "Taxi to Trocad√©ro",
-          "location": "From CDG to Place du Trocad√©ro",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromCDG",
-            "https://maps.app.goo.gl/PlaceduTrocad√©ro"
-          ],
-          "directions": [
-            "Board taxi at Terminal 2E taxi stand",
-            "Drop off at Place du Trocad√©ro (near Palais de Chaillot)"
-          ],
-          "transportation": [
-            "Taxi (~40 min)"
-          ],
-          "thingsToDo": [
-            "Travel to From CDG to Place du Trocad√©ro."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ‚Ç¨50-60 (Apple Pay",
-            "‚Ç¨50 cash backup)"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "8:00 AM - 8:05 AM",
-          "activity": "Walk to Caf√© Constant",
-          "location": "Caf√© Constant (135 Rue Saint-Dominique)",
-          "mapLink": "https://maps.app.goo.gl/Caf√©Constant135RueSaint-Dominique",
-          "directions": [
-            "From Place du Trocad√©ro, head southwest past Palais de Chaillot, turn left on Avenue du Pr√©sident Wilson (70m), right on Avenue de la Bourdonnais (150m), right on Rue Saint-Dominique (80m) (~5 min, 400m)"
-          ],
-          "transportation": [
-            "Walk (~5 min)"
-          ],
-          "thingsToDo": [
-            "Walk to Caf√© Constant (135 Rue Saint-Dominique)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Flat, wide sidewalks"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "8:05 AM - 9:35 AM",
-          "activity": "Breakfast at Caf√© Constant",
-          "location": "Caf√© Constant (135 Rue Saint-Dominique)",
-          "mapLink": "https://maps.app.goo.gl/Caf√©Constant135RueSaint-Dominique",
-          "directions": [
-            "At Caf√© Constant"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Enjoy breakfast at caf√© constant at Caf√© Constant (135 Rue Saint-Dominique)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ‚Ç¨40-48 (Apple Pay",
-            "‚Ç¨2-3 cash tip optional)",
-            "Kid-friendly menu with pastries and omelettes",
-            "Cozy bistro known for classic French dishes"
-          ],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "9:35 AM - 9:40 AM",
-          "activity": "Walk to Trocad√©ro Gardens",
-          "location": "Trocad√©ro Gardens",
-          "mapLink": "https://maps.app.goo.gl/Trocad√©roGardens",
-          "directions": [
-            "Exit Caf√© Constant, turn right on Rue Saint-Dominique (80m), left on Avenue de la Bourdonnais (150m), right on Avenue du Pr√©sident Wilson (70m), straight across Place du Trocad√©ro to gardens (100m) (~5 min, 400m)"
-          ],
-          "transportation": [
-            "Walk (~5 min)"
-          ],
-          "thingsToDo": [
-            "Walk to Trocad√©ro Gardens."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Flat, wide sidewalks"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "9:40 AM - 10:40 AM",
-          "activity": "Eiffel Tower view at Trocad√©ro Gardens",
-          "location": "Trocad√©ro Gardens",
-          "mapLink": "https://maps.app.goo.gl/Trocad√©roGardens",
-          "directions": [
-            "At Trocad√©ro Gardens"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Explore or relax at Trocad√©ro Gardens."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: Free (~1 hr)",
-            "Scenic spot with stunning Eiffel Tower views, ideal for photos and relaxing"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "10:40 AM - 10:55 AM",
-          "activity": "Taxi to Louvre Pyramid",
-          "location": "From Place du Trocad√©ro to Place du Carrousel",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromPlaceduTrocad√©ro",
-            "https://maps.app.goo.gl/PlaceduCarrousel"
-          ],
-          "directions": [
-            "Board taxi at Place du Trocad√©ro taxi stand (near Palais de Chaillot)",
-            "Drop off at Place du Carrousel (near Louvre Pyramid entrance)"
-          ],
-          "transportation": [
-            "Taxi (~15 min)"
-          ],
-          "thingsToDo": [
-            "Travel to From Place du Trocad√©ro to Place du Carrousel."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ‚Ç¨15 (Apple Pay",
-            "‚Ç¨15 cash backup)"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "10:55 AM - 11:55 AM",
-          "activity": "View Louvre Pyramid (outside)",
-          "location": "Louvre Pyramid (Place du Carrousel)",
-          "mapLink": "https://maps.app.goo.gl/LouvrePyramidPlaceduCarrousel",
-          "directions": [
-            "At Louvre Pyramid courtyard"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Explore or relax at Louvre Pyramid (Place du Carrousel)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: Free (~1 hr)",
-            "Iconic glass pyramid in the Louvre‚Äôs courtyard, a modern architectural landmark"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "11:55 AM - 12:10 PM",
-          "activity": "Taxi to Caf√© des Marronniers",
-          "location": "From Place du Carrousel to Jardin des Tuileries",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromPlaceduCarrousel",
-            "https://maps.app.goo.gl/JardindesTuileries"
-          ],
-          "directions": [
-            "Board taxi at Place du Carrousel",
-            "Drop off at Jardin des Tuileries near Caf√© des Marronniers"
-          ],
-          "transportation": [
-            "Taxi (~15 min)"
-          ],
-          "thingsToDo": [
-            "Travel to From Place du Carrousel to Jardin des Tuileries."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ‚Ç¨15 (Apple Pay",
-            "‚Ç¨15 cash backup)"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "12:10 PM - 1:40 PM",
-          "activity": "Lunch at Caf√© des Marronniers",
-          "location": "Caf√© des Marronniers (Jardin des Tuileries)",
-          "mapLink": "https://maps.app.goo.gl/Caf√©desMarronniersJardindesTuileries",
-          "directions": [
-            "At Caf√© des Marronniers (look for outdoor seating)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Enjoy lunch at caf√© des marronniers at Caf√© des Marronniers (Jardin des Tuileries)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ‚Ç¨60 (Apple Pay",
-            "‚Ç¨3-5 cash tip optional)",
-            "Outdoor seating with kid-friendly sandwiches and salads",
-            "Charming caf√© with garden views"
-          ],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "1:40 PM - 1:45 PM",
-          "activity": "Taxi to Le Souffl√©",
-          "location": "From Jardin des Tuileries to Le Souffl√© (36 Rue du Mont Thabor)",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromJardindesTuileries",
-            "https://maps.app.goo.gl/LeSouffl√©36RueduMontThabor"
-          ],
-          "directions": [
-            "Board taxi near Jardin des Tuileries Concorde entrance",
-            "Drop off at Le Souffl√©"
-          ],
-          "transportation": [
-            "Taxi (~5 min)"
-          ],
-          "thingsToDo": [
-            "Travel to From Jardin des Tuileries to Le Souffl√© (36 Rue du Mont Thabor)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ‚Ç¨10 (Apple Pay",
-            "‚Ç¨10 cash backup)"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "1:45 PM - 3:15 PM",
-          "activity": "Dinner at Le Souffl√©",
-          "location": "Le Souffl√© (36 Rue du Mont Thabor)",
-          "mapLink": "https://maps.app.goo.gl/LeSouffl√©36RueduMontThabor",
-          "directions": [
-            "At Le Souffl√©"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Enjoy dinner at le souffl√© at Le Souffl√© (36 Rue du Mont Thabor)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ‚Ç¨80 (Apple Pay",
-            "‚Ç¨5 cash tip optional)",
-            "Kid-friendly menu with sweet and savory souffl√©s",
-            "Elegant bistro famous for its signature souffl√©s"
-          ],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "3:15 PM - 3:55 PM",
-          "activity": "Taxi to CDG",
-          "location": "From Le Souffl√© to CDG Terminal 2E",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromLeSouffl√©",
-            "https://maps.app.goo.gl/CDGTerminal2E"
-          ],
-          "directions": [
-            "Board taxi at Le Souffl√©",
-            "Drop off at Terminal 2E departures"
-          ],
-          "transportation": [
-            "Taxi (~40 min)"
-          ],
-          "thingsToDo": [
-            "Travel to From Le Souffl√© to CDG Terminal 2E."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: ‚Ç¨50-60 (Apple Pay",
-            "‚Ç¨50 cash backup)"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "3:55 PM - 4:05 PM",
-          "activity": "Retrieve luggage and check-in",
-          "location": "CDG Terminal 2E (near Gate 2)",
-          "mapLink": "https://maps.app.goo.gl/CDGTerminal2EnearGate2",
-          "directions": [
-            "At luggage storage (near Gate 2), then proceed to check-in counters"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Complete check-in/out at CDG Terminal 2E (near Gate 2).",
-            "Handle luggage at CDG Terminal 2E (near Gate 2)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Board by 3:45 PM",
-            "Busy terminal"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "4:05 PM - 5:45 PM",
-          "activity": "Flight to Venice",
-          "location": "From CDG to VCE (Marco Polo Airport)",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromCDG",
-            "https://maps.app.goo.gl/VCEMarcoPoloAirport"
-          ],
-          "directions": [
-            "Board flight at Terminal 2E"
-          ],
-          "transportation": [
-            "Flight Delta 8356 (~1h 40m)"
-          ],
-          "thingsToDo": [
-            "Travel to From CDG to VCE (Marco Polo Airport)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Board by 3:45 PM",
-            "Prepare for Venice arrival"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
         {
           "time": "17:45:00",
           "activity": "Arrive at VCE (Marco Polo Airport)",
@@ -3597,6 +3065,448 @@
           ],
           "type": [
             "activity"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Paris",
+      "date": "June 22, 2025",
+      "activities": [
+        {
+          "time": "06:15:00",
+          "activity": "Arrive CDG",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "Follow “Arrivals” signs"
+          ],
+          "transportation": [
+            "Delta 96 from DTW"
+          ],
+          "thingsToDo": [
+            "Arrive at Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:15 AM - 6:25 AM",
+          "activity": "Walk to Passport Control",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "Walk ~5-10 min, 300-500m, follow “Immigration” signs"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "6:25 AM - 7:00 AM",
+          "activity": "Clear customs/immigration",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "~30-45 min, non-EU queue, passports ready"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Clear customs/immigration."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:00 AM - 7:05 AM",
+          "activity": "Walk to luggage storage",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "Near Gate 2, follow “Luggage Storage” signs, ~100-200m"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Terminal 2E.",
+            "Handle luggage at Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:05 AM - 7:15 AM",
+          "activity": "Store luggage and withdraw cash",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "Store luggage (~€40, Apple Pay), withdraw ~€70 cash (ATM fee ~€2-3)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Handle luggage at Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "7:15 AM - 7:20 AM",
+          "activity": "Walk to taxi stand",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "Outside Gate 2, follow “Taxis” signs, ~50-100m"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Terminal 2E.",
+            "Travel to Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "07:20:00",
+          "activity": "Taxi to Trocadéro",
+          "location": "Place du Trocadéro",
+          "mapLink": "https://maps.app.goo.gl/PlaceduTrocadéro",
+          "directions": [
+            "~40 min, ~€50-60, Apple Pay; €50 cash backup"
+          ],
+          "transportation": [
+            "Drop off near Palais de Chaillot"
+          ],
+          "thingsToDo": [
+            "Travel to Place du Trocadéro."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "08:00:00",
+          "activity": "Eiffel Tower view",
+          "location": "Trocadéro Gardens",
+          "mapLink": "https://maps.app.goo.gl/TrocadéroGardens",
+          "directions": [
+            "Free, ~30 min"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Trocadéro Gardens."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "08:30:00",
+          "activity": "Taxi to Louvre Pyramid",
+          "location": "Place du Carrousel",
+          "mapLink": "https://maps.app.goo.gl/PlaceduCarrousel",
+          "directions": [
+            "~15 min, ~€15, Apple Pay; €15 cash backup"
+          ],
+          "transportation": [
+            "Pick up at Place du Trocadéro taxi stand (near Palais de Chaillot); drop off near Louvre Pyramid entrance"
+          ],
+          "thingsToDo": [
+            "Travel to Place du Carrousel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "08:45:00",
+          "activity": "View Louvre Pyramid",
+          "location": "Louvre Pyramid",
+          "mapLink": "https://maps.app.goo.gl/LouvrePyramid",
+          "directions": [
+            "Outside, free, ~30 min"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Louvre Pyramid."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "9:15 AM - 9:17 AM",
+          "activity": "Walk to Jardin des Tuileries",
+          "location": "Jardin des Tuileries",
+          "mapLink": "https://maps.app.goo.gl/JardindesTuileries",
+          "directions": [
+            "Exit Louvre courtyard through Passage Richelieu (northwest corner), turn right onto Rue de Rivoli, walk 100m, cross Rue de Rivoli at crosswalk, enter Jardin des Tuileries through eastern gate"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Jardin des Tuileries."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat, busy area",
+            "use crosswalk and"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "09:17:00",
+          "activity": "Relax",
+          "location": "Jardin des Tuileries",
+          "mapLink": "https://maps.app.goo.gl/JardindesTuileries",
+          "directions": [
+            "Free, ~1 hr"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Jardin des Tuileries."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "10:15 AM - 10:17 AM",
+          "activity": "Walk to Café des Marronniers",
+          "location": "Café des Marronniers",
+          "mapLink": "https://maps.app.goo.gl/CafédesMarronniers",
+          "directions": [
+            "From central fountain in Jardin des Tuileries, head west toward Concorde entrance, turn right onto main path, find Café des Marronniers near northern edge (look for outdoor seating)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Café des Marronniers."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat, paved path",
+            "easy for kids"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "10:17:00",
+          "activity": "Lunch",
+          "location": "Café des Marronniers",
+          "mapLink": "https://maps.app.goo.gl/CafédesMarronniers",
+          "directions": [
+            "~€60, Apple Pay; €3-5 cash tip optional"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy lunch at Café des Marronniers."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "11:00 AM - 11:02 AM",
+          "activity": "Walk to taxi stand",
+          "location": "Place de la Concorde",
+          "mapLink": "https://maps.app.goo.gl/PlacedelaConcorde",
+          "directions": [
+            "Exit Café des Marronniers, head south to Concorde entrance of Jardin des Tuileries, cross Place de la Concorde at crosswalk to taxi stand on southwest corner (near Pont de la Concorde)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Place de la Concorde.",
+            "Travel to Place de la Concorde."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Busy area",
+            "use crosswalk and"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:02:00",
+          "activity": "Taxi to CDG",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "~40 min, ~€50-60, Apple Pay; €50 cash backup"
+          ],
+          "transportation": [
+            "Drop off at Terminal 2E departures"
+          ],
+          "thingsToDo": [
+            "Travel to Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:45:00",
+          "activity": "Arrive CDG and retrieve luggage",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "Near Gate 2"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Arrive at Terminal 2E.",
+            "Handle luggage at Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Check-in/security (~1 hr)"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:45 AM - 4:05 PM",
+          "activity": "Snack and relax",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "~€40, Apple Pay"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Kids’ play area (Terminal 2E, free)"
+          ],
+          "type": [
+            "dining",
+            "activity"
+          ]
+        },
+        {
+          "time": "16:05:00",
+          "activity": "Flight to Venice",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "Delta 8356, CDG to VCE, 4:05 PM-5:45 PM"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Travel to Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
           ]
         }
       ]
