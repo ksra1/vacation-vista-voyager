@@ -2396,7 +2396,7 @@
             "Scenic journey through the Alps"
           ],
           "transportation": [
-            "EuroCity 178 (NON-FLEXIBLE) - Milano Centrale Platform TBD to Luzern Platform 3"
+            "EuroCity 178 (NON-FLEXIBLE) - Milano Centrale to Luzern Platform 3"
           ],
           "thingsToDo": [
             "Travel to From Milano Centrale to Luzern."
@@ -2588,28 +2588,29 @@
         {
           "time": "16:06 PM - 17:09 PM",
           "activity": "Train to Interlaken Ost",
-          "location": "Luzern Platform 4 to Interlaken Ost Platform 2A",
+          "location": "Luzern to Interlaken Ost",
           "mapLink": [
-            "https://maps.app.goo.gl/LuzernPlatform4",
-            "https://maps.app.goo.gl/InterlakenOstPlatform2A"
+            "https://maps.app.goo.gl/Luzern",
+            "https://maps.app.goo.gl/InterlakenOst"
           ],
           "directions": [
-            "Board IR 2275 departing 16:06 (FLEXIBLE ticket - Order no",
+            "Board train departing 16:06 (FLEXIBLE ticket - Order no",
             ": 144195204456)"
           ],
           "transportation": [
-            "InterRegio 2275 via Brünig (~1h 3min) - Point-to-point tickets valid 06",
+            "InterRegio via Brünig (~1h 3min) - Point-to-point tickets valid 06",
             "07-07",
             "07"
           ],
           "thingsToDo": [
-            "Travel to Luzern Platform 4 to Interlaken Ost Platform 2A."
+            "Travel to Luzern to Interlaken Ost."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Alternative trains: IR 2271 (13:06), IR 2273 (14:06), IR 2275 (15:06), IR 2277 (16:06), IR 2279 (17:06)"
+            "Alternative departures: 13:06, 14:06, 15:06, 16:06, 17:06 - check SBB",
+            "ch for current train numbers"
           ],
           "type": [
             "travel"
@@ -2618,11 +2619,8 @@
         {
           "time": "17:09 PM - 17:15 PM",
           "activity": "Transfer at Interlaken Ost",
-          "location": "Interlaken Ost Platform 2A to Platform 2B",
-          "mapLink": [
-            "https://maps.app.goo.gl/InterlakenOstPlatform2A",
-            "https://maps.app.goo.gl/Platform2B"
-          ],
+          "location": "Interlaken Ost station",
+          "mapLink": "https://maps.app.goo.gl/InterlakenOststation",
           "directions": [
             "Quick transfer, check departure board for Grindelwald train"
           ],
@@ -2645,28 +2643,29 @@
         {
           "time": "17:34 PM - 18:04 PM",
           "activity": "Train to Grindelwald",
-          "location": "Interlaken Ost Platform 2B to Grindelwald Platform 1",
+          "location": "Interlaken Ost to Grindelwald",
           "mapLink": [
-            "https://maps.app.goo.gl/InterlakenOstPlatform2B",
-            "https://maps.app.goo.gl/GrindelwaldPlatform1"
+            "https://maps.app.goo.gl/InterlakenOst",
+            "https://maps.app.goo.gl/Grindelwald"
           ],
           "directions": [
-            "Board BOB 1235 departing 17:34 (FLEXIBLE ticket - Order no",
+            "Board train departing 17:34 (FLEXIBLE ticket - Order no",
             ": 144024104510)"
           ],
           "transportation": [
-            "Berner Oberland Bahn 1235 (~30 min) - Point-to-point tickets valid 06",
+            "Berner Oberland Bahn (~30 min) - Point-to-point tickets valid 06",
             "07-07",
             "07"
           ],
           "thingsToDo": [
-            "Travel to Interlaken Ost Platform 2B to Grindelwald Platform 1."
+            "Travel to Interlaken Ost to Grindelwald."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Alternative trains: BOB 1233 (16:34), BOB 1235 (17:34), BOB 1237 (18:34), BOB 1239 (19:34)"
+            "Trains every 30 mins: 16:34, 17:04, 17:34, 18:04, 18:34, 19:04 - check SBB",
+            "ch for current train numbers"
           ],
           "type": [
             "travel"
@@ -2678,7 +2677,7 @@
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
           "directions": [
-            "Exit Grindelwald Platform 1, walk to hotel (Dorfstrasse 133)"
+            "Exit Grindelwald station, walk to hotel (Dorfstrasse 133)"
           ],
           "transportation": [
             "N/A"
@@ -3127,8 +3126,8 @@
         {
           "time": "09:00 AM - 09:10 AM",
           "activity": "Walk to station",
-          "location": "Grindelwald Bahnhof Platform 1",
-          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhofPlatform1",
+          "location": "Grindelwald Bahnhof",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhof",
           "directions": [
             "Walk to train station with luggage"
           ],
@@ -3136,7 +3135,7 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Grindelwald Bahnhof Platform 1."
+            "Walk to Grindelwald Bahnhof."
           ],
           "ticketsToBuy": [
             "None."
@@ -3151,29 +3150,30 @@
         {
           "time": "10:04 AM - 12:34 PM",
           "activity": "Train to Zürich HB",
-          "location": "Grindelwald Platform 1 to Zürich HB Platform 31-34",
+          "location": "Grindelwald to Zürich HB",
           "mapLink": [
-            "https://maps.app.goo.gl/GrindelwaldPlatform1",
-            "https://maps.app.goo.gl/ZürichHBPlatform31-34"
+            "https://maps.app.goo.gl/Grindelwald",
+            "https://maps.app.goo.gl/ZürichHB"
           ],
           "directions": [
-            "Board BOB/IC connection (FLEXIBLE ticket - Order no",
+            "Board connection trains (FLEXIBLE ticket - Order no",
             ": 144336404444)"
           ],
           "transportation": [
-            "BOB to Interlaken Ost, then IC to Zürich via Bern (~2h 30min) - Point-to-point tickets valid 08",
+            "Multiple connections via Interlaken Ost→Bern→Olten (~2h 30min) - Point-to-point tickets valid 08",
             "07-09",
             "07"
           ],
           "thingsToDo": [
-            "Travel to Grindelwald Platform 1 to Zürich HB Platform 31-34."
+            "Travel to Grindelwald to Zürich HB."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
             "Route: Grindelwald→Interlaken Ost→Bern→Olten→Zürich HB",
-            "Multiple daily connections available"
+            "Check SBB",
+            "ch for current train numbers and connections"
           ],
           "type": [
             "travel"
