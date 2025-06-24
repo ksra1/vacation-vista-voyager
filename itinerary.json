@@ -1,6 +1,36 @@
 {
   "itinerary": [
     {
+      "city": "City",
+      "date": "Date",
+      "activities": [
+        {
+          "time": "Time",
+          "activity": "Activity",
+          "location": "Location",
+          "mapLink": "https://maps.app.goo.gl/Location",
+          "directions": [
+            "Directions"
+          ],
+          "transportation": [
+            "Transportation Details"
+          ],
+          "thingsToDo": [
+            "Perform activity: Activity."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Notes"
+          ],
+          "type": [
+            "activity"
+          ]
+        }
+      ]
+    },
+    {
       "city": "Munich",
       "date": "July 10, 2025",
       "activities": [
@@ -1657,36 +1687,13 @@
           ]
         },
         {
-          "time": "20:45 PM - 20:50 PM",
-          "activity": "Withdraw cash",
-          "location": "Milano Centrale Station",
-          "mapLink": "https://maps.app.goo.gl/MilanoCentraleStation",
-          "directions": [
-            "At station ATM (near ticket counters)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Perform activity: Withdraw cash."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€100 withdrawal (fee ~€2-3, cash only)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€100 withdrawal (fee ~€2-3, cash only)"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "20:50 PM - 20:55 PM",
+          "time": "20:45 PM - 20:55 PM",
           "activity": "Walk to taxi stand",
           "location": "Taxi Stand, Milano Centrale",
           "mapLink": "https://maps.app.goo.gl/TaxiStand,MilanoCentrale",
           "directions": [
-            "Exit main entrance, turn right, follow “Taxi” signs (~5 min, 100m)"
+            "Exit main entrance, follow \"Taxi\" signs (~10 min, 200m)",
+            "Take your time"
           ],
           "transportation": [
             "N/A"
@@ -1706,7 +1713,7 @@
           ]
         },
         {
-          "time": "20:55 PM - 21:10 PM",
+          "time": "20:55 PM - 21:15 PM",
           "activity": "Taxi to NH Collection Porta Nuova",
           "location": "NH Collection Porta Nuova (Via Melchiorre Gioia 6)",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuovaViaMelchiorreGioia6",
@@ -1715,31 +1722,29 @@
             "Drop off at hotel"
           ],
           "transportation": [
-            "Taxi (~10-15 min)"
+            "Taxi (~15-20 min)"
           ],
           "thingsToDo": [
             "Travel to NH Collection Porta Nuova (Via Melchiorre Gioia 6)."
           ],
           "ticketsToBuy": [
-            "Cost: €10-15 (cash, €20 ready)",
-            "€5 cash tip optional"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €10-15 (cash, €20 ready)",
-            "Porters assist",
-            "€5 cash tip optional"
+            "Porters available for assistance"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "21:10 PM - 21:30 PM",
+          "time": "21:15 PM - 21:45 PM",
           "activity": "Check-in at NH Collection Porta Nuova",
           "location": "NH Collection Porta Nuova",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
           "directions": [
-            "At hotel front desk"
+            "At hotel front desk",
+            "Take time to settle in"
           ],
           "transportation": [
             "N/A"
@@ -1748,85 +1753,75 @@
             "Complete check-in/out at NH Collection Porta Nuova."
           ],
           "ticketsToBuy": [
-            "€20 cash deposit (refundable)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Booked (check-in from 15:00)",
             "Request quiet, high-floor room with city views",
-            "€20 cash deposit (refundable)",
             "Confirm check-out by 11:00 (Jul 6)",
-            "Modern hotel",
-            "kids relax in lounge"
+            "Modern hotel with family amenities"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "21:30 PM - 21:35 PM",
-          "activity": "Walk to Flower Burger",
-          "location": "Flower Burger (Via Amerigo Vespucci 9)",
-          "mapLink": "https://maps.app.goo.gl/FlowerBurgerViaAmerigoVespucci9",
+          "time": "21:45 PM - 21:55 PM",
+          "activity": "Walk to nearby restaurant",
+          "location": "Local restaurant near hotel",
+          "mapLink": "https://maps.app.goo.gl/Localrestaurantnearhotel",
           "directions": [
-            "Exit hotel, turn left on Via Melchiorre Gioia, right on Via Amerigo Vespucci, left on Viale della Liberazione (~5 min, 350m)"
+            "Exit hotel, explore nearby dining options in Porta Nuova area (~10 min walk)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Flower Burger (Via Amerigo Vespucci 9)."
+            "Walk to Local restaurant near hotel."
           ],
           "ticketsToBuy": [
-            "Taxi alternative: ~2 min, €8-12 (cash, €20 ready)"
+            "None."
           ],
           "costsAndNotes": [
             "Flat path",
-            "Taxi alternative: ~2 min, €8-12 (cash, €20 ready)"
+            "Many restaurant options within walking distance"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "21:35 PM - 22:30 PM",
-          "activity": "Dinner at Flower Burger",
-          "location": "Flower Burger (Via Amerigo Vespucci 9)",
-          "mapLink": "https://maps.app.goo.gl/FlowerBurgerViaAmerigoVespucci9",
+          "time": "21:55 PM - 23:00 PM",
+          "activity": "Dinner near hotel",
+          "location": "Restaurant in Porta Nuova area",
+          "mapLink": "https://maps.app.goo.gl/RestaurantinPortaNuovaarea",
           "directions": [
-            "At Flower Burger"
+            "At chosen restaurant",
+            "Leisurely dinner"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy dinner at flower burger at Flower Burger (Via Amerigo Vespucci 9)."
+            "Enjoy dinner near hotel at Restaurant in Porta Nuova area."
           ],
           "ticketsToBuy": [
-            "Cost: €30-50 (booked for 21:45 PM via flowerburger",
-            "it, €5 cash tip optional)",
-            "Vegan burgers (spicy chickpea, ~€8-12/person)",
-            "Drinks: €5-10 (cash, EUR only)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €30-50 (booked for 21:45 PM via flowerburger",
-            "it, €5 cash tip optional)",
-            "Vegan burgers (spicy chickpea, ~€8-12/person)",
-            "Teen customizes spicy, 10-year-old likes fries",
-            "Casual vibe",
-            "reserve window table",
-            "Drinks: €5-10 (cash, EUR only)"
+            "Family-friendly options available",
+            "Take time to enjoy the meal"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "22:30 PM - 22:35 PM",
+          "time": "23:00 PM - 23:10 PM",
           "activity": "Walk back to hotel",
           "location": "NH Collection Porta Nuova",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
           "directions": [
-            "Same route: right on Viale della Liberazione, left on Via Amerigo Vespucci, right on Via Melchiorre Gioia (~5 min, 350m)"
+            "Return to hotel at relaxed pace (~10 min)"
           ],
           "transportation": [
             "N/A"
@@ -1835,18 +1830,17 @@
             "Walk to NH Collection Porta Nuova."
           ],
           "ticketsToBuy": [
-            "Taxi alternative: ~2 min, €8-12 (cash, €20 ready)"
+            "None."
           ],
           "costsAndNotes": [
-            "Flat path",
-            "Taxi alternative: ~2 min, €8-12 (cash, €20 ready)"
+            "Flat path"
           ],
           "type": [
-            "travel"
+            "activity"
           ]
         },
         {
-          "time": "22:35 PM Onward",
+          "time": "23:10 PM Onward",
           "activity": "Relax at hotel",
           "location": "NH Collection Porta Nuova",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
@@ -1864,8 +1858,7 @@
           ],
           "costsAndNotes": [
             "Unpack essentials, early night",
-            "Kids use Wi-Fi",
-            "guide 10-year-old to bed"
+            "Kids use Wi-Fi"
           ],
           "type": [
             "activity"
@@ -1878,94 +1871,85 @@
       "date": "July 5, 2025",
       "activities": [
         {
-          "time": "08:00 AM - 08:05 AM",
-          "activity": "Walk to Soulgreen",
-          "location": "Soulgreen (Piazza Gae Aulenti 8)",
-          "mapLink": "https://maps.app.goo.gl/SoulgreenPiazzaGaeAulenti8",
+          "time": "08:30 AM - 08:40 AM",
+          "activity": "Walk to breakfast spot",
+          "location": "Breakfast café near hotel",
+          "mapLink": "https://maps.app.goo.gl/Breakfastcafénearhotel",
           "directions": [
-            "Exit hotel, turn left on Via Melchiorre Gioia, right on Via Amerigo Vespucci (~5 min, 400m)"
+            "Exit hotel, find nearby café in Porta Nuova area (~10 min walk)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Soulgreen (Piazza Gae Aulenti 8)."
+            "Walk to Breakfast café near hotel.",
+            "Enjoy walk to breakfast spot at Breakfast café near hotel."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Flat path"
+            "Flat path",
+            "Several options available"
           ],
           "type": [
-            "travel"
+            "travel",
+            "dining"
           ]
         },
         {
-          "time": "08:05 AM - 09:05 AM",
-          "activity": "Breakfast at Soulgreen",
-          "location": "Soulgreen (Piazza Gae Aulenti 8)",
-          "mapLink": "https://maps.app.goo.gl/SoulgreenPiazzaGaeAulenti8",
+          "time": "08:40 AM - 09:45 AM",
+          "activity": "Breakfast",
+          "location": "Local café",
+          "mapLink": "https://maps.app.goo.gl/Localcafé",
           "directions": [
-            "At Soulgreen"
+            "At chosen café",
+            "Leisurely breakfast"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy breakfast at soulgreen at Soulgreen (Piazza Gae Aulenti 8)."
+            "Enjoy breakfast at Local café."
           ],
           "ticketsToBuy": [
-            "Cost: €35-55 (booked for 08:15 AM via soulgreen",
-            "com, €5 cash tip optional)",
-            "Veggie focaccia/panini/sformato (~€7-10)",
-            "Drinks: €2-4",
-            "Drinks: €5-10 (cash, EUR only)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €35-55 (booked for 08:15 AM via soulgreen",
-            "com, €5 cash tip optional)",
-            "Veggie focaccia/panini/sformato (~€7-10)",
-            "Teen likes spicy panini, 10-year-old prefers mild focaccia",
-            "Drinks: €2-4",
-            "Luxurious vibe",
-            "reserve quiet table",
-            "Drinks: €5-10 (cash, EUR only)"
+            "Take time to enjoy breakfast and plan the day"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "09:05 AM - 09:15 AM",
-          "activity": "Taxi to Galleria Vittorio Emanuele II",
-          "location": "Galleria Vittorio Emanuele II (Piazza del Duomo)",
-          "mapLink": [
-            "https://maps.app.goo.gl/GalleriaVit",
-            "https://maps.app.goo.gl/rioEmanueleIIPiazzadelDuomo"
-          ],
+          "time": "09:45 AM - 10:00 AM",
+          "activity": "Taxi to Duomo area",
+          "location": "Piazza del Duomo",
+          "mapLink": "https://maps.app.goo.gl/PiazzadelDuomo",
           "directions": [
-            "Board taxi at Soulgreen",
+            "Board taxi near hotel",
             "Drop off at Piazza del Duomo"
           ],
           "transportation": [
-            "Taxi (~10 min)"
+            "Taxi (~15 min)"
           ],
           "thingsToDo": [
-            "Travel to Galleria Vittorio Emanuele II (Piazza del Duomo)."
+            "Travel to Piazza del Duomo."
           ],
           "ticketsToBuy": [
-            "Cost: €10-15 (cash, €20 ready)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €10-15 (cash, €20 ready)"
+            "Central drop-off point for sightseeing"
           ],
           "type": [
-            "travel"
+            "travel",
+            "activity"
           ]
         },
         {
-          "time": "09:15 AM - 11:00 AM",
+          "time": "10:00 AM - 11:30 AM",
           "activity": "Explore Galleria Vittorio Emanuele II",
           "location": "Galleria Vittorio Emanuele II",
           "mapLink": [
@@ -1973,7 +1957,7 @@
             "https://maps.app.goo.gl/rioEmanueleII"
           ],
           "directions": [
-            "At Galleria"
+            "At Galleria, directly connected to Piazza del Duomo"
           ],
           "transportation": [
             "N/A"
@@ -1982,270 +1966,245 @@
             "Explore or relax at Galleria Vittorio Emanuele II."
           ],
           "ticketsToBuy": [
-            "Souvenirs: €5-10 (cash, EUR only)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Free (~1h 45m)",
-            "Luxury boutiques (Prada, Gucci)",
-            "Teen enjoys fashion, 10-year-old spins on bull mosaic",
-            "Calm morning",
-            "Souvenirs: €5-10 (cash, EUR only)",
-            "Supervise 10-year-old in crowds"
+            "Luxury shopping arcade",
+            "Kids enjoy the glass ceiling and mosaic floors",
+            "Take photos at the bull mosaic"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "11:00 AM - 11:05 AM",
-          "activity": "Walk to Peck",
-          "location": "Peck (Via Spadari 9)",
-          "mapLink": "https://maps.app.goo.gl/PeckViaSpadari9",
+          "time": "11:30 AM - 11:40 AM",
+          "activity": "Walk to La Scala area",
+          "location": "Teatro alla Scala",
+          "mapLink": "https://maps.app.goo.gl/TeatroallaScala",
           "directions": [
-            "Exit Galleria onto Piazza della Scala, left on Via Alessandro Manzoni, right on Via Gesù, left on Via Spadari (~5 min, 300m)"
+            "Exit Galleria from the north end, Teatro alla Scala is right there (~5 min walk)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Peck (Via Spadari 9)."
+            "Walk to Teatro alla Scala."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Flat path"
+            "Very short walk, flat path"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "11:05 AM - 12:15 PM",
-          "activity": "Explore Peck",
-          "location": "Peck (Via Spadari 9)",
-          "mapLink": "https://maps.app.goo.gl/PeckViaSpadari9",
+          "time": "11:40 AM - 12:30 PM",
+          "activity": "Explore La Scala area",
+          "location": "Teatro alla Scala and surrounding area",
+          "mapLink": "https://maps.app.goo.gl/TeatroallaScalaandsurroundingarea",
           "directions": [
-            "At Peck"
+            "View the famous opera house exterior, explore the nearby streets"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Peck (Via Spadari 9)."
+            "Explore or relax at Teatro alla Scala and surrounding area."
           ],
           "ticketsToBuy": [
-            "Cost: Free entry, purchases €20-40 (cash)",
-            "Set snack budget (olives, €5-15, cash)",
-            "Cafe bites: €10-15 (cash)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Free entry, purchases €20-40 (cash)",
-            "Veggie cheeses, pastas, snacks",
-            "Teen loves cheeses, 10-year-old tries breadsticks",
-            "Set snack budget (olives, €5-15, cash)",
-            "Cafe bites: €10-15 (cash)",
-            "Supervise 10-year-old near displays"
+            "Historic area with beautiful architecture",
+            "Great for photos"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "12:15 PM - 12:20 PM",
-          "activity": "Walk to Panini Durini",
-          "location": "Panini Durini (Via San Prospero 4)",
-          "mapLink": "https://maps.app.goo.gl/PaniniDuriniViaSanProspero4",
+          "time": "12:30 PM - 12:40 PM",
+          "activity": "Walk to lunch restaurant",
+          "location": "Restaurant near La Scala",
+          "mapLink": "https://maps.app.goo.gl/RestaurantnearLaScala",
           "directions": [
-            "Exit Peck, left on Via Spadari, right on Via Victor Hugo, left on Via Orefici, right on Via Cordusio (~5 min, 350m)"
+            "Find a family-friendly restaurant in the La Scala area (~10 min walk)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Panini Durini (Via San Prospero 4)."
+            "Walk to Restaurant near La Scala.",
+            "Enjoy walk to lunch restaurant at Restaurant near La Scala."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Flat path"
+            "Many options available in this central area"
           ],
           "type": [
-            "travel"
+            "travel",
+            "dining"
           ]
         },
         {
-          "time": "12:20 PM - 13:30 PM",
-          "activity": "Lunch at Panini Durini",
-          "location": "Panini Durini (Via San Prospero 4)",
-          "mapLink": "https://maps.app.goo.gl/PaniniDuriniViaSanProspero4",
+          "time": "12:40 PM - 14:00 PM",
+          "activity": "Lunch",
+          "location": "Local restaurant",
+          "mapLink": "https://maps.app.goo.gl/Localrestaurant",
           "directions": [
-            "At Panini Durini"
+            "At chosen restaurant",
+            "Long, leisurely lunch"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy lunch at panini durini at Panini Durini (Via San Prospero 4)."
+            "Enjoy lunch at Local restaurant."
           ],
           "ticketsToBuy": [
-            "Cost: €30-50 (booked for 12:30 PM via paninidurini",
-            "it, €5 cash tip optional)",
-            "Veggie focaccia/panini/salad (~€7-12)",
-            "Drinks/gelato: €5-10 (cash)",
-            "Backup: California Bakery (Piazza San Fedele 1, €40-60, cash drinks €5-10)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €30-50 (booked for 12:30 PM via paninidurini",
-            "it, €5 cash tip optional)",
-            "Veggie focaccia/panini/salad (~€7-12)",
-            "Teen likes spicy focaccia, 10-year-old prefers mild",
-            "Casual vibe",
-            "reserve quiet table",
-            "Drinks/gelato: €5-10 (cash)",
-            "Backup: California Bakery (Piazza San Fedele 1, €40-60, cash drinks €5-10)"
+            "Take time to rest and enjoy the meal",
+            "Kids can relax"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "13:30 PM - 13:40 PM",
+          "time": "14:00 PM - 14:15 PM",
           "activity": "Taxi to Brera District",
           "location": "Brera District (Via Brera)",
           "mapLink": "https://maps.app.goo.gl/BreraDistrictViaBrera",
           "directions": [
-            "Board taxi at Panini Durini",
-            "Drop off at Via Brera (near Via Brera 28)"
-          ],
-          "transportation": [
-            "Taxi (~5 min)"
-          ],
-          "thingsToDo": [
-            "Travel to Brera District (Via Brera)."
-          ],
-          "ticketsToBuy": [
-            "Cost: €8-12 (cash, €20 ready)"
-          ],
-          "costsAndNotes": [
-            "Cost: €8-12 (cash, €20 ready)"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "13:40 PM - 15:30 PM",
-          "activity": "Explore Brera District & Orto Botanico di Brera",
-          "location": "Brera District & Orto Botanico di Brera",
-          "mapLink": [
-            "https://maps.app.goo.gl/BreraDistrict&Or",
-            "https://maps.app.goo.gl/BotanicodiBrera"
-          ],
-          "directions": [
-            "At Brera District; walk to Orto Botanico (~45 min)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Explore or relax at Brera District & Orto Botanico di Brera."
-          ],
-          "ticketsToBuy": [
-            "Street snacks: €5-10 (cash, EUR only)"
-          ],
-          "costsAndNotes": [
-            "Cost: Free (~1h 50m)",
-            "Cobblestone streets, luxury boutiques",
-            "Teen enjoys photos, 10-year-old loves streets",
-            "Orto Botanico: serene garden, kids relax",
-            "Street snacks: €5-10 (cash, EUR only)"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "15:30 PM - 15:40 PM",
-          "activity": "Taxi to Navigli District",
-          "location": "Navigli District (Alzaia Naviglio Grande)",
-          "mapLink": "https://maps.app.goo.gl/NavigliDistrictAlzaiaNaviglioGrande",
-          "directions": [
-            "Board taxi at Brera",
-            "Drop off at Alzaia Naviglio Grande (near Alzaia Naviglio Grande 4)"
+            "Board taxi near restaurant",
+            "Drop off at main Brera area"
           ],
           "transportation": [
             "Taxi (~10 min)"
           ],
           "thingsToDo": [
-            "Travel to Navigli District (Alzaia Naviglio Grande)."
+            "Travel to Brera District (Via Brera)."
           ],
           "ticketsToBuy": [
-            "Cost: €10-15 (cash, €20 ready)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €10-15 (cash, €20 ready)"
+            "Historic artist quarter"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "15:40 PM - 17:00 PM",
-          "activity": "Explore Navigli District",
-          "location": "Navigli District (Alzaia Naviglio Grande)",
-          "mapLink": "https://maps.app.goo.gl/NavigliDistrictAlzaiaNaviglioGrande",
+          "time": "14:15 PM - 16:00 PM",
+          "activity": "Explore Brera District",
+          "location": "Brera District",
+          "mapLink": "https://maps.app.goo.gl/BreraDistrict",
           "directions": [
-            "At Navigli District"
+            "Walk through the charming cobblestone streets, visit art galleries and boutiques"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Navigli District (Alzaia Naviglio Grande)."
+            "Explore or relax at Brera District."
           ],
           "ticketsToBuy": [
-            "Purchases: €5-15 (cash, EUR only)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Free (~1h 20m)",
-            "Canal-side stroll, artisan shops, vintage market",
-            "Teen enjoys views, 10-year-old loves boats",
-            "Purchases: €5-15 (cash, EUR only)",
-            "Supervise 10-year-old near water"
+            "Picturesque area perfect for walking",
+            "Take lots of photos",
+            "Watch footing on cobblestones"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "17:00 PM - 17:15 PM",
-          "activity": "Taxi to hotel",
-          "location": "NH Collection Porta Nuova",
-          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "time": "16:00 PM - 16:15 PM",
+          "activity": "Taxi to Navigli District",
+          "location": "Navigli District (Alzaia Naviglio Grande)",
+          "mapLink": "https://maps.app.goo.gl/NavigliDistrictAlzaiaNaviglioGrande",
           "directions": [
-            "Board taxi at Navigli",
-            "Drop off at Via Melchiorre Gioia 6"
+            "Board taxi in Brera",
+            "Drop off at the main canal area"
           ],
           "transportation": [
             "Taxi (~15 min)"
           ],
           "thingsToDo": [
-            "Travel to NH Collection Porta Nuova."
+            "Travel to Navigli District (Alzaia Naviglio Grande)."
           ],
           "ticketsToBuy": [
-            "Cost: €10-15 (cash, €20 ready)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €10-15 (cash, €20 ready)"
+            "Famous canal district"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "17:15 PM - 19:00 PM",
+          "time": "16:15 PM - 17:30 PM",
+          "activity": "Explore Navigli District",
+          "location": "Navigli District",
+          "mapLink": "https://maps.app.goo.gl/NavigliDistrict",
+          "directions": [
+            "Walk along the canals, explore artisan shops and markets"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Navigli District."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Beautiful canal-side stroll",
+            "Kids enjoy watching boats",
+            "Many shops and cafés along the way"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "17:30 PM - 17:45 PM",
+          "activity": "Taxi back to hotel",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "Board taxi at Navigli",
+            "Return to hotel"
+          ],
+          "transportation": [
+            "Taxi (~20 min)"
+          ],
+          "thingsToDo": [
+            "Travel to NH Collection Porta Nuova."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "17:45 PM - 19:30 PM",
           "activity": "Rest at hotel",
           "location": "NH Collection Porta Nuova",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
@@ -2262,77 +2221,72 @@
             "None."
           ],
           "costsAndNotes": [
-            "Kids relax (Wi-Fi, TV)",
-            "prepare for evening"
+            "Long rest period",
+            "Kids can relax, use Wi-Fi, prepare for evening"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "19:00 PM - 19:10 PM",
-          "activity": "Walk to Cioccolatitaliani",
-          "location": "Cioccolatitaliani (Piazza Gae Aulenti 1)",
-          "mapLink": "https://maps.app.goo.gl/CioccolatitalianiPiazzaGaeAulenti1",
+          "time": "19:30 PM - 19:40 PM",
+          "activity": "Walk to dinner",
+          "location": "Restaurant near hotel",
+          "mapLink": "https://maps.app.goo.gl/Restaurantnearhotel",
           "directions": [
-            "Exit hotel, left on Via Melchiorre Gioia, right on Via Amerigo Vespucci (~5 min, 400m)"
+            "Exit hotel, find dinner option in Porta Nuova area (~10 min walk)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Cioccolatitaliani (Piazza Gae Aulenti 1)."
+            "Walk to Restaurant near hotel.",
+            "Enjoy walk to dinner at Restaurant near hotel."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Flat path"
+            "Flat path",
+            "Many family-friendly options nearby"
           ],
           "type": [
-            "travel"
+            "travel",
+            "dining"
           ]
         },
         {
-          "time": "19:10 PM - 20:20 PM",
-          "activity": "Dinner at Cioccolatitaliani",
-          "location": "Cioccolatitaliani (Piazza Gae Aulenti 1)",
-          "mapLink": "https://maps.app.goo.gl/CioccolatitalianiPiazzaGaeAulenti1",
+          "time": "19:40 PM - 21:00 PM",
+          "activity": "Dinner",
+          "location": "Local restaurant",
+          "mapLink": "https://maps.app.goo.gl/Localrestaurant",
           "directions": [
-            "At Cioccolatitaliani"
+            "At chosen restaurant",
+            "Leisurely dinner"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy dinner at cioccolatitaliani at Cioccolatitaliani (Piazza Gae Aulenti 1)."
+            "Enjoy dinner at Local restaurant."
           ],
           "ticketsToBuy": [
-            "Cost: €30-50 (booked for 19:15 PM via cioccolatitaliani",
-            "it, €5 cash tip optional)",
-            "Veggie panini/salad/crepes (~€8-12/person)",
-            "Drinks: €5-10 (cash, EUR only)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €30-50 (booked for 19:15 PM via cioccolatitaliani",
-            "it, €5 cash tip optional)",
-            "Veggie panini/salad/crepes (~€8-12/person)",
-            "Teen likes spicy panini, 10-year-old prefers mild crepe",
-            "Modern vibe",
-            "reserve quiet table",
-            "Drinks: €5-10 (cash, EUR only)"
+            "Take time to enjoy the meal and reflect on the day"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "20:20 PM - 20:30 PM",
+          "time": "21:00 PM - 21:10 PM",
           "activity": "Walk back to hotel",
           "location": "NH Collection Porta Nuova",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
           "directions": [
-            "Same route: left on Via Amerigo Vespucci, right on Via Melchiorre Gioia (~5 min, 400m)"
+            "Return to hotel at relaxed pace (~10 min)"
           ],
           "transportation": [
             "N/A"
@@ -2351,7 +2305,7 @@
           ]
         },
         {
-          "time": "20:30 PM Onward",
+          "time": "21:10 PM Onward",
           "activity": "Relax at hotel",
           "location": "NH Collection Porta Nuova",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
@@ -2368,7 +2322,7 @@
             "None."
           ],
           "costsAndNotes": [
-            "Early night for train to Lucerne"
+            "Early night for train to Lucerne tomorrow"
           ],
           "type": [
             "travel",
@@ -2378,9 +2332,86 @@
       ]
     },
     {
-      "city": "Grindelwald, Interlaken, Lucerne, Milan",
+      "city": "Grindelwald, Interlaken, Milan",
       "date": "July 6, 2025",
       "activities": [
+        {
+          "time": "08:00 AM - 09:00 AM",
+          "activity": "Breakfast and check out",
+          "location": "NH Collection Porta Nuova",
+          "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
+          "directions": [
+            "Leisurely breakfast at hotel, then check out"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast and check out at NH Collection Porta Nuova.",
+            "Complete check-in/out at NH Collection Porta Nuova."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Pack and prepare for departure to Lucerne"
+          ],
+          "type": [
+            "travel",
+            "dining"
+          ]
+        },
+        {
+          "time": "09:00 AM - 09:20 AM",
+          "activity": "Taxi to Milano Centrale",
+          "location": "Milano Centrale Station",
+          "mapLink": "https://maps.app.goo.gl/MilanoCentraleStation",
+          "directions": [
+            "Board taxi at hotel",
+            "Drop off at train station"
+          ],
+          "transportation": [
+            "Taxi (~20 min)"
+          ],
+          "thingsToDo": [
+            "Travel to Milano Centrale Station."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Allow extra time for luggage and station navigation"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "09:20 AM - 10:10 AM",
+          "activity": "At Milano Centrale Station",
+          "location": "Milano Centrale Station",
+          "mapLink": "https://maps.app.goo.gl/MilanoCentraleStation",
+          "directions": [
+            "Find platform for EuroCity 178 to Luzern",
+            "Check departure boards"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: At Milano Centrale Station."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Arrive early to find platform and seats",
+            "Beautiful historic station to explore"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
         {
           "time": "10:10 AM - 13:41 PM",
           "activity": "Train to Lucerne",
@@ -2391,8 +2422,7 @@
           ],
           "directions": [
             "Board EuroCity 178 by 10:00 AM",
-            "Arrive at Luzern train station",
-            "Present e-ticket and official ID during control"
+            "Scenic journey through the Alps"
           ],
           "transportation": [
             "Train: EuroCity 178 (~3h 31m, PNR: 3CEZV5, 2nd Class, Coach 17, Seats 31, 32, 33, 38)"
@@ -2401,57 +2431,11 @@
             "Travel to From Milano Centrale to Luzern."
           ],
           "ticketsToBuy": [
-            "Cost: €240 (booked, Booking Ref: 830816960404, 830816960306, 830816960208, 830816960110)"
-          ],
-          "costsAndNotes": [
-            "Cost: €240 (booked, Booking Ref: 830816960404, 830816960306, 830816960208, 830816960110)",
-            "Passengers: Passenger 1 (Adult), Passenger 2 (Adult), Passenger 3 (Child, DOB: 12/02/2011), Passenger 4 (Child)",
-            "Issued: 2025-06-11, via WWW",
-            "INTERNAL-BAHN",
-            "DE_1"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "13:41 PM - 16:11 PM",
-          "activity": "Train to Interlaken Ost",
-          "location": "From Luzern to Interlaken Ost",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromLuzern",
-            "https://maps.app.goo.gl/InterlakenOst"
-          ],
-          "directions": [
-            "Depart from Luzern train station",
-            "Arrive at Interlaken Ost train station via Brünig",
             "Present e-ticket and official ID during control"
           ],
-          "transportation": [
-            "Train: Point-to-point, 2nd Class (~2h 30m)"
-          ],
-          "thingsToDo": [
-            "Travel to From Luzern to Interlaken Ost."
-          ],
-          "ticketsToBuy": [
-            ": 144195204456, Ticket IDs: 510320533138, 688950413618, 648664022253, 956037337924)",
-            "Passengers: Passenger 1 (Full fare, CHF 34",
-            "00), Passenger 2 (Full fare, CHF 34",
-            "00), Passenger 3 (Reduced fare 1/2, CHF 17",
-            "00, DOB: 12/02/2011), Passenger 4 (Reduced fare 1/2, CHF 17",
-            "E-tickets non-transferable, refunds per T600"
-          ],
           "costsAndNotes": [
-            "Cost: CHF 102 (booked, Order no",
-            ": 144195204456, Ticket IDs: 510320533138, 688950413618, 648664022253, 956037337924)",
-            "Passengers: Passenger 1 (Full fare, CHF 34",
-            "00), Passenger 2 (Full fare, CHF 34",
-            "00), Passenger 3 (Reduced fare 1/2, CHF 17",
-            "00, DOB: 12/02/2011), Passenger 4 (Reduced fare 1/2, CHF 17",
-            "00, DOB: 27/08/2014)",
-            "E-tickets non-transferable, refunds per T600",
-            "9",
-            "Issued: 2025"
+            "Present e-ticket and official ID during control",
+            "Enjoy the mountain scenery"
           ],
           "type": [
             "travel"
