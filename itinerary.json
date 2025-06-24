@@ -2332,7 +2332,7 @@
       ]
     },
     {
-      "city": "Grindelwald, Interlaken, Milan",
+      "city": "Grindelwald, Interlaken, Lucerne, Milan",
       "date": "July 6, 2025",
       "activities": [
         {
@@ -2422,6 +2422,7 @@
           ],
           "directions": [
             "Board EuroCity 178 by 10:00 AM",
+            "Coach 17, Seats 31,32,33,38, PNR: 3CEZV5",
             "Scenic journey through the Alps"
           ],
           "transportation": [
@@ -2442,133 +2443,293 @@
           ]
         },
         {
-          "time": "16:11 PM - 16:41 PM",
-          "activity": "Train to Grindelwald",
-          "location": "From Interlaken Ost to Grindelwald",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromInterlakenOst",
-            "https://maps.app.goo.gl/Grindelwald"
-          ],
+          "time": "13:41 PM - 13:50 PM",
+          "activity": "Arrive at Luzern station",
+          "location": "Luzern Bahnhof",
+          "mapLink": "https://maps.app.goo.gl/LuzernBahnhof",
           "directions": [
-            "Depart from Interlaken Ost train station",
-            "Arrive at Grindelwald train station",
-            "Present e-ticket and official ID during control"
+            "Follow arrival signs from train"
           ],
           "transportation": [
-            "Train: Point-to-point, 2nd Class (~30 min)"
+            "EuroCity 178 from Milano Centrale (NON-FLEXIBLE) - Coach 17, Seats 31,32,33,38, PNR: 3CEZV5"
           ],
           "thingsToDo": [
-            "Travel to From Interlaken Ost to Grindelwald."
+            "Arrive at Luzern Bahnhof."
           ],
           "ticketsToBuy": [
-            ": 144024104510, Ticket IDs: 922333704759, 105789006021, 266891476166, 021345828664)",
-            "Passengers: Passenger 1 (Full fare, CHF 11",
-            "80), Passenger 2 (Full fare, CHF 11",
-            "80), Passenger 3 (Reduced fare 1/2, CHF 5",
-            "90, DOB: 12/02/2011), Passenger 4 (Reduced fare 1/2, CHF 5",
-            "E-tickets non-transferable, refunds per T600"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: CHF 35",
-            "40 (booked, Order no",
-            ": 144024104510, Ticket IDs: 922333704759, 105789006021, 266891476166, 021345828664)",
-            "Passengers: Passenger 1 (Full fare, CHF 11",
-            "80), Passenger 2 (Full fare, CHF 11",
-            "80), Passenger 3 (Reduced fare 1/2, CHF 5",
-            "90, DOB: 12/02/2011), Passenger 4 (Reduced fare 1/2, CHF 5",
-            "90, DOB: 27/08/2014)",
-            "E-tickets non-transferable, refunds per T600",
-            "9",
-            "Issued: 2025"
+            "Beautiful station with lake views nearby"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "16:41 PM - 16:46 PM",
-          "activity": "Withdraw cash",
-          "location": "Grindelwald Bahnhof",
-          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhof",
+          "time": "13:50 PM - 14:00 PM",
+          "activity": "Store luggage",
+          "location": "Luzern station luggage storage",
+          "mapLink": [
+            "https://maps.app.goo.gl/Luzernstationluggages",
+            "https://maps.app.goo.gl/rage"
+          ],
           "directions": [
-            "At station ATM (near ticket office)"
+            "Find luggage lockers or left luggage office near main concourse"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Perform activity: Withdraw cash."
+            "Handle luggage at Luzern station luggage storage."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: ~CHF 100 withdrawal (fee ~CHF 2-3, cash only)",
-            "Check Apple Pay for nearby vendors"
+            "Take time to organize belongings for city exploration"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "14:00 PM - 14:10 PM",
+          "activity": "Walk to Chapel Bridge",
+          "location": "Chapel Bridge (Kapellbrücke)",
+          "mapLink": "https://maps.app.goo.gl/ChapelBridgeKapellbrücke",
+          "directions": [
+            "Exit station, walk towards lake and follow signs to Chapel Bridge (~10 min walk)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Chapel Bridge (Kapellbrücke)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Historic covered wooden bridge, perfect for photos"
+          ],
+          "type": [
+            "travel",
+            "activity"
+          ]
+        },
+        {
+          "time": "14:10 PM - 15:00 PM",
+          "activity": "Explore Chapel Bridge and Old Town",
+          "location": "Chapel Bridge area and Altstadt",
+          "mapLink": "https://maps.app.goo.gl/ChapelBridgeareaandAltstadt",
+          "directions": [
+            "Walk across the bridge, explore nearby old town streets at leisurely pace"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Chapel Bridge area and Altstadt."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Beautiful flowers on bridge, painted panels, charming medieval streets"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "16:46 PM - 16:51 PM",
-          "activity": "Walk to taxi stand",
-          "location": "Taxi Stand, Grindelwald Bahnhof",
-          "mapLink": "https://maps.app.goo.gl/TaxiStand,GrindelwaldBahnhof",
+          "time": "15:00 PM - 15:20 PM",
+          "activity": "Walk to Lake Lucerne",
+          "location": "Lake Lucerne waterfront",
+          "mapLink": "https://maps.app.goo.gl/LakeLucernewaterfront",
           "directions": [
-            "Exit station, turn left, follow “Taxi” signs (~2 min, 50m)"
+            "Short walk from Chapel Bridge to lakefront promenade"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Taxi Stand, Grindelwald Bahnhof.",
-            "Travel to Taxi Stand, Grindelwald Bahnhof."
+            "Walk to Lake Lucerne waterfront."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Flat path, small station"
+            "Stunning mountain and lake views, perfect for family photos"
           ],
           "type": [
-            "travel"
+            "travel",
+            "activity"
           ]
         },
         {
-          "time": "16:51 PM - 16:56 PM",
-          "activity": "Taxi to Eiger Mountain & Soul Resort",
-          "location": "Eiger Mountain & Soul Resort (Dorfstrasse 133)",
-          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResortDorfstrasse133",
+          "time": "15:20 PM - 15:50 PM",
+          "activity": "Relax by Lake Lucerne",
+          "location": "Lake Lucerne promenade",
+          "mapLink": "https://maps.app.goo.gl/LakeLucernepromenade",
           "directions": [
-            "Board taxi at station",
-            "Drop off at hotel"
+            "Find a bench or café with lake views, enjoy the scenery"
           ],
           "transportation": [
-            "Taxi (~5 min)"
+            "N/A"
           ],
           "thingsToDo": [
-            "Travel to Eiger Mountain & Soul Resort (Dorfstrasse 133)."
+            "Explore or relax at Lake Lucerne promenade."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: CHF 10-15 (cash, CHF 20 ready)",
-            "Porters assist",
-            "CHF 5 cash tip optional"
+            "Take time to appreciate the Swiss Alpine scenery"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "15:50 PM - 16:00 PM",
+          "activity": "Walk back to station",
+          "location": "Luzern Bahnhof",
+          "mapLink": "https://maps.app.goo.gl/LuzernBahnhof",
+          "directions": [
+            "Return to station to collect luggage and catch train"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Luzern Bahnhof."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Leisurely walk back, allow time for luggage retrieval"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "16:06 PM - 17:09 PM",
+          "activity": "Train to Interlaken Ost",
+          "location": "Luzern to Interlaken Ost",
+          "mapLink": [
+            "https://maps.app.goo.gl/Luzern",
+            "https://maps.app.goo.gl/InterlakenOst"
+          ],
+          "directions": [
+            "Board train departing 16:06 (FLEXIBLE ticket - Order no",
+            ": 144195204456)"
+          ],
+          "transportation": [
+            "Train via Brünig (~1h 3min) - Point-to-point tickets valid 06",
+            "07-07",
+            "07"
+          ],
+          "thingsToDo": [
+            "Travel to Luzern to Interlaken Ost."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Alternative trains: 14:06, 15:06, 17:06 if timing changes"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "16:56 PM - 17:16 PM",
-          "activity": "Check-in at Eiger Mountain & Soul Resort",
+          "time": "17:09 PM - 17:15 PM",
+          "activity": "Transfer at Interlaken Ost",
+          "location": "Interlaken Ost station",
+          "mapLink": "https://maps.app.goo.gl/InterlakenOststation",
+          "directions": [
+            "Quick transfer, check departure board for Grindelwald train"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Transfer at Interlaken Ost."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Small station, easy to navigate"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "17:39 PM - 17:45 PM",
+          "activity": "Train to Grindelwald",
+          "location": "Interlaken Ost to Grindelwald",
+          "mapLink": [
+            "https://maps.app.goo.gl/InterlakenOst",
+            "https://maps.app.goo.gl/Grindelwald"
+          ],
+          "directions": [
+            "Board train to Grindelwald (FLEXIBLE ticket - Order no",
+            ": 144024104510)"
+          ],
+          "transportation": [
+            "Train ~30 min - Point-to-point tickets valid 06",
+            "07-07",
+            "07"
+          ],
+          "thingsToDo": [
+            "Travel to Interlaken Ost to Grindelwald."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Trains run every 30 minutes typically"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "17:45 PM - 17:55 PM",
+          "activity": "Walk to hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
           "directions": [
-            "At hotel front desk"
+            "Exit station, short walk to hotel (Dorfstrasse 133)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Eiger Mountain & Soul Resort."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Beautiful village setting with mountain views"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "17:55 PM - 18:30 PM",
+          "activity": "Check-in at hotel",
+          "location": "Eiger Mountain & Soul Resort",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
+          "directions": [
+            "At hotel front desk, take time to settle in"
           ],
           "transportation": [
             "N/A"
@@ -2580,73 +2741,38 @@
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Booked (check-in from 15:00)",
-            "Request quiet, high-floor room with valley views",
-            "CHF 20 cash deposit (refundable)",
-            "Confirm check-out by 11:00 (Jul 8)",
-            "Luxurious hotel",
-            "kids relax in lounge with Wi-Fi"
+            "Request room with Eiger views, confirm amenities"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "17:16 PM - 17:26 PM",
-          "activity": "Walk to Restaurant Barry’s",
-          "location": "Restaurant Barry’s (Dorfstrasse 133, inside hotel)",
-          "mapLink": "https://maps.app.goo.gl/RestaurantBarry’sDorfstrasse133,insidehotel",
+          "time": "18:30 PM - 19:45 PM",
+          "activity": "Dinner at hotel restaurant",
+          "location": "Restaurant Barry's (in hotel)",
+          "mapLink": "https://maps.app.goo.gl/RestaurantBarry'sinhotel",
           "directions": [
-            "At hotel restaurant (no walking needed)"
+            "No walking needed, leisurely dinner"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Restaurant Barry’s (Dorfstrasse 133, inside hotel)."
+            "Enjoy dinner at hotel restaurant at Restaurant Barry's (in hotel)."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Inside hotel, convenient after travel"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "17:26 PM - 18:41 PM",
-          "activity": "Dinner at Restaurant Barry’s",
-          "location": "Restaurant Barry’s",
-          "mapLink": "https://maps.app.goo.gl/RestaurantBarry’s",
-          "directions": [
-            "At Restaurant Barry’s"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Enjoy dinner at restaurant barry’s at Restaurant Barry’s."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: CHF 80-120 (booked for 17:30 PM via eigermountainandsoul",
-            "com, CHF 5-10 cash tip optional)",
-            "Vegetarian options (veggie tartare, mushroom risotto, ~CHF 20-30/person)",
-            "Teen likes spicy pasta, 10-year-old prefers mild pizza",
-            "Upscale yet cozy vibe",
-            "reserve table with Eiger view",
-            "Drinks: CHF 5-15 (Apple Pay likely)"
+            "Vegetarian options available, Swiss specialties, mountain views"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "18:41 PM Onward",
+          "time": "19:45 PM Onward",
           "activity": "Relax at hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
@@ -2663,10 +2789,7 @@
             "None."
           ],
           "costsAndNotes": [
-            "Unpack essentials, early night",
-            "Kids use Wi-Fi",
-            "guide 10-year-old to bed",
-            "Hotel lounge has board games for family"
+            "Early night, enjoy hotel amenities and mountain air"
           ],
           "type": [
             "activity"
@@ -2679,14 +2802,12 @@
       "date": "July 7, 2025",
       "activities": [
         {
-          "time": "08:00 AM - 08:30 AM",
+          "time": "08:00 AM - 09:00 AM",
           "activity": "Breakfast at hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
           "directions": [
-            "Buffet with veggie options (muesli, cheese, croissants, fruits, yogurt)",
-            "Pack picnic (cheese/bread, ~CHF 4-9/person from hotel/Coop)",
-            "Request quiet table"
+            "Leisurely breakfast with mountain views"
           ],
           "transportation": [
             "N/A"
@@ -2698,25 +2819,22 @@
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Included (~CHF 20-30 value)",
-            "Teen likes granola, 10-year-old prefers pastries",
-            "Drinks: Coffee, juice included"
+            "Swiss buffet, pack some snacks for day trip"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "08:30 AM - 08:45 AM",
-          "activity": "Walk to First cable car station",
+          "time": "09:00 AM - 09:20 AM",
+          "activity": "Walk to First cable car",
           "location": "Grindelwald First Cable Car Station",
           "mapLink": "https://maps.app.goo.gl/GrindelwaldFirstCableCarStation",
           "directions": [
-            "Exit hotel, left on Dorfstrasse, ~5-10 min walk (300m) to station",
-            "Flat path"
+            "Exit hotel, walk to cable car station (~15 min leisurely pace)"
           ],
           "transportation": [
-            "Walk (~5-10 min)"
+            "N/A"
           ],
           "thingsToDo": [
             "Walk to Grindelwald First Cable Car Station."
@@ -2725,51 +2843,43 @@
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Free",
-            "Supervise 10-year-old in morning crowds"
+            "Flat walk through village, beautiful scenery"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "08:45 AM - 09:15 AM",
-          "activity": "Cable car to Grindelwald First",
+          "time": "09:20 AM - 09:50 AM",
+          "activity": "Cable car to First",
           "location": "Grindelwald First",
           "mapLink": "https://maps.app.goo.gl/GrindelwaldFirst",
           "directions": [
-            "Board cable car (~08:45 AM, check jungfrau",
-            "ch)",
-            "Scenic 25-min ride with Eiger/valley views",
-            "Buy tickets on-site"
+            "Take cable car up to First summit"
           ],
           "transportation": [
-            "Cable car (~25 min)"
+            "Cable car ~25 min"
           ],
           "thingsToDo": [
-            "Perform activity: Cable car to Grindelwald First."
+            "Perform activity: Cable car to First."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: CHF 68/adult round-trip, CHF 34/kids 6-15 (Apple Pay)",
-            "Swiss Travel Pass may cover",
-            "Teen enjoys views"
+            "Spectacular Alpine views, family-friendly"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "09:15 AM - 09:45 AM",
+          "time": "09:50 AM - 10:30 AM",
           "activity": "First Cliff Walk",
           "location": "Grindelwald First",
           "mapLink": "https://maps.app.goo.gl/GrindelwaldFirst",
           "directions": [
-            "Explore suspended walkway (15 min) for Eiger, Mönch, Jungfrau views",
-            "Take photos from platform",
-            "No booking needed"
+            "Explore the suspended cliff walk and viewing platforms"
           ],
           "transportation": [
             "N/A"
@@ -2778,269 +2888,220 @@
             "Walk to Grindelwald First."
           ],
           "ticketsToBuy": [
-            "Cost: Free with cable car ticket"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Free with cable car ticket",
-            "Unique: Swiss engineering, iconic vistas",
-            "Supervise 10-year-old near edges"
+            "Amazing views of Eiger, Mönch, Jungfrau - take lots of photos"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "09:45 AM - 12:05 PM",
-          "activity": "Bachalpsee Lake hike with picnic",
-          "location": "Bachalpsee (via Grindelwald First)",
-          "mapLink": "https://maps.app.goo.gl/BachalpseeviaGrindelwaldFirst",
+          "time": "10:30 AM - 12:30 PM",
+          "activity": "Bachalpsee Lake hike",
+          "location": "Bachalpsee via hiking trail",
+          "mapLink": "https://maps.app.goo.gl/Bachalpseeviahikingtrail",
           "directions": [
-            "Hike to Bachalpsee (2",
-            "5 km one-way, 45 min, easy)",
-            "Enjoy lake with Schreckhorn reflection",
-            "Picnic (20 min, cheese/bread)",
-            "Return (5 km total)"
+            "Easy hike to alpine lake (2",
+            "5km, ~45 min each way)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Perform activity: Bachalpsee Lake hike with picnic."
+            "Perform activity: Bachalpsee Lake hike."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Picnic CHF 4-9/person",
-            "Unique: Iconic Swiss lake, alpine picnic",
-            "Teen loves photos, 10-year-old enjoys trails"
+            "Beautiful mountain lake with reflections, perfect for picnic"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "12:05 PM - 12:35 PM",
-          "activity": "Cable car back to Grindelwald",
-          "location": "Grindelwald First Cable Car Station",
-          "mapLink": "https://maps.app.goo.gl/GrindelwaldFirstCableCarStation",
+          "time": "12:30 PM - 13:00 PM",
+          "activity": "Cable car back to village",
+          "location": "Grindelwald First to village",
+          "mapLink": [
+            "https://maps.app.goo.gl/GrindelwaldFirst",
+            "https://maps.app.goo.gl/village"
+          ],
           "directions": [
-            "Return via cable car (25 min)",
-            "Optional drink at First café (~CHF 5-10, cash/Apple Pay)"
+            "Return cable car journey"
           ],
           "transportation": [
-            "Cable car (~25 min)"
+            "Cable car ~25 min"
           ],
           "thingsToDo": [
-            "Perform activity: Cable car back to Grindelwald."
+            "Perform activity: Cable car back to village."
           ],
           "ticketsToBuy": [
-            "Cost: Included in round-trip ticket"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Included in round-trip ticket",
-            "Supervise kids during boarding"
+            "Rest and enjoy the descending views"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "12:35 PM - 12:50 PM",
-          "activity": "Walk to Glacier Gorge",
-          "location": "Gletscherschlucht (Glacier Gorge)",
-          "mapLink": "https://maps.app.goo.gl/GletscherschluchtGlacierGorge",
+          "time": "13:00 PM - 13:15 PM",
+          "activity": "Walk to lunch",
+          "location": "Local restaurant in village",
+          "mapLink": "https://maps.app.goo.gl/Localrestaurantinvillage",
           "directions": [
-            "Walk from cable car station via Dorfstrasse to Gletscherschlucht entrance (~15 min, 1 km)",
-            "Flat path, scenic village views"
-          ],
-          "transportation": [
-            "Walk (~15 min)"
-          ],
-          "thingsToDo": [
-            "Walk to Gletscherschlucht (Glacier Gorge)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: Free",
-            "Supervise 10-year-old on village paths"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "12:50 PM - 14:20 PM",
-          "activity": "Explore Glacier Gorge",
-          "location": "Gletscherschlucht",
-          "mapLink": "https://maps.app.goo.gl/Gletscherschlucht",
-          "directions": [
-            "Explore 1-km walkway with tunnels, waterfalls, “spiderweb” net (~1h 30m)",
-            "Self-guided, no booking needed"
+            "Find family-friendly restaurant in Grindelwald center"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Gletscherschlucht."
+            "Walk to Local restaurant in village.",
+            "Enjoy walk to lunch at Local restaurant in village."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: CHF 19/adult, CHF 10/kids 6-16, free under 6 (Apple Pay)",
-            "Teen loves photos, 10-year-old enjoys net",
-            "Supervise near edges"
+            "Many options along main street"
           ],
           "type": [
-            "activity"
+            "travel",
+            "dining"
           ]
         },
         {
-          "time": "14:20 PM - 14:35 PM",
-          "activity": "Walk to Restaurant Barry’s",
-          "location": "Restaurant Barry’s (Dorfstrasse 133)",
-          "mapLink": "https://maps.app.goo.gl/RestaurantBarry’sDorfstrasse133",
+          "time": "13:15 PM - 14:30 PM",
+          "activity": "Lunch",
+          "location": "Village restaurant",
+          "mapLink": "https://maps.app.goo.gl/Villagerestaurant",
           "directions": [
-            "Walk from Gletscherschlucht via Dorfstrasse to restaurant (~15 min, 1 km)",
-            "Flat path, scenic chalet views"
-          ],
-          "transportation": [
-            "Walk (~15 min)"
-          ],
-          "thingsToDo": [
-            "Walk to Restaurant Barry’s (Dorfstrasse 133)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: Free",
-            "Taxi alternative: ~5 min, CHF 10-15 (cash, CHF 20 ready)",
-            "Supervise 10-year-old"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "14:35 PM - 15:50 PM",
-          "activity": "Lunch at Restaurant Barry’s",
-          "location": "Restaurant Barry’s",
-          "mapLink": "https://maps.app.goo.gl/RestaurantBarry’s",
-          "directions": [
-            "Vegetarian Swiss dishes (veggie fondue, rosti, ~CHF 20-30/person)",
-            "Reserve terrace table for Eiger views (booked for 14:45 PM via barrys",
-            "ch)"
+            "Leisurely lunch with mountain views"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy lunch at restaurant barry’s at Restaurant Barry’s."
+            "Enjoy lunch at Village restaurant."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: CHF 80-120 (CHF 5-10 cash tip optional)",
-            "Teen likes spicy soup, 10-year-old prefers mild fondue",
-            "Apple Pay likely"
+            "Swiss cuisine, vegetarian options available"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "15:50 PM - 16:00 PM",
-          "activity": "Walk to Dorfstrasse",
-          "location": "Dorfstrasse",
-          "mapLink": "https://maps.app.goo.gl/Dorfstrasse",
+          "time": "14:30 PM - 15:30 PM",
+          "activity": "Explore village",
+          "location": "Grindelwald village center",
+          "mapLink": "https://maps.app.goo.gl/Grindelwaldvillagecenter",
           "directions": [
-            "Walk from restaurant to Dorfstrasse (~5 min, 300m)",
-            "Flat path, chalet-lined street"
-          ],
-          "transportation": [
-            "Walk (~5 min)"
-          ],
-          "thingsToDo": [
-            "Walk to Dorfstrasse."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Cost: Free",
-            "Supervise 10-year-old in afternoon crowds"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "16:00 PM - 16:45 PM",
-          "activity": "Explore Dorfstrasse & shops",
-          "location": "Dorfstrasse",
-          "mapLink": "https://maps.app.goo.gl/Dorfstrasse",
-          "directions": [
-            "Stroll Dorfstrasse, visit boutiques (Swiss chocolate, crafts)",
-            "See chalets, Eiger backdrop",
-            "(~45 min)"
+            "Walk along Dorfstrasse, visit shops, enjoy mountain scenery"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Dorfstrasse."
+            "Explore or relax at Grindelwald village center."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Free, souvenirs CHF 10-20 (cash, some Apple Pay)",
-            "Teen loves photos, 10-year-old likes chocolate shops"
+            "Charming Alpine village, great for souvenir shopping"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "16:45 PM - 16:55 PM",
-          "activity": "Walk to hotel",
+          "time": "15:30 PM - 16:00 PM",
+          "activity": "Return to hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
           "directions": [
-            "Walk from Dorfstrasse to hotel (~5 min, 300m)",
-            "Flat path"
+            "Walk back to hotel for rest"
           ],
           "transportation": [
-            "Walk (~5 min)"
+            "N/A"
           ],
           "thingsToDo": [
-            "Walk to Eiger Mountain & Soul Resort."
+            "Perform activity: Return to hotel."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Free",
-            "Taxi alternative: ~5 min, CHF 10-15 (cash, CHF 20 ready)",
-            "Supervise kids"
+            "Time to relax before evening"
           ],
           "type": [
-            "travel"
+            "activity"
           ]
         },
         {
-          "time": "16:55 PM Onward",
+          "time": "16:00 PM - 18:00 PM",
+          "activity": "Rest at hotel",
+          "location": "Eiger Mountain & Soul Resort",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
+          "directions": [
+            "Relax, enjoy hotel facilities"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Rest at hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Pool, spa, or just rest in rooms with mountain views"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "18:00 PM - 19:30 PM",
+          "activity": "Dinner",
+          "location": "Hotel or village restaurant",
+          "mapLink": "https://maps.app.goo.gl/Hotelorvillagerestaurant",
+          "directions": [
+            "Leisurely dinner"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy dinner at Hotel or village restaurant."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Final evening in the Swiss Alps"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "19:30 PM Onward",
           "activity": "Relax at hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
           "directions": [
-            "Kids relax (Wi-Fi, TV, lounge games)",
-            "Pack lightly for next destination"
+            "Prepare for departure tomorrow"
           ],
           "transportation": [
             "N/A"
@@ -3052,8 +3113,7 @@
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Free",
-            "Early evening for rest before departure"
+            "Pack, early night for travel day"
           ],
           "type": [
             "activity"
@@ -3062,86 +3122,186 @@
       ]
     },
     {
-      "city": "Grindelwald, Munich, Zürich",
+      "city": "Grindelwald, Munich, Zurich",
       "date": "July 8, 2025",
       "activities": [
         {
-          "time": "08:00 AM - 10:30 AM",
-          "activity": "Train to Zürich HB",
-          "location": "From Grindelwald to Zürich HB",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromGrindelwald",
-            "https://maps.app.goo.gl/ZürichHB"
-          ],
+          "time": "08:00 AM - 09:00 AM",
+          "activity": "Breakfast and check out",
+          "location": "Eiger Mountain & Soul Resort",
+          "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
           "directions": [
-            "Depart from Grindelwald train station",
-            "Arrive at Zürich HB train station via Interlaken Ost, Bern, and Olten",
-            "Present e-ticket and official ID during control"
+            "Final breakfast, check out procedures"
           ],
           "transportation": [
-            "Train: Point-to-point, 2nd Class (~2h 30m)"
+            "N/A"
           ],
           "thingsToDo": [
-            "Travel to From Grindelwald to Zürich HB."
+            "Enjoy breakfast and check out at Eiger Mountain & Soul Resort.",
+            "Complete check-in/out at Eiger Mountain & Soul Resort."
           ],
           "ticketsToBuy": [
-            ": 144336404444, Ticket IDs: 487277915166, 544229293763, 604325102188, 065351188798)",
-            "Passengers: Passenger 1 (Full fare, CHF 84",
-            "80), Passenger 2 (Full fare, CHF 84",
-            "80), Passenger 3 (Reduced fare 1/2, CHF 42",
-            "40, DOB: 12/02/2011), Passenger 4 (Reduced fare 1/2, CHF 42",
-            "E-tickets non-transferable, refunds per T600"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: CHF 254",
-            "40 (booked, Order no",
-            ": 144336404444, Ticket IDs: 487277915166, 544229293763, 604325102188, 065351188798)",
-            "Passengers: Passenger 1 (Full fare, CHF 84",
-            "80), Passenger 2 (Full fare, CHF 84",
-            "80), Passenger 3 (Reduced fare 1/2, CHF 42",
-            "40, DOB: 12/02/2011), Passenger 4 (Reduced fare 1/2, CHF 42",
-            "40, DOB: 27/08/2014)",
-            "E-tickets non-transferable, refunds per T600",
-            "9",
-            "Issued: 2025"
+            "Store luggage if needed before departure"
+          ],
+          "type": [
+            "travel",
+            "dining"
+          ]
+        },
+        {
+          "time": "09:00 AM - 09:10 AM",
+          "activity": "Walk to station",
+          "location": "Grindelwald Bahnhof",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhof",
+          "directions": [
+            "Walk to train station with luggage"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Grindelwald Bahnhof."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Allow extra time for luggage"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "15:33 PM - 19:04 PM",
-          "activity": "Train to Munich",
-          "location": "From Zürich HB to München Hbf",
+          "time": "10:30 AM - 13:00 PM",
+          "activity": "Train to Zürich HB",
+          "location": "Grindelwald to Zürich HB",
           "mapLink": [
-            "https://maps.app.goo.gl/FromZürichHB",
+            "https://maps.app.goo.gl/Grindelwald",
+            "https://maps.app.goo.gl/ZürichHB"
+          ],
+          "directions": [
+            "Board any train (FLEXIBLE ticket - Order no",
+            ": 144336404444)"
+          ],
+          "transportation": [
+            "Train ~2h 30min via Interlaken Ost-Bern-Olten - Point-to-point tickets valid 08",
+            "07-09",
+            "07"
+          ],
+          "thingsToDo": [
+            "Travel to Grindelwald to Zürich HB."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Multiple route options available"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "13:00 PM - 13:20 PM",
+          "activity": "Store luggage at Zürich HB",
+          "location": "Zürich HB station",
+          "mapLink": "https://maps.app.goo.gl/ZürichHBstation",
+          "directions": [
+            "Find luggage storage at main station"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Handle luggage at Zürich HB station."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Large station with good facilities"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "13:20 PM - 14:30 PM",
+          "activity": "Explore Zürich city center",
+          "location": "Zürich Altstadt",
+          "mapLink": "https://maps.app.goo.gl/ZürichAltstadt",
+          "directions": [
+            "Walk from station to old town for quick city exploration"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Zürich Altstadt."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Beautiful lakeside city, time permitting"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "14:30 PM - 15:00 PM",
+          "activity": "Return to station",
+          "location": "Zürich HB",
+          "mapLink": "https://maps.app.goo.gl/ZürichHB",
+          "directions": [
+            "Return to collect luggage and find departure platform"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Return to station."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Allow time to find Platform 34 for departure"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "15:33 PM - 19:04 PM",
+          "activity": "Train to München",
+          "location": "Zürich HB to München Hbf",
+          "mapLink": [
+            "https://maps.app.goo.gl/ZürichHB",
             "https://maps.app.goo.gl/MünchenHbf"
           ],
           "directions": [
-            "Board EuroCity 195 by 15:23 PM, platform 34",
-            "Arrive at München Hbf, platform 27-36",
-            "Present e-ticket and official ID during control"
+            "Board EC 195 (NON-FLEXIBLE) - Platform 34, arrive Platform 27-36"
           ],
           "transportation": [
-            "Train: EuroCity 195 (~3h 31m, Ticket Code: GYSETXVR, 1st Class, Coach 2, Seats 93, 94, 95, 96)"
+            "EuroCity 195 - Wg",
+            "2, Seats 93,94,95,96 (2 window, 2 aisle, table, Großraum) Res",
+            "-Nr",
+            "806000251637"
           ],
           "thingsToDo": [
-            "Travel to From Zürich HB to München Hbf."
+            "Travel to Zürich HB to München Hbf."
           ],
           "ticketsToBuy": [
-            "Cost: €112"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €112",
-            "98 (booked, Order no",
-            ": 495655912855, Reservation no",
-            ": 806000251637)",
-            "Passengers: Passenger 1 (Adult, 42y), Passenger 2 (Adult, 38y), Passenger 3 (Child, 14y), Passenger 4 (Child, 10y)",
-            "Super Sparpreis Europa, no cancellation",
-            "Issued: 2025-06-12, via DB",
-            "Check www",
-            "bahn",
-            "de for schedule updates"
+            "Scenic journey through Alps to Bavaria"
           ],
           "type": [
             "travel"
