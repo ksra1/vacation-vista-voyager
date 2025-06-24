@@ -2396,17 +2396,17 @@
             "Scenic journey through the Alps"
           ],
           "transportation": [
-            "Train: EuroCity 178 (~3h 31m, PNR: 3CEZV5, 2nd Class, Coach 17, Seats 31, 32, 33, 38)"
+            "EuroCity 178 (NON-FLEXIBLE) - Milano Centrale Platform TBD to Luzern Platform 3"
           ],
           "thingsToDo": [
             "Travel to From Milano Centrale to Luzern."
           ],
           "ticketsToBuy": [
-            "Present e-ticket and official ID during control"
+            "Present e-ticket and ID"
           ],
           "costsAndNotes": [
-            "Present e-ticket and official ID during control",
-            "Enjoy the mountain scenery"
+            "Present e-ticket and ID",
+            "Communicate PNR to crew"
           ],
           "type": [
             "travel"
@@ -2415,16 +2415,16 @@
         {
           "time": "13:41 PM - 13:50 PM",
           "activity": "Arrive at Luzern station",
-          "location": "Luzern Bahnhof",
-          "mapLink": "https://maps.app.goo.gl/LuzernBahnhof",
+          "location": "Luzern Bahnhof Platform 3",
+          "mapLink": "https://maps.app.goo.gl/LuzernBahnhofPlatform3",
           "directions": [
             "Follow arrival signs from train"
           ],
           "transportation": [
-            "EuroCity 178 from Milano Centrale (NON-FLEXIBLE) - Coach 17, Seats 31,32,33,38, PNR: 3CEZV5"
+            "EuroCity 178 arrival"
           ],
           "thingsToDo": [
-            "Arrive at Luzern Bahnhof."
+            "Arrive at Luzern Bahnhof Platform 3."
           ],
           "ticketsToBuy": [
             "None."
@@ -2445,7 +2445,7 @@
             "https://maps.app.goo.gl/rage"
           ],
           "directions": [
-            "Find luggage lockers or left luggage office near main concourse"
+            "Find luggage lockers near main concourse or SBB Travel Center"
           ],
           "transportation": [
             "N/A"
@@ -2588,30 +2588,28 @@
         {
           "time": "16:06 PM - 17:09 PM",
           "activity": "Train to Interlaken Ost",
-          "location": "Luzern to Interlaken Ost",
+          "location": "Luzern Platform 4 to Interlaken Ost Platform 2A",
           "mapLink": [
-            "https://maps.app.goo.gl/Luzern",
-            "https://maps.app.goo.gl/InterlakenOst"
+            "https://maps.app.goo.gl/LuzernPlatform4",
+            "https://maps.app.goo.gl/InterlakenOstPlatform2A"
           ],
           "directions": [
-            "Board train departing 16:06 (FLEXIBLE ticket - Order no",
-            ": 144195204456)",
-            "Trains available every 1 hr",
-            "13:06, 14:06,15:06,16:06, 17:06"
+            "Board IR 2275 departing 16:06 (FLEXIBLE ticket - Order no",
+            ": 144195204456)"
           ],
           "transportation": [
-            "Train via Brünig (~1h 3min) - Point-to-point tickets valid 06",
+            "InterRegio 2275 via Brünig (~1h 3min) - Point-to-point tickets valid 06",
             "07-07",
             "07"
           ],
           "thingsToDo": [
-            "Travel to Luzern to Interlaken Ost."
+            "Travel to Luzern Platform 4 to Interlaken Ost Platform 2A."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Alternative trains: 14:06, 15:06, 17:06 if timing changes"
+            "Alternative trains: IR 2271 (13:06), IR 2273 (14:06), IR 2275 (15:06), IR 2277 (16:06), IR 2279 (17:06)"
           ],
           "type": [
             "travel"
@@ -2620,8 +2618,11 @@
         {
           "time": "17:09 PM - 17:15 PM",
           "activity": "Transfer at Interlaken Ost",
-          "location": "Interlaken Ost station",
-          "mapLink": "https://maps.app.goo.gl/InterlakenOststation",
+          "location": "Interlaken Ost Platform 2A to Platform 2B",
+          "mapLink": [
+            "https://maps.app.goo.gl/InterlakenOstPlatform2A",
+            "https://maps.app.goo.gl/Platform2B"
+          ],
           "directions": [
             "Quick transfer, check departure board for Grindelwald train"
           ],
@@ -2635,51 +2636,49 @@
             "None."
           ],
           "costsAndNotes": [
-            "Small station, easy to navigate"
+            "Small station, easy to navigate between platforms"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "17:39 PM - 17:45 PM",
+          "time": "17:34 PM - 18:04 PM",
           "activity": "Train to Grindelwald",
-          "location": "Interlaken Ost to Grindelwald",
+          "location": "Interlaken Ost Platform 2B to Grindelwald Platform 1",
           "mapLink": [
-            "https://maps.app.goo.gl/InterlakenOst",
-            "https://maps.app.goo.gl/Grindelwald"
+            "https://maps.app.goo.gl/InterlakenOstPlatform2B",
+            "https://maps.app.goo.gl/GrindelwaldPlatform1"
           ],
           "directions": [
-            "Board train to Grindelwald (FLEXIBLE ticket - Order no",
-            ": 144024104510)",
-            "Trains availble every 30 mins",
-            "16:34, 17:04, 17:34, 18:04, 18:34, 19:04"
+            "Board BOB 1235 departing 17:34 (FLEXIBLE ticket - Order no",
+            ": 144024104510)"
           ],
           "transportation": [
-            "Train ~30 min - Point-to-point tickets valid 06",
+            "Berner Oberland Bahn 1235 (~30 min) - Point-to-point tickets valid 06",
             "07-07",
             "07"
           ],
           "thingsToDo": [
-            "Travel to Interlaken Ost to Grindelwald."
+            "Travel to Interlaken Ost Platform 2B to Grindelwald Platform 1."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Trains run every 30 minutes typically"
+            "Alternative trains: BOB 1233 (16:34), BOB 1235 (17:34), BOB 1237 (18:34), BOB 1239 (19:34)"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "17:45 PM - 17:55 PM",
+          "time": "18:04 PM - 18:15 PM",
           "activity": "Walk to hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
           "directions": [
-            "Exit station, short walk to hotel (Dorfstrasse 133)"
+            "Exit Grindelwald Platform 1, walk to hotel (Dorfstrasse 133)"
           ],
           "transportation": [
             "N/A"
@@ -2698,7 +2697,7 @@
           ]
         },
         {
-          "time": "17:55 PM - 18:30 PM",
+          "time": "18:15 PM - 18:45 PM",
           "activity": "Check-in at hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
@@ -2722,7 +2721,7 @@
           ]
         },
         {
-          "time": "18:30 PM - 19:45 PM",
+          "time": "18:45 PM - 20:00 PM",
           "activity": "Dinner at hotel restaurant",
           "location": "Restaurant Barry's (in hotel)",
           "mapLink": "https://maps.app.goo.gl/RestaurantBarry'sinhotel",
@@ -2746,7 +2745,7 @@
           ]
         },
         {
-          "time": "19:45 PM Onward",
+          "time": "20:00 PM Onward",
           "activity": "Relax at hotel",
           "location": "Eiger Mountain & Soul Resort",
           "mapLink": "https://maps.app.goo.gl/EigerMountain&SoulResort",
@@ -2832,7 +2831,7 @@
             "Take cable car up to First summit"
           ],
           "transportation": [
-            "Cable car ~25 min"
+            "Grindelwald First Bahn - Cable car ~25 min"
           ],
           "thingsToDo": [
             "Perform activity: Cable car to First."
@@ -2908,7 +2907,7 @@
             "Return cable car journey"
           ],
           "transportation": [
-            "Cable car ~25 min"
+            "Grindelwald First Bahn - Cable car ~25 min"
           ],
           "thingsToDo": [
             "Perform activity: Cable car back to village."
@@ -3128,8 +3127,8 @@
         {
           "time": "09:00 AM - 09:10 AM",
           "activity": "Walk to station",
-          "location": "Grindelwald Bahnhof",
-          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhof",
+          "location": "Grindelwald Bahnhof Platform 1",
+          "mapLink": "https://maps.app.goo.gl/GrindelwaldBahnhofPlatform1",
           "directions": [
             "Walk to train station with luggage"
           ],
@@ -3137,7 +3136,7 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Grindelwald Bahnhof."
+            "Walk to Grindelwald Bahnhof Platform 1."
           ],
           "ticketsToBuy": [
             "None."
@@ -3150,37 +3149,38 @@
           ]
         },
         {
-          "time": "10:30 AM - 13:00 PM",
+          "time": "10:04 AM - 12:34 PM",
           "activity": "Train to Zürich HB",
-          "location": "Grindelwald to Zürich HB",
+          "location": "Grindelwald Platform 1 to Zürich HB Platform 31-34",
           "mapLink": [
-            "https://maps.app.goo.gl/Grindelwald",
-            "https://maps.app.goo.gl/ZürichHB"
+            "https://maps.app.goo.gl/GrindelwaldPlatform1",
+            "https://maps.app.goo.gl/ZürichHBPlatform31-34"
           ],
           "directions": [
-            "Board any train (FLEXIBLE ticket - Order no",
+            "Board BOB/IC connection (FLEXIBLE ticket - Order no",
             ": 144336404444)"
           ],
           "transportation": [
-            "Train ~2h 30min via Interlaken Ost-Bern-Olten - Point-to-point tickets valid 08",
+            "BOB to Interlaken Ost, then IC to Zürich via Bern (~2h 30min) - Point-to-point tickets valid 08",
             "07-09",
             "07"
           ],
           "thingsToDo": [
-            "Travel to Grindelwald to Zürich HB."
+            "Travel to Grindelwald Platform 1 to Zürich HB Platform 31-34."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Multiple route options available"
+            "Route: Grindelwald→Interlaken Ost→Bern→Olten→Zürich HB",
+            "Multiple daily connections available"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "13:00 PM - 13:20 PM",
+          "time": "12:34 PM - 12:45 PM",
           "activity": "Store luggage at Zürich HB",
           "location": "Zürich HB station",
           "mapLink": "https://maps.app.goo.gl/ZürichHBstation",
@@ -3197,14 +3197,14 @@
             "None."
           ],
           "costsAndNotes": [
-            "Large station with good facilities"
+            "Large station with good facilities near main concourse"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "13:20 PM - 14:30 PM",
+          "time": "12:45 PM - 14:15 PM",
           "activity": "Explore Zürich city center",
           "location": "Zürich Altstadt",
           "mapLink": "https://maps.app.goo.gl/ZürichAltstadt",
@@ -3221,14 +3221,14 @@
             "None."
           ],
           "costsAndNotes": [
-            "Beautiful lakeside city, time permitting"
+            "Beautiful lakeside city, Bahnhofstrasse shopping, lake views"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "14:30 PM - 15:00 PM",
+          "time": "14:15 PM - 15:15 PM",
           "activity": "Return to station",
           "location": "Zürich HB",
           "mapLink": "https://maps.app.goo.gl/ZürichHB",
@@ -3254,28 +3254,28 @@
         {
           "time": "15:33 PM - 19:04 PM",
           "activity": "Train to München",
-          "location": "Zürich HB to München Hbf",
+          "location": "Zürich HB Platform 34 to München Hbf Platform 27-36",
           "mapLink": [
-            "https://maps.app.goo.gl/ZürichHB",
-            "https://maps.app.goo.gl/MünchenHbf"
+            "https://maps.app.goo.gl/ZürichHBPlatform34",
+            "https://maps.app.goo.gl/MünchenHbfPlatform27-36"
           ],
           "directions": [
-            "Board EC 195 (NON-FLEXIBLE) - Platform 34, arrive Platform 27-36"
+            "Board EC 195 (NON-FLEXIBLE) - Coach 2, Seats 93,94,95,96"
           ],
           "transportation": [
-            "EuroCity 195 - Wg",
-            "2, Seats 93,94,95,96 (2 window, 2 aisle, table, Großraum) Res",
+            "EuroCity 195 - 2 window seats, 2 aisle seats, table configuration, Res",
             "-Nr",
             "806000251637"
           ],
           "thingsToDo": [
-            "Travel to Zürich HB to München Hbf."
+            "Travel to Zürich HB Platform 34 to München Hbf Platform 27-36."
           ],
           "ticketsToBuy": [
-            "None."
+            "Present e-ticket and ID"
           ],
           "costsAndNotes": [
-            "Scenic journey through Alps to Bavaria"
+            "Scenic journey through Alps to Bavaria",
+            "Present e-ticket and ID"
           ],
           "type": [
             "travel"
