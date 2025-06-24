@@ -369,10 +369,11 @@
           "directions": [
             "Depart from Detroit Metropolitan Wayne County Airport (DTW), Terminal N, to Paris Charles de Gaulle Airport (CDG)",
             "Connect to Venice Marco Polo Airport (VCE)",
-            "Check-in at DTW and present payment card for verification if required"
+            "Check-in at DTW and present payment card for verification if required",
+            "No checked bag, no reserved seats"
           ],
           "transportation": [
-            "Flight 1: Delta Air Lines, DL 98, DTW to CDG, Dep 16:25 (Jul 2), Arr 06:15 (Jul 3), Boeing 767-400, Economy, Seats: Passenger 1 (29B), Passenger 2 (29A), Passenger 3 (29C), Passenger 4 (28B)",
+            "Flight 1: Delta Air Lines, DL 98, DTW to CDG, Dep 16:25 (Jul 2), Arr 06:15 (Jul 3), Boeing 767-400, Economy",
             "Flight 2: Air France, AF 8390 (operated by Delta), CDG to VCE, Dep 16:05 (Jul 3), Arr 17:45 (Jul 3), Economy"
           ],
           "thingsToDo": [
@@ -383,7 +384,7 @@
           ],
           "costsAndNotes": [
             "Booking Ref: HAFBMC",
-            "Baggage: 1 checked bag (23 kg) per passenger, 1 carry-on (10 kg)",
+            "1 carry-on (10 kg) per passenger",
             "Verify payment card if requested"
           ],
           "type": [
@@ -402,7 +403,7 @@
           "location": "Terminal 2E",
           "mapLink": "https://maps.app.goo.gl/Terminal2E",
           "directions": [
-            "Follow “Arrivals” signs"
+            "Follow \"Arrivals\" signs"
           ],
           "transportation": [
             "Delta 96 from DTW"
@@ -419,12 +420,12 @@
           ]
         },
         {
-          "time": "06:15 AM - 06:25 AM",
+          "time": "06:15 AM - 06:30 AM",
           "activity": "Walk to Passport Control",
           "location": "Terminal 2E",
           "mapLink": "https://maps.app.goo.gl/Terminal2E",
           "directions": [
-            "Walk ~5-10 min, 300-500m, follow “Immigration” signs"
+            "Walk ~5-10 min, 300-500m, follow \"Immigration\" signs - take your time"
           ],
           "transportation": [
             "N/A"
@@ -441,12 +442,12 @@
           ]
         },
         {
-          "time": "06:25 AM - 07:00 AM",
+          "time": "06:30 AM - 07:15 AM",
           "activity": "Clear customs/immigration",
           "location": "Terminal 2E",
           "mapLink": "https://maps.app.goo.gl/Terminal2E",
           "directions": [
-            "~30-45 min, non-EU queue, passports ready"
+            "~45 min, non-EU queue, passports ready"
           ],
           "transportation": [
             "N/A"
@@ -463,19 +464,42 @@
           ]
         },
         {
-          "time": "07:00 AM - 07:05 AM",
+          "time": "07:15 AM - 07:30 AM",
+          "activity": "Collect luggage",
+          "location": "Terminal 2E",
+          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "directions": [
+            "Follow \"Baggage Claim\" signs, collect checked luggage"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Handle luggage at Terminal 2E."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "07:30 AM - 07:45 AM",
           "activity": "Walk to luggage storage",
-          "location": "Terminal 2E",
-          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "location": "Terminal 2",
+          "mapLink": "https://maps.app.goo.gl/Terminal2",
           "directions": [
-            "Near Gate 2, follow “Luggage Storage” signs, ~100-200m"
+            "Left luggage facility located before security in Terminal 2, near the train station on Level 4, directly opposite the Sheraton Hotel",
+            "A few minutes walk from Terminal 2E"
           ],
           "transportation": [
-            "N/A"
+            "Note: There are no left-luggage services in Terminals 1 or 3"
           ],
           "thingsToDo": [
-            "Walk to Terminal 2E.",
-            "Handle luggage at Terminal 2E."
+            "Walk to Terminal 2.",
+            "Handle luggage at Terminal 2."
           ],
           "ticketsToBuy": [
             "None."
@@ -486,18 +510,18 @@
           ]
         },
         {
-          "time": "07:05 AM - 07:15 AM",
-          "activity": "Store luggage and withdraw cash",
-          "location": "Terminal 2E",
-          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "time": "07:45 AM - 08:00 AM",
+          "activity": "Store luggage",
+          "location": "Terminal 2",
+          "mapLink": "https://maps.app.goo.gl/Terminal2",
           "directions": [
-            "Store luggage (~€40, Apple Pay), withdraw ~€70 cash (ATM fee ~€2-3)"
+            "Store luggage at left luggage facility"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Handle luggage at Terminal 2E."
+            "Handle luggage at Terminal 2."
           ],
           "ticketsToBuy": [
             "None."
@@ -508,12 +532,12 @@
           ]
         },
         {
-          "time": "07:15 AM - 07:20 AM",
+          "time": "08:00 AM - 08:10 AM",
           "activity": "Walk to taxi stand",
           "location": "Terminal 2E",
           "mapLink": "https://maps.app.goo.gl/Terminal2E",
           "directions": [
-            "Outside Gate 2, follow “Taxis” signs, ~50-100m"
+            "Outside Gate 2, follow \"Taxis\" signs, ~50-100m"
           ],
           "transportation": [
             "N/A"
@@ -531,12 +555,12 @@
           ]
         },
         {
-          "time": "07:20:00",
+          "time": "08:10:00",
           "activity": "Taxi to Trocadéro",
           "location": "Place du Trocadéro",
           "mapLink": "https://maps.app.goo.gl/PlaceduTrocadéro",
           "directions": [
-            "~40 min, ~€50-60, Apple Pay; €50 cash backup"
+            "~40 min"
           ],
           "transportation": [
             "Drop off near Palais de Chaillot"
@@ -553,12 +577,12 @@
           ]
         },
         {
-          "time": "08:00:00",
+          "time": "08:50:00",
           "activity": "Eiffel Tower view",
           "location": "Trocadéro Gardens",
           "mapLink": "https://maps.app.goo.gl/TrocadéroGardens",
           "directions": [
-            "Free, ~30 min"
+            "Free, ~45 min - take your time for photos"
           ],
           "transportation": [
             "N/A"
@@ -575,15 +599,15 @@
           ]
         },
         {
-          "time": "08:30:00",
+          "time": "09:35:00",
           "activity": "Taxi to Louvre Pyramid",
           "location": "Place du Carrousel",
           "mapLink": "https://maps.app.goo.gl/PlaceduCarrousel",
           "directions": [
-            "~15 min, ~€15, Apple Pay; €15 cash backup"
+            "~15 min"
           ],
           "transportation": [
-            "Pick up at Place du Trocadéro taxi stand (near Palais de Chaillot); drop off near Louvre Pyramid entrance"
+            "Pick up at Place du Trocadéro taxi stand; drop off near Louvre Pyramid entrance"
           ],
           "thingsToDo": [
             "Travel to Place du Carrousel."
@@ -597,12 +621,12 @@
           ]
         },
         {
-          "time": "08:45:00",
+          "time": "09:50:00",
           "activity": "View Louvre Pyramid",
           "location": "Louvre Pyramid",
           "mapLink": "https://maps.app.goo.gl/LouvrePyramid",
           "directions": [
-            "Outside, free, ~30 min"
+            "Outside, free, ~40 min"
           ],
           "transportation": [
             "N/A"
@@ -619,12 +643,12 @@
           ]
         },
         {
-          "time": "09:15 AM - 09:17 AM",
+          "time": "10:30 AM - 10:40 AM",
           "activity": "Walk to Jardin des Tuileries",
           "location": "Jardin des Tuileries",
           "mapLink": "https://maps.app.goo.gl/JardindesTuileries",
           "directions": [
-            "Exit Louvre courtyard through Passage Richelieu (northwest corner), turn right onto Rue de Rivoli, walk 100m, cross Rue de Rivoli at crosswalk, enter Jardin des Tuileries through eastern gate"
+            "Exit Louvre courtyard through Passage Richelieu (northwest corner), turn right onto Rue de Rivoli, walk 100m, cross Rue de Rivoli at crosswalk, enter Jardin des Tuileries through eastern gate - leisurely pace"
           ],
           "transportation": [
             "N/A"
@@ -637,19 +661,19 @@
           ],
           "costsAndNotes": [
             "Flat, busy area",
-            "use crosswalk and"
+            "use crosswalk"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "09:17:00",
+          "time": "10:40:00",
           "activity": "Relax",
           "location": "Jardin des Tuileries",
           "mapLink": "https://maps.app.goo.gl/JardindesTuileries",
           "directions": [
-            "Free, ~1 hr"
+            "Free, ~1 hr 15 min - find a bench and enjoy"
           ],
           "transportation": [
             "N/A"
@@ -666,7 +690,7 @@
           ]
         },
         {
-          "time": "10:15 AM - 10:17 AM",
+          "time": "11:55 AM - 12:05 PM",
           "activity": "Walk to Café des Marronniers",
           "location": "Café des Marronniers",
           "mapLink": "https://maps.app.goo.gl/CafédesMarronniers",
@@ -684,19 +708,19 @@
           ],
           "costsAndNotes": [
             "Flat, paved path",
-            "easy for kids"
+            "easy walking"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "10:17:00",
+          "time": "12:05:00",
           "activity": "Lunch",
           "location": "Café des Marronniers",
           "mapLink": "https://maps.app.goo.gl/CafédesMarronniers",
           "directions": [
-            "~€60, Apple Pay; €3-5 cash tip optional"
+            "~1 hr 15 min - leisurely meal"
           ],
           "transportation": [
             "N/A"
@@ -713,7 +737,7 @@
           ]
         },
         {
-          "time": "11:00 AM - 11:02 AM",
+          "time": "13:20 PM - 13:30 PM",
           "activity": "Walk to taxi stand",
           "location": "Place de la Concorde",
           "mapLink": "https://maps.app.goo.gl/PlacedelaConcorde",
@@ -732,25 +756,25 @@
           ],
           "costsAndNotes": [
             "Busy area",
-            "use crosswalk and"
+            "use crosswalk"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "11:02:00",
+          "time": "13:30 PM",
           "activity": "Taxi to CDG",
-          "location": "Terminal 2E",
-          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "location": "Terminal 2",
+          "mapLink": "https://maps.app.goo.gl/Terminal2",
           "directions": [
-            "~40 min, ~€50-60, Apple Pay; €50 cash backup"
+            "~40 min"
           ],
           "transportation": [
-            "Drop off at Terminal 2E departures"
+            "Drop off at Terminal 2"
           ],
           "thingsToDo": [
-            "Travel to Terminal 2E."
+            "Travel to Terminal 2."
           ],
           "ticketsToBuy": [
             "None."
@@ -761,37 +785,35 @@
           ]
         },
         {
-          "time": "11:45:00",
+          "time": "14:15 PM",
           "activity": "Arrive CDG and retrieve luggage",
-          "location": "Terminal 2E",
-          "mapLink": "https://maps.app.goo.gl/Terminal2E",
+          "location": "Terminal 2",
+          "mapLink": "https://maps.app.goo.gl/Terminal2",
           "directions": [
-            "Near Gate 2"
+            "Near left luggage facility on Level 4"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Arrive at Terminal 2E.",
-            "Handle luggage at Terminal 2E."
+            "Arrive at Terminal 2.",
+            "Handle luggage at Terminal 2."
           ],
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [
-            "Check-in/security (~1 hr)"
-          ],
+          "costsAndNotes": [],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "11:45 AM - 16:05 PM",
+          "time": "14:15 PM - 16:05 PM",
           "activity": "Snack and relax",
           "location": "Terminal 2E",
           "mapLink": "https://maps.app.goo.gl/Terminal2E",
           "directions": [
-            "~€40, Apple Pay"
+            "Plenty of time to rest before flight"
           ],
           "transportation": [
             "N/A"
@@ -802,9 +824,7 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [
-            "Kids’ play area (Terminal 2E, free)"
-          ],
+          "costsAndNotes": [],
           "type": [
             "dining",
             "activity"
@@ -847,10 +867,9 @@
             "Arrive at Marco Polo Airport (VCE)."
           ],
           "ticketsToBuy": [
-            "Flight cost: €300-450"
+            "None."
           ],
           "costsAndNotes": [
-            "Flight cost: €300-450",
             "Check flight number on screens",
             "Busy terminal"
           ],
@@ -859,12 +878,13 @@
           ]
         },
         {
-          "time": "17:45 PM - 18:15 PM",
+          "time": "17:45 PM - 18:30 PM",
           "activity": "Collect luggage",
           "location": "Baggage Claim, VCE",
           "mapLink": "https://maps.app.goo.gl/BaggageClaim,VCE",
           "directions": [
-            "Follow “Baggage Claim” signs (~100m walk from gate)"
+            "Follow \"Baggage Claim\" signs (~100m walk from gate)",
+            "Take your time"
           ],
           "transportation": [
             "N/A"
@@ -884,13 +904,14 @@
           ]
         },
         {
-          "time": "18:20 PM - 18:30 PM",
+          "time": "18:30 PM - 18:45 PM",
           "activity": "Walk to Alilaguna dock",
           "location": "Alilaguna Dock, VCE",
           "mapLink": "https://maps.app.goo.gl/AlilagunaDock,VCE",
           "directions": [
-            "Exit customs, turn left, follow “Water Transport” signs (~7-10 min, 700m)",
-            "Walk through covered walkway, cross parking area to dock"
+            "Exit customs, turn left, follow \"Water Transport\" signs (~7-10 min, 700m)",
+            "Walk through covered walkway, cross parking area to dock",
+            "Leisurely pace"
           ],
           "transportation": [
             "N/A"
@@ -909,7 +930,7 @@
           ]
         },
         {
-          "time": "18:30 PM - 19:00 PM",
+          "time": "18:45 PM - 19:15 PM",
           "activity": "Alilaguna Water Bus to Ferrovia",
           "location": "From VCE to Ferrovia",
           "mapLink": [
@@ -918,7 +939,7 @@
           ],
           "directions": [
             "Board at Alilaguna dock",
-            "Verify “Ferrovia” stop on sign or ask staff"
+            "Verify \"Ferrovia\" stop on sign or ask staff"
           ],
           "transportation": [
             "Alilaguna Blue Line boat (~20-30 min)"
@@ -927,12 +948,9 @@
             "Perform activity: Alilaguna Water Bus to Ferrovia."
           ],
           "ticketsToBuy": [
-            "Cost: €44 (€15/adult, €7/child, Apple Pay",
-            "€44 cash backup)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €44 (€15/adult, €7/child, Apple Pay",
-            "€44 cash backup)",
             "Sit near front for views",
             "Store carry-ons"
           ],
@@ -941,7 +959,7 @@
           ]
         },
         {
-          "time": "19:00 PM - 19:01 PM",
+          "time": "19:15 PM - 19:20 PM",
           "activity": "Walk to Hotel Carlton",
           "location": "Hotel Carlton (Santa Croce 578)",
           "mapLink": [
@@ -949,7 +967,7 @@
             "https://maps.app.goo.gl/nSantaCroce578"
           ],
           "directions": [
-            "Exit Ferrovia stop (front of Santa Lucia Station), cross street (crosswalk, 10m), turn left, walk 40m along Rio Terà Lista di Spagna (~1 min, 50m)"
+            "Exit Ferrovia stop (front of Santa Lucia Station), cross street (crosswalk, 10m), turn left, walk 40m along Rio Terà Lista di Spagna (~5 min, 50m)"
           ],
           "transportation": [
             "N/A"
@@ -969,7 +987,7 @@
           ]
         },
         {
-          "time": "19:01 PM - 19:30 PM",
+          "time": "19:20 PM - 19:45 PM",
           "activity": "Check-in at Hotel Carlton",
           "location": "Hotel Carlton (Santa Croce 578)",
           "mapLink": [
@@ -977,7 +995,8 @@
             "https://maps.app.goo.gl/nSantaCroce578"
           ],
           "directions": [
-            "At hotel front desk"
+            "At hotel front desk",
+            "Take time to settle in"
           ],
           "transportation": [
             "N/A"
@@ -986,24 +1005,18 @@
             "Complete check-in/out at Hotel Carlton (Santa Croce 578)."
           ],
           "ticketsToBuy": [
-            "Cost: €150-200 (booked, Priceline Ref: 784-525-885-17, Conf #: 4929039618)",
-            "€10 cash for tips (e"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €150-200 (booked, Priceline Ref: 784-525-885-17, Conf #: 4929039618)",
             "Request canal-view room",
-            "Confirm luggage storage for Day 2",
-            "Use Apple Pay for incidentals",
-            "€10 cash for tips (e",
-            "g",
-            ", bellhop)"
+            "Confirm luggage storage for Day 2"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "19:30 PM - 20:30 PM",
+          "time": "19:45 PM - 21:00 PM",
           "activity": "Dinner at La Cupola",
           "location": "La Cupola (Hotel Carlton restaurant)",
           "mapLink": [
@@ -1011,7 +1024,8 @@
             "https://maps.app.goo.gl/nrestaurant"
           ],
           "directions": [
-            "No walking needed (on-site)"
+            "No walking needed (on-site)",
+            "Leisurely dinner"
           ],
           "transportation": [
             "N/A"
@@ -1020,22 +1034,18 @@
             "Enjoy dinner at la cupola at La Cupola (Hotel Carlton restaurant)."
           ],
           "ticketsToBuy": [
-            "Cost: €60-80 (€15-20/person, Apple Pay",
-            "€5 cash tip optional)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €60-80 (€15-20/person, Apple Pay",
-            "€5 cash tip optional)",
             "Italian classics (pasta, pizza)",
-            "Order penne pomodoro for teens",
-            "Kids can share dishes"
+            "Order penne pomodoro for teens"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "20:30 PM Onward",
+          "time": "21:00 PM Onward",
           "activity": "Relax at hotel",
           "location": "Hotel Carlton (Santa Croce 578)",
           "mapLink": [
@@ -1069,7 +1079,7 @@
       "date": "July 4, 2025",
       "activities": [
         {
-          "time": "08:30 AM - 09:30 AM",
+          "time": "08:30 AM - 09:45 AM",
           "activity": "Breakfast at Hotel Carlton",
           "location": "Hotel Carlton (Santa Croce 578)",
           "mapLink": [
@@ -1077,7 +1087,8 @@
             "https://maps.app.goo.gl/nSantaCroce578"
           ],
           "directions": [
-            "No walking needed (on-site)"
+            "No walking needed (on-site)",
+            "Leisurely breakfast"
           ],
           "transportation": [
             "N/A"
@@ -1086,13 +1097,9 @@
             "Enjoy breakfast at hotel carlton at Hotel Carlton (Santa Croce 578)."
           ],
           "ticketsToBuy": [
-            "Cost: €40-60 (included or Apple Pay",
-            "€5 cash tip optional)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €40-60 (included or Apple Pay",
-            "€5 cash tip optional)",
-            "Kids can pick cereals",
             "Pack water bottles for the day"
           ],
           "type": [
@@ -1100,7 +1107,7 @@
           ]
         },
         {
-          "time": "09:30 AM - 09:45 AM",
+          "time": "09:45 AM - 10:00 AM",
           "activity": "Check out and store luggage",
           "location": "Hotel Carlton (Santa Croce 578)",
           "mapLink": [
@@ -1118,10 +1125,9 @@
             "Handle luggage at Hotel Carlton (Santa Croce 578)."
           ],
           "ticketsToBuy": [
-            "Cost: Free (€5 cash tip optional)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Free (€5 cash tip optional)",
             "Store luggage for later retrieval"
           ],
           "type": [
@@ -1129,110 +1135,50 @@
           ]
         },
         {
-          "time": "09:45 AM - 09:47 AM",
-          "activity": "Walk to Ferrovia Vaporetto stop",
-          "location": "Ferrovia Vaporetto Stop",
-          "mapLink": [
-            "https://maps.app.goo.gl/FerroviaVaporet",
-            "https://maps.app.goo.gl/S",
-            "https://maps.app.goo.gl/p"
-          ],
+          "time": "10:00 AM - 10:20 AM",
+          "activity": "Walk to S. Tomà Gondola Station",
+          "location": "S. Tomà Gondola Station",
+          "mapLink": "https://maps.app.goo.gl/S.TomàGondolaStation",
           "directions": [
-            "Exit hotel, cross street to Santa Lucia Station (10m), turn right, walk 40m to Ferrovia stop (~2 min, 50m)"
+            "Exit hotel, walk to S",
+            "Tomà area for gondola pickup",
+            "Take your time walking"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Ferrovia Vaporetto Stop.",
-            "Travel to Ferrovia Vaporetto Stop."
+            "Walk to S. Tomà Gondola Station."
           ],
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [
-            "Flat path"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "09:47 AM - 10:07 AM",
-          "activity": "Vaporetto to Campo San Barnaba",
-          "location": "From Ferrovia to Campo San Barnaba",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromFerrovia",
-            "https://maps.app.goo.gl/CampoSanBarnaba"
-          ],
-          "directions": [
-            "Board Line 1 at Ferrovia to Ca’ Rezzonico",
-            "Exit, turn right on Fondamenta Rezzonico (50m), left on Calle del Traghetto (50m), right into Campo San Barnaba (50m, ~3 min, 150m)"
-          ],
-          "transportation": [
-            "Vaporetto Line 1 to Ca’ Rezzonico (~15 min)"
-          ],
-          "thingsToDo": [
-            "Travel to From Ferrovia to Campo San Barnaba."
-          ],
-          "ticketsToBuy": [
-            "Cost: €15 (24-hour pass/family, Apple Pay",
-            "€15 cash backup)"
-          ],
-          "costsAndNotes": [
-            "Cost: €15 (24-hour pass/family, Apple Pay",
-            "€15 cash backup)",
-            "Board early for seats",
-            "Arrive ~10:07 AM"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "10:07 AM - 10:30 AM",
-          "activity": "Arrive at Campo San Barnaba, prepare for gondola",
-          "location": "Campo San Barnaba",
-          "mapLink": "https://maps.app.goo.gl/CampoSanBarnaba",
-          "directions": [
-            "At Campo San Barnaba (no additional walking)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Arrive at Campo San Barnaba."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Prepare for gondola ride"
-          ],
+          "costsAndNotes": [],
           "type": [
             "travel",
             "activity"
           ]
         },
         {
-          "time": "10:30 AM - 11:00 AM",
+          "time": "10:20 AM - 10:50 AM",
           "activity": "Gondola Ride",
-          "location": "Campo San Barnaba gondola station",
-          "mapLink": "https://maps.app.goo.gl/CampoSanBarnabagondolastation",
+          "location": "S. Tomà Gondola Station",
+          "mapLink": "https://maps.app.goo.gl/S.TomàGondolaStation",
           "directions": [
-            "At Campo San Barnaba gondola station"
+            "At S",
+            "Tomà gondola station",
+            "Enjoy the ride!"
           ],
           "transportation": [
-            "Gondola (~30 min, booked via GetYourGuide)"
+            "Gondola (~30 min)"
           ],
           "thingsToDo": [
             "Perform activity: Gondola Ride."
           ],
           "ticketsToBuy": [
-            "Cost: €90 (Apple Pay/cash)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €90 (Apple Pay/cash)",
             "Kid-friendly gondolier",
             "Seat kids in middle for safety"
           ],
@@ -1241,149 +1187,145 @@
           ]
         },
         {
-          "time": "11:00 AM - 11:03 AM",
-          "activity": "Walk to Gelateria Nico",
-          "location": "Gelateria Nico (near canal)",
-          "mapLink": "https://maps.app.goo.gl/GelateriaNiconearcanal",
+          "time": "10:50 AM - 11:10 AM",
+          "activity": "Walk to Rialto Bridge",
+          "location": "Rialto Bridge",
+          "mapLink": [
+            "https://maps.app.goo.gl/Rial",
+            "https://maps.app.goo.gl/Bridge"
+          ],
           "directions": [
-            "Exit gondola, walk east across Campo San Barnaba (50m), turn left on Calle del Pistor (50m), arrive at Gelateria Nico (~3 min, 150m)"
+            "From S",
+            "Tomà gondola drop-off, walk north to Rialto Bridge (~20 min at leisurely pace)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Gelateria Nico (near canal)."
+            "Walk to Rialto Bridge."
           ],
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [
-            "Flat path"
-          ],
+          "costsAndNotes": [],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "11:03 AM - 11:30 AM",
-          "activity": "Gelato at Gelateria Nico",
-          "location": "Gelateria Nico (near canal)",
-          "mapLink": "https://maps.app.goo.gl/GelateriaNiconearcanal",
+          "time": "11:10 AM - 11:50 AM",
+          "activity": "Explore Rialto Bridge and Market area",
+          "location": "Rialto Bridge",
+          "mapLink": [
+            "https://maps.app.goo.gl/Rial",
+            "https://maps.app.goo.gl/Bridge"
+          ],
           "directions": [
-            "At Gelateria Nico"
+            "View from bridge, explore nearby market stalls",
+            "Take lots of photos"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy gelato at gelateria nico at Gelateria Nico (near canal)."
+            "Explore or relax at Rialto Bridge."
           ],
           "ticketsToBuy": [
-            "Cost: €12-20 (€3-5/person, Apple Pay",
-            "€5 cash backup, €1-2 cash for restrooms)"
+            "None."
           ],
-          "costsAndNotes": [
-            "Cost: €12-20 (€3-5/person, Apple Pay",
-            "€5 cash backup, €1-2 cash for restrooms)",
-            "Try pistachio or stracciatella",
-            "Relax by canal"
-          ],
+          "costsAndNotes": [],
           "type": [
-            "dining"
+            "activity"
           ]
         },
         {
-          "time": "11:30 AM - 11:33 AM",
-          "activity": "Walk to Ca’ Rezzonico Vaporetto stop",
-          "location": "Ca’ Rezzonico Vaporetto Stop",
+          "time": "11:50 AM - 12:00 PM",
+          "activity": "Walk to Rialto Vaporetto stop",
+          "location": "Rialto Vaporetto Stop",
           "mapLink": [
-            "https://maps.app.goo.gl/Ca’RezzonicoVaporet",
+            "https://maps.app.goo.gl/Rial",
+            "https://maps.app.goo.gl/Vaporet",
             "https://maps.app.goo.gl/S",
             "https://maps.app.goo.gl/p"
           ],
           "directions": [
-            "Exit Gelateria Nico, turn right on Calle del Pistor (50m), right on Fondamenta Rezzonico (50m), arrive at Ca’ Rezzonico stop (~3 min, 150m)"
+            "Short walk from bridge to vaporetto stop, but take your time"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Ca’ Rezzonico Vaporetto Stop.",
-            "Travel to Ca’ Rezzonico Vaporetto Stop."
+            "Walk to Rialto Vaporetto Stop.",
+            "Travel to Rialto Vaporetto Stop."
           ],
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [
-            "Flat path"
-          ],
+          "costsAndNotes": [],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "11:33 AM - 11:45 AM",
-          "activity": "Vaporetto to St. Mark’s Square",
-          "location": "From Ca’ Rezzonico to St. Mark’s Square",
+          "time": "12:00 PM - 12:15 PM",
+          "activity": "Vaporetto to St. Mark's Square",
+          "location": "From Rialto to St. Mark's Square",
           "mapLink": [
-            "https://maps.app.goo.gl/FromCa’Rezzonico",
-            "https://maps.app.goo.gl/St.Mark’sSquare"
+            "https://maps.app.goo.gl/FromRial",
+            "https://maps.app.goo.gl/",
+            "https://maps.app.goo.gl/St.Mark'sSquare"
           ],
           "directions": [
-            "Board Line 1 at Ca’ Rezzonico to San Zaccaria",
-            "Exit, walk straight on Riva degli Schiavoni (50m), turn left into Calle delle Rasse (50m), arrive at St",
-            "Mark’s Square (20m, ~2 min, 100m)"
+            "Board Line 1 at Rialto to San Zaccaria",
+            "Exit, walk to St",
+            "Mark's Square (~5 min, 100m)"
           ],
           "transportation": [
             "Vaporetto Line 1 to San Zaccaria (~10 min)"
           ],
           "thingsToDo": [
-            "Travel to From Ca’ Rezzonico to St. Mark’s Square."
+            "Travel to From Rialto to St. Mark's Square."
           ],
           "ticketsToBuy": [
-            "Store tickets for re-boarding"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Included in 24-hour pass",
-            "Store tickets for re-boarding",
-            "Busy area",
-            "Arrive ~11:45 AM"
+            "Board early for seats"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "11:45 AM - 12:15 PM",
-          "activity": "Explore St. Mark’s Square (Exterior)",
-          "location": "St. Mark’s Square",
-          "mapLink": "https://maps.app.goo.gl/St.Mark’sSquare",
+          "time": "12:15 PM - 13:00 PM",
+          "activity": "Explore St. Mark's Square (Exterior)",
+          "location": "St. Mark's Square",
+          "mapLink": "https://maps.app.goo.gl/St.Mark'sSquare",
           "directions": [
             "At St",
-            "Mark’s Square"
+            "Mark's Square",
+            "Lots to see and absorb"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at St. Mark’s Square."
+            "Explore or relax at St. Mark's Square."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Free",
             "View St",
-            "Mark’s Basilica, Doge’s Palace, Bridge of Sighs",
-            "Take photos",
-            "in crowds"
+            "Mark's Basilica, Doge's Palace, Bridge of Sighs",
+            "Take photos"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "12:15 PM - 12:20 PM",
+          "time": "13:00 PM - 13:10 PM",
           "activity": "Walk to Trattoria Al Gazzettino",
           "location": "Trattoria Al Gazzettino (San Marco 4973)",
           "mapLink": [
@@ -1392,7 +1334,7 @@
           ],
           "directions": [
             "Exit St",
-            "Mark’s Square (eastern side, near Bridge of Sighs), walk straight on Calle delle Rasse (150m), turn left on Calle de la Rizza (100m), arrive at Trattoria (~5 min, 300m)"
+            "Mark's Square (eastern side, near Bridge of Sighs), walk straight on Calle delle Rasse (150m), turn left on Calle de la Rizza (100m), arrive at Trattoria (~10 min, 300m)"
           ],
           "transportation": [
             "N/A"
@@ -1411,7 +1353,7 @@
           ]
         },
         {
-          "time": "12:20 PM - 13:20 PM",
+          "time": "13:10 PM - 14:30 PM",
           "activity": "Lunch at Trattoria Al Gazzettino",
           "location": "Trattoria Al Gazzettino (San Marco 4973)",
           "mapLink": [
@@ -1419,7 +1361,8 @@
             "https://maps.app.goo.gl/riaAlGazzettinoSanMarco4973"
           ],
           "directions": [
-            "At Trattoria Al Gazzettino"
+            "At Trattoria Al Gazzettino",
+            "Long, leisurely lunch"
           ],
           "transportation": [
             "N/A"
@@ -1428,15 +1371,10 @@
             "Enjoy lunch at trattoria al gazzettino at Trattoria Al Gazzettino (San Marco 4973)."
           ],
           "ticketsToBuy": [
-            "Cost: €60-80 (€15-20/person, Apple Pay",
-            "€5 cash tip optional)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €60-80 (€15-20/person, Apple Pay",
-            "€5 cash tip optional)",
             "Pasta, pizza",
-            "Reserved for 13:15 PM",
-            "arrive early",
             "Kids can share dishes"
           ],
           "type": [
@@ -1444,20 +1382,20 @@
           ]
         },
         {
-          "time": "13:20 PM - 13:25 PM",
+          "time": "14:30 PM - 14:40 PM",
           "activity": "Walk to San Marco area for free time",
-          "location": "St. Mark’s Square",
-          "mapLink": "https://maps.app.goo.gl/St.Mark’sSquare",
+          "location": "St. Mark's Square",
+          "mapLink": "https://maps.app.goo.gl/St.Mark'sSquare",
           "directions": [
             "Exit Trattoria, turn right on Calle de la Rizza (100m), right on Calle delle Rasse (150m), arrive at St",
-            "Mark’s Square (~5 min, 300m)"
+            "Mark's Square (~10 min, 300m)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to St. Mark’s Square.",
-            "Explore or relax at St. Mark’s Square."
+            "Walk to St. Mark's Square.",
+            "Explore or relax at St. Mark's Square."
           ],
           "ticketsToBuy": [
             "None."
@@ -1471,28 +1409,25 @@
           ]
         },
         {
-          "time": "13:25 PM - 15:00 PM",
+          "time": "14:40 PM - 15:40 PM",
           "activity": "Free Time in San Marco Area",
-          "location": "San Marco Area (St. Mark’s Square or Libreria Acqua Alta)",
-          "mapLink": "https://maps.app.goo.gl/SanMarcoAreaSt.Mark’sSquareorLibreriaAcquaAlta",
+          "location": "San Marco Area (St. Mark's Square)",
+          "mapLink": "https://maps.app.goo.gl/SanMarcoAreaSt.Mark'sSquare",
           "directions": [
-            "Option 1: Stay in St",
-            "Mark’s Square",
-            "Option 2: For Libreria Acqua Alta, head north on Salizada San Provolo (200m), turn right on Calle Lunga Santa Maria Formosa (200m), arrive at Libreria Acqua Alta (~10 min, 500m)"
+            "Stay in St",
+            "Mark's Square area",
+            "Find a café, people watch, relax"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at San Marco Area (St. Mark’s Square or Libreria Acqua Alta)."
+            "Explore or relax at San Marco Area (St. Mark's Square)."
           ],
           "ticketsToBuy": [
-            "Cost: €10-20 (souvenirs, Apple Pay",
-            "€20 cash backup)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €10-20 (souvenirs, Apple Pay",
-            "€20 cash backup)",
             "Set souvenir budget",
             "Crowded areas"
           ],
@@ -1501,7 +1436,7 @@
           ]
         },
         {
-          "time": "15:00 PM - 15:03 PM",
+          "time": "15:40 PM - 15:50 PM",
           "activity": "Walk to San Zaccaria Vaporetto stop",
           "location": "San Zaccaria Vaporetto Stop",
           "mapLink": [
@@ -1511,7 +1446,7 @@
           ],
           "directions": [
             "From St",
-            "Mark’s Square, walk straight on Calle delle Rasse (50m), turn right on Riva degli Schiavoni (50m), arrive at San Zaccaria stop (~3 min, 100m)"
+            "Mark's Square, walk straight on Calle delle Rasse (50m), turn right on Riva degli Schiavoni (50m), arrive at San Zaccaria stop (~10 min, 100m)"
           ],
           "transportation": [
             "N/A"
@@ -1524,15 +1459,14 @@
             "None."
           ],
           "costsAndNotes": [
-            "Busy area",
-            "Adjust route if at Libreria Acqua Alta"
+            "Busy area"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "15:03 PM - 15:43 PM",
+          "time": "15:50 PM - 16:30 PM",
           "activity": "Vaporetto to Ferrovia",
           "location": "From San Zaccaria to Ferrovia",
           "mapLink": [
@@ -1552,7 +1486,6 @@
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Included in 24-hour pass",
             "Board early for seats"
           ],
           "type": [
@@ -1560,7 +1493,7 @@
           ]
         },
         {
-          "time": "15:43 PM - 15:45 PM",
+          "time": "16:30 PM - 16:35 PM",
           "activity": "Walk to Hotel Carlton",
           "location": "Hotel Carlton (Santa Croce 578)",
           "mapLink": [
@@ -1568,7 +1501,7 @@
             "https://maps.app.goo.gl/nSantaCroce578"
           ],
           "directions": [
-            "Exit Ferrovia stop, cross street (crosswalk, 10m), turn left, walk 40m along Rio Terà Lista di Spagna (~2 min, 50m)"
+            "Exit Ferrovia stop, cross street (crosswalk, 10m), turn left, walk 40m along Rio Terà Lista di Spagna (~5 min, 50m)"
           ],
           "transportation": [
             "N/A"
@@ -1587,7 +1520,7 @@
           ]
         },
         {
-          "time": "15:45 PM - 16:00 PM",
+          "time": "16:35 PM - 16:50 PM",
           "activity": "Retrieve luggage from Hotel Carlton",
           "location": "Hotel Carlton (Santa Croce 578)",
           "mapLink": [
@@ -1604,10 +1537,9 @@
             "Handle luggage at Hotel Carlton (Santa Croce 578)."
           ],
           "ticketsToBuy": [
-            "Cost: Free (€5 cash tip optional)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Free (€5 cash tip optional)",
             "Retrieve stored luggage"
           ],
           "type": [
@@ -1615,12 +1547,12 @@
           ]
         },
         {
-          "time": "16:00 PM - 16:02 PM",
+          "time": "16:50 PM - 17:00 PM",
           "activity": "Walk to Venezia Santa Lucia Station",
           "location": "Venezia Santa Lucia Station",
           "mapLink": "https://maps.app.goo.gl/VeneziaSantaLuciaStation",
           "directions": [
-            "Exit hotel, cross street (10m), enter station (~2 min, 50m)"
+            "Exit hotel, cross street (10m), enter station (~10 min, 50m)"
           ],
           "transportation": [
             "N/A"
@@ -1639,13 +1571,14 @@
           ]
         },
         {
-          "time": "16:02 PM - 18:18 PM",
+          "time": "17:00 PM - 18:18 PM",
           "activity": "At Venezia Santa Lucia Station",
           "location": "Venezia Santa Lucia Station",
           "mapLink": "https://maps.app.goo.gl/VeneziaSantaLuciaStation",
           "directions": [
-            "Look for “FrecciaClub” lounge signs",
-            "Check platform screens for “Frecciarossa 9754” by 18:08 PM"
+            "Look for \"FrecciaClub\" lounge signs",
+            "Check platform screens for \"Frecciarossa 9754\" by 18:08 PM",
+            "Plenty of buffer time"
           ],
           "transportation": [
             "N/A"
@@ -1654,17 +1587,11 @@
             "Perform activity: At Venezia Santa Lucia Station."
           ],
           "ticketsToBuy": [
-            "Cost: €20-30 (snacks, Apple Pay",
-            "€5 cash tip optional)",
-            "Access FrecciaClub lounge (included with FrecciaFAMILY/BUSINESS ticket)"
+            "Access FrecciaClub lounge (included with ticket)"
           ],
           "costsAndNotes": [
-            "Cost: €20-30 (snacks, Apple Pay",
-            "€5 cash tip optional)",
-            "Access FrecciaClub lounge (included with FrecciaFAMILY/BUSINESS ticket)",
-            "Kids can use amenities (e",
-            "g",
-            ", coloring books)"
+            "Access FrecciaClub lounge (included with ticket)",
+            "Kids can use amenities"
           ],
           "type": [
             "activity"
@@ -1688,14 +1615,12 @@
             "Travel to From Venezia Santa Lucia to Milano Centrale."
           ],
           "ticketsToBuy": [
-            "Cost: €64 (FrecciaFAMILY/BUSINESS, booked, PNR: XJTRUN, Entitlement: 2487908270)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: €64 (FrecciaFAMILY/BUSINESS, booked, PNR: XJTRUN, Entitlement: 2487908270)",
             "Non-stop",
             "Wider seats, complimentary snacks/drinks, kid-friendly amenities",
-            "Free Wi-Fi",
-            "Issued: 2025-04-19, via WEB"
+            "Free Wi-Fi"
           ],
           "type": [
             "travel"
