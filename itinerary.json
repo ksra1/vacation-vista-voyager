@@ -1,36 +1,6 @@
 {
   "itinerary": [
     {
-      "city": "City",
-      "date": "Date",
-      "activities": [
-        {
-          "time": "Time",
-          "activity": "Activity",
-          "location": "Location",
-          "mapLink": "https://maps.app.goo.gl/Location",
-          "directions": [
-            "Directions"
-          ],
-          "transportation": [
-            "Transportation Details"
-          ],
-          "thingsToDo": [
-            "Perform activity: Activity."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Notes"
-          ],
-          "type": [
-            "activity"
-          ]
-        }
-      ]
-    },
-    {
       "city": "Munich",
       "date": "July 10, 2025",
       "activities": [
@@ -2625,7 +2595,9 @@
           ],
           "directions": [
             "Board train departing 16:06 (FLEXIBLE ticket - Order no",
-            ": 144195204456)"
+            ": 144195204456)",
+            "Trains available every 1 hr",
+            "13:06, 14:06,15:06,16:06, 17:06"
           ],
           "transportation": [
             "Train via Brünig (~1h 3min) - Point-to-point tickets valid 06",
@@ -2679,7 +2651,9 @@
           ],
           "directions": [
             "Board train to Grindelwald (FLEXIBLE ticket - Order no",
-            ": 144024104510)"
+            ": 144024104510)",
+            "Trains availble every 30 mins",
+            "16:34, 17:04, 17:34, 18:04, 18:34, 19:04"
           ],
           "transportation": [
             "Train ~30 min - Point-to-point tickets valid 06",
