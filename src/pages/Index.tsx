@@ -115,7 +115,7 @@ const Index = () => {
           </div>
           <p className="text-gray-600 flex items-center gap-2">
             <MapPin className="w-4 h-4" />
-            Detroit → Venice → Milan → Grindelwald → Munich → Athens → Greek Islands
+            Detroit → Paris → Venice → Milan → Lucerne → Grindelwald → Zurich → Munich → Athens → Milos
           </p>
         </div>
       </div>
