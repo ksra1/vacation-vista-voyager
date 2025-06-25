@@ -38,8 +38,15 @@ const Index = () => {
   useEffect(() => {
     const fetchItinerary = async () => {
       try {
+        console.log('Fetching itinerary from: /vacation-vista-voyager/itinerary.json');
         const response = await fetch('/vacation-vista-voyager/itinerary.json');
+        
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
         const data: ItineraryData = await response.json();
+        console.log('Itinerary data loaded:', data);
         
         // Sort the itinerary by date
         const sortedData = {
@@ -57,8 +64,10 @@ const Index = () => {
         
         if (todayIndex !== -1) {
           setDefaultTab(`day-${todayIndex}`);
+          console.log(`Setting default tab to today: day-${todayIndex}`);
         } else {
           setDefaultTab("day-0");
+          console.log('Today not found, defaulting to day-0');
         }
         
       } catch (error) {
@@ -137,10 +146,8 @@ const Index = () => {
       <div className="max-w-6xl mx-auto px-4 py-8">
         <Tabs defaultValue={defaultTab} className="w-full">
           <div className="mb-8 relative">
-            <div className="flex items-center">
-              <div className="flex-shrink-0 pr-2">
-                <ChevronLeft className="w-5 h-5 text-gray-400" />
-              </div>
+            <div className="flex items-center gap-2">
+              <ChevronLeft className="w-5 h-5 text-gray-400 flex-shrink-0" />
               <ScrollArea className="flex-1">
                 <TabsList className="flex w-max bg-white p-1 rounded-xl shadow-md h-auto">
                   {itineraryData.itinerary.map((day, index) => (
@@ -160,9 +167,7 @@ const Index = () => {
                 </TabsList>
                 <ScrollBar orientation="horizontal" />
               </ScrollArea>
-              <div className="flex-shrink-0 pl-2">
-                <ChevronRight className="w-5 h-5 text-gray-400" />
-              </div>
+              <ChevronRight className="w-5 h-5 text-gray-400 flex-shrink-0" />
             </div>
           </div>
 
