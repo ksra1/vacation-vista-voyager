@@ -2,8 +2,9 @@
 import { useState, useEffect } from "react";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { Button } from "@/components/ui/button";
+import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area";
 import DayItinerary from "@/components/DayItinerary";
-import { ChevronDown, ChevronUp, Plane, MapPin } from "lucide-react";
+import { ChevronDown, ChevronUp, Plane, MapPin, ChevronLeft, ChevronRight } from "lucide-react";
 
 interface Activity {
   time: string;
@@ -32,11 +33,12 @@ const Index = () => {
   const [expandedDays, setExpandedDays] = useState<Record<string, boolean>>({});
   const [itineraryData, setItineraryData] = useState<ItineraryData | null>(null);
   const [loading, setLoading] = useState(true);
+  const [defaultTab, setDefaultTab] = useState<string>("day-0");
 
   useEffect(() => {
     const fetchItinerary = async () => {
       try {
-        const response = await fetch('/vacation-vista-voyager/itinerary.json');
+        const response = await fetch('/itinerary.json');
         const data: ItineraryData = await response.json();
         
         // Sort the itinerary by date
@@ -48,6 +50,17 @@ const Index = () => {
         };
         
         setItineraryData(sortedData);
+
+        // Find today's date or default to first tab
+        const today = new Date().toISOString().split('T')[0];
+        const todayIndex = sortedData.itinerary.findIndex(day => day.date === today);
+        
+        if (todayIndex !== -1) {
+          setDefaultTab(`day-${todayIndex}`);
+        } else {
+          setDefaultTab("day-0");
+        }
+        
       } catch (error) {
         console.error('Error loading itinerary data:', error);
       } finally {
@@ -122,24 +135,35 @@ const Index = () => {
 
       {/* Main Content */}
       <div className="max-w-6xl mx-auto px-4 py-8">
-        <Tabs defaultValue={`day-0`} className="w-full">
-          <div className="mb-8">
-            <TabsList className="flex w-full justify-start bg-white p-1 rounded-xl shadow-md h-auto overflow-x-auto">
-              {itineraryData.itinerary.map((day, index) => (
-                <TabsTrigger 
-                  key={index}
-                  value={`day-${index}`} 
-                  className="flex flex-col items-center justify-center whitespace-nowrap px-4 py-3 text-sm font-medium ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:bg-gradient-to-r data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white text-gray-600 rounded-lg min-h-[60px] flex-shrink-0"
-                >
-                  <span className="font-semibold">
-                    {new Date(day.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
-                  </span>
-                  <span className="text-xs opacity-75 mt-1">
-                    {day.city}
-                  </span>
-                </TabsTrigger>
-              ))}
-            </TabsList>
+        <Tabs defaultValue={defaultTab} className="w-full">
+          <div className="mb-8 relative">
+            <div className="flex items-center">
+              <div className="flex-shrink-0 pr-2">
+                <ChevronLeft className="w-5 h-5 text-gray-400" />
+              </div>
+              <ScrollArea className="flex-1">
+                <TabsList className="flex w-max bg-white p-1 rounded-xl shadow-md h-auto">
+                  {itineraryData.itinerary.map((day, index) => (
+                    <TabsTrigger 
+                      key={index}
+                      value={`day-${index}`} 
+                      className="flex flex-col items-center justify-center whitespace-nowrap px-4 py-3 text-sm font-medium ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:bg-gradient-to-r data-[state=active]:from-blue-500 data-[state=active]:to-purple-600 data-[state=active]:text-white text-gray-600 rounded-lg min-h-[60px] flex-shrink-0 min-w-[100px]"
+                    >
+                      <span className="font-semibold">
+                        {new Date(day.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                      </span>
+                      <span className="text-xs opacity-75 mt-1">
+                        {day.city}
+                      </span>
+                    </TabsTrigger>
+                  ))}
+                </TabsList>
+                <ScrollBar orientation="horizontal" />
+              </ScrollArea>
+              <div className="flex-shrink-0 pl-2">
+                <ChevronRight className="w-5 h-5 text-gray-400" />
+              </div>
+            </div>
           </div>
 
           {itineraryData.itinerary.map((day, index) => (
