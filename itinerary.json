@@ -29,60 +29,133 @@
           ]
         },
         {
-          "time": "09:00 AM - 09:15 AM",
-          "activity": "Walk to Olympiapark",
-          "location": "Olympiapark München",
-          "mapLink": "https://maps.app.goo.gl/OlympiaparkMünchen",
+          "time": "09:00 AM - 09:10 AM",
+          "activity": "Walk to Edeka Center",
+          "location": "Edeka Center (Arnulfstraße area)",
+          "mapLink": "https://maps.app.goo.gl/EdekaCenterArnulfstraßearea",
           "directions": [
-            "Walk from hotel to nearby Olympiapark (~15 min)"
+            "Short walk from hotel to local Edeka supermarket"
           ],
           "transportation": [
-            "N/A"
+            "Walking ~5 min"
           ],
           "thingsToDo": [
-            "Walk to Olympiapark München."
+            "Walk to Edeka Center (Arnulfstraße area)."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Unique 1972 Olympics site, very close to hotel"
+            "Authentic German supermarket experience"
           ],
           "type": [
-            "travel"
+            "travel",
+            "activity"
           ]
         },
         {
-          "time": "09:15 AM - 11:30 AM",
-          "activity": "Explore Olympiapark",
-          "location": "Olympiapark München",
-          "mapLink": "https://maps.app.goo.gl/OlympiaparkMünchen",
+          "time": "09:10 AM - 10:00 AM",
+          "activity": "Explore German Edeka supermarket",
+          "location": "Edeka Center",
+          "mapLink": "https://maps.app.goo.gl/EdekaCenter",
           "directions": [
-            "Explore the Olympic grounds, tower, and architecture"
+            "Experience authentic German grocery shopping, local products, German retail culture"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Olympiapark München."
+            "Explore or relax at Edeka Center."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Iconic architecture, great views from Olympic Tower, family-friendly"
+            "See German food culture, local specialties, retail layout, checkout systems"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "11:30 AM - 12:15 PM",
-          "activity": "Return and check out",
+          "time": "10:00 AM - 10:15 AM",
+          "activity": "Taxi to BMW Welt",
+          "location": "BMW Welt",
+          "mapLink": "https://maps.app.goo.gl/BMWWelt",
+          "directions": [
+            "Take taxi from hotel area to BMW Welt"
+          ],
+          "transportation": [
+            "Taxi ~15 min"
+          ],
+          "thingsToDo": [
+            "Travel to BMW Welt."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Direct, comfortable ride to iconic BMW customer experience center"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "10:15 AM - 11:15 AM",
+          "activity": "Explore BMW Welt",
+          "location": "BMW Welt",
+          "mapLink": "https://maps.app.goo.gl/BMWWelt",
+          "directions": [
+            "Experience premium German retail innovation, customer deliveries, technology displays"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at BMW Welt."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "German engineering culture, business operations, interactive exhibits, unique architecture"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:15 AM - 11:30 AM",
+          "activity": "Taxi back to hotel",
           "location": "Novotel München City Arnulfpark",
           "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
           "directions": [
-            "Return to hotel, check out and collect luggage"
+            "Taxi back to hotel for checkout"
+          ],
+          "transportation": [
+            "Taxi ~15 min"
+          ],
+          "thingsToDo": [
+            "Travel to Novotel München City Arnulfpark."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Quick return, collect luggage"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:30 AM - 12:15 PM",
+          "activity": "Check out",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "directions": [
+            "At hotel front desk, collect luggage"
           ],
           "transportation": [
             "N/A"
