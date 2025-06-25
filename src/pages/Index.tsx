@@ -33,20 +33,28 @@ const Index = () => {
   const [expandedDays, setExpandedDays] = useState<Record<string, boolean>>({});
   const [itineraryData, setItineraryData] = useState<ItineraryData | null>(null);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
   const [defaultTab, setDefaultTab] = useState<string>("day-0");
 
   useEffect(() => {
     const fetchItinerary = async () => {
       try {
-        console.log('Fetching itinerary from: /vacation-vista-voyager/itinerary.json');
+        console.log('Starting fetch from: /vacation-vista-voyager/itinerary.json');
         const response = await fetch('/vacation-vista-voyager/itinerary.json');
         
+        console.log('Response status:', response.status);
+        console.log('Response ok:', response.ok);
+        
         if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
+          throw new Error(`Failed to fetch itinerary: ${response.status} ${response.statusText}`);
         }
         
         const data: ItineraryData = await response.json();
-        console.log('Itinerary data loaded:', data);
+        console.log('Raw data received:', data);
+        
+        if (!data || !data.itinerary) {
+          throw new Error('Invalid data structure received');
+        }
         
         // Sort the itinerary by date
         const sortedData = {
@@ -56,6 +64,7 @@ const Index = () => {
           )
         };
         
+        console.log('Sorted data:', sortedData);
         setItineraryData(sortedData);
 
         // Find today's date or default to first tab
@@ -72,6 +81,7 @@ const Index = () => {
         
       } catch (error) {
         console.error('Error loading itinerary data:', error);
+        setError(error instanceof Error ? error.message : 'Unknown error occurred');
       } finally {
         setLoading(false);
       }
@@ -114,10 +124,27 @@ const Index = () => {
     );
   }
 
+  if (error) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
+        <div className="text-center">
+          <div className="text-red-600 text-xl mb-4">Error loading itinerary</div>
+          <div className="text-gray-600">{error}</div>
+          <button 
+            onClick={() => window.location.reload()} 
+            className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+          >
+            Retry
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   if (!itineraryData) {
     return (
       <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
-        <div className="text-gray-800 text-xl">Failed to load itinerary data</div>
+        <div className="text-gray-800 text-xl">No itinerary data available</div>
       </div>
     );
   }
