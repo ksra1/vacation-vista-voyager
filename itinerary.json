@@ -202,42 +202,924 @@
           "type": [
             "travel"
           ]
+        },
+        {
+          "time": "21:55 PM - 22:10 PM",
+          "activity": "Arrive at Athens Airport",
+          "location": "Athens El. Venizelos Airport",
+          "mapLink": "https://maps.app.goo.gl/AthensEl.VenizelosAirport",
+          "directions": [
+            "Follow arrival signs, collect luggage"
+          ],
+          "transportation": [
+            "Flight A3807 from Munich"
+          ],
+          "thingsToDo": [
+            "Arrive at Athens El. Venizelos Airport."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "International arrival, busy airport"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "22:10 PM - 22:30 PM",
+          "activity": "Airport taxi to hotel",
+          "location": "Athens El. Venizelos to Grand Hyatt Athens",
+          "mapLink": [
+            "https://maps.app.goo.gl/AthensEl.Venizelos",
+            "https://maps.app.goo.gl/GrandHyattAthens"
+          ],
+          "directions": [
+            "Take airport taxi or metro to city center"
+          ],
+          "transportation": [
+            "Taxi ~45 min or Metro Line 3 to Syntagma"
+          ],
+          "thingsToDo": [
+            "Travel to Athens El. Venizelos to Grand Hyatt Athens."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Late evening arrival, allow extra time"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "22:30 PM - 23:00 PM",
+          "activity": "Check-in at Grand Hyatt",
+          "location": "Grand Hyatt Athens",
+          "mapLink": "https://maps.app.goo.gl/GrandHyattAthens",
+          "directions": [
+            "At hotel front desk, settle in for the night"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at Grand Hyatt Athens."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Priceline trip #: 831-046-835-16",
+            "Breakfast included",
+            "Late check-in"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "23:00 PM Onward",
+          "activity": "Rest at hotel",
+          "location": "Grand Hyatt Athens",
+          "mapLink": "https://maps.app.goo.gl/GrandHyattAthens",
+          "directions": [
+            "N/A"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Rest at hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Early night after long travel day"
+          ],
+          "type": [
+            "travel"
+          ]
         }
       ]
     },
     {
-      "city": "Milos",
+      "city": "Athens, Milos",
+      "date": "July 11, 2025",
+      "activities": [
+        {
+          "time": "08:00 AM - 09:30 AM",
+          "activity": "Breakfast at hotel",
+          "location": "Grand Hyatt Athens",
+          "mapLink": "https://maps.app.goo.gl/GrandHyattAthens",
+          "directions": [
+            "Leisurely breakfast with views of Athens"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at hotel at Grand Hyatt Athens."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Included breakfast, take time to plan day"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "09:30 AM - 10:30 AM",
+          "activity": "Explore Syntagma Square",
+          "location": "Syntagma Square area",
+          "mapLink": "https://maps.app.goo.gl/SyntagmaSquarearea",
+          "directions": [
+            "Walk from hotel to nearby Syntagma Square (~10 min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Syntagma Square area."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Historic center, Parliament building, changing of guard"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "10:30 AM - 12:00 PM",
+          "activity": "Walk through Plaka",
+          "location": "Plaka neighborhood",
+          "mapLink": "https://maps.app.goo.gl/Plakaneighborhood",
+          "directions": [
+            "Explore the old historic neighborhood below Acropolis"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Plaka neighborhood."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Charming old Athens, traditional architecture, shops"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:00 PM - 13:00 PM",
+          "activity": "Lunch in Plaka",
+          "location": "Traditional taverna in Plaka",
+          "mapLink": "https://maps.app.goo.gl/TraditionaltavernainPlaka",
+          "directions": [
+            "Find family-friendly taverna for Greek lunch"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy lunch in plaka at Traditional taverna in Plaka."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Authentic Greek cuisine, outdoor seating"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "13:00 PM - 13:30 PM",
+          "activity": "Travel to Piraeus Port",
+          "location": "Piraeus Port Gate E7",
+          "mapLink": "https://maps.app.goo.gl/PiraeusPortGateE7",
+          "directions": [
+            "Take metro from city center to Piraeus port"
+          ],
+          "transportation": [
+            "Metro Line 1 to Piraeus (~30 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to Piraeus Port."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Allow time to find Gate E7 for ferry departure"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "14:45 PM - 17:30 PM",
+          "activity": "Ferry to Milos",
+          "location": "Piraeus Gate E7 to Adamantas Port",
+          "mapLink": [
+            "https://maps.app.goo.gl/PiraeusGateE7",
+            "https://maps.app.goo.gl/AdamantasPort"
+          ],
+          "directions": [
+            "Board SEAJETS POWER JET (Ferryhopper Code: FH25YY6593UN)"
+          ],
+          "transportation": [
+            "SEAJETS ferry (~2h 45min) - Reservation: 7736EDALZ"
+          ],
+          "thingsToDo": [
+            "Perform activity: Ferry to Milos."
+          ],
+          "ticketsToBuy": [
+            "Present e-ticket",
+            "No ticket collection required"
+          ],
+          "costsAndNotes": [
+            "Lounge (economy) seating",
+            "Present e-ticket",
+            "No ticket collection required"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "17:30 PM - 17:45 PM",
+          "activity": "Arrive at Adamantas",
+          "location": "Adamantas Port, Milos",
+          "mapLink": "https://maps.app.goo.gl/AdamantasPort,Milos",
+          "directions": [
+            "Disembark ferry, organize transport to hotel"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Arrive at Adamantas Port, Milos."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Small port, easy to navigate"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "17:45 PM - 18:15 PM",
+          "activity": "Travel to hotel",
+          "location": "Arco Sollium Suites",
+          "mapLink": "https://maps.app.goo.gl/ArcoSolliumSuites",
+          "directions": [
+            "Take taxi from port to hotel"
+          ],
+          "transportation": [
+            "Taxi ~10 min"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Beautiful island setting"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "18:15 PM - 18:45 PM",
+          "activity": "Check-in at Arco Sollium",
+          "location": "Arco Sollium Suites",
+          "mapLink": "https://maps.app.goo.gl/ArcoSolliumSuites",
+          "directions": [
+            "At hotel front desk, settle in"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at Arco Sollium Suites."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Priceline: 831-129-125-16",
+            "Request rooms with sea views"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "18:45 PM - 19:15 PM",
+          "activity": "Walk around Adamantas town",
+          "location": "Adamantas waterfront and town center",
+          "mapLink": [
+            "https://maps.app.goo.gl/Adamantaswaterfrontand",
+            "https://maps.app.goo.gl/wncenter"
+          ],
+          "directions": [
+            "Leisurely walk from hotel through the port town"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Adamantas waterfront and town center."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Charming fishing town, traditional Cycladic architecture, easy exploration"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "19:15 PM - 19:45 PM",
+          "activity": "Visit Adamantas Beach",
+          "location": "Adamantas Beach",
+          "mapLink": "https://maps.app.goo.gl/AdamantasBeach",
+          "directions": [
+            "Short walk from town center to the local beach"
+          ],
+          "transportation": [
+            "Walking ~5 min from port"
+          ],
+          "thingsToDo": [
+            "Perform activity: Visit Adamantas Beach."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Calm, family-friendly beach right in town"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "19:45 PM - 21:00 PM",
+          "activity": "Sunset dinner at waterfront",
+          "location": "Waterfront taverna in Adamantas",
+          "mapLink": "https://maps.app.goo.gl/WaterfronttavernainAdamantas",
+          "directions": [
+            "Dinner at seaside restaurant with sunset views over the bay"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy sunset dinner at waterfront at Waterfront taverna in Adamantas."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Fresh seafood, traditional Greek dishes, beautiful harbor views as the sun sets"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "21:00 PM - 21:30 PM",
+          "activity": "Evening stroll",
+          "location": "Adamantas harbor promenade",
+          "mapLink": "https://maps.app.goo.gl/Adamantasharborpromenade",
+          "directions": [
+            "Relaxed evening walk along the harbor"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Evening stroll."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Peaceful evening atmosphere, local fishing boats, stars over the Aegean"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "21:30 PM Onward",
+          "activity": "Return to hotel",
+          "location": "Arco Sollium Suites",
+          "mapLink": "https://maps.app.goo.gl/ArcoSolliumSuites",
+          "directions": [
+            "Short walk back to hotel"
+          ],
+          "transportation": [
+            "Walking ~5-10 min"
+          ],
+          "thingsToDo": [
+            "Perform activity: Return to hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Perfect low-key first evening after travel"
+          ],
+          "type": [
+            "travel"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Athens, Milos",
       "date": "July 12, 2025",
       "activities": [
         {
-          "time": "16:35 PM - 19:55 PM",
-          "activity": "Ferry Travel",
-          "location": "Adamantas (Milos) to Piraeus",
+          "time": "08:00 AM - 09:00 AM",
+          "activity": "Breakfast",
+          "location": "Arco Sollium Suites or local café",
+          "mapLink": "https://maps.app.goo.gl/ArcoSolliumSuitesorlocalcafé",
+          "directions": [
+            "Leisurely breakfast with island views"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at Arco Sollium Suites or local café."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Pack for day of beach and village exploration"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "09:00 AM - 09:15 AM",
+          "activity": "Arrange day tour",
+          "location": "Hotel or local tour office",
           "mapLink": [
-            "https://maps.app.goo.gl/AdamantasMilos",
+            "https://maps.app.goo.gl/Hotelorlocal",
+            "https://maps.app.goo.gl/uroffice"
+          ],
+          "directions": [
+            "Book half-day tour to Sarakiniko Beach and Plaka village"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Arrange day tour."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Most hotels can arrange this, or book with local tour operator"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "09:30 AM - 10:00 AM",
+          "activity": "Travel to Sarakiniko Beach",
+          "location": "Adamantas to Sarakiniko Beach",
+          "mapLink": [
+            "https://maps.app.goo.gl/Adamantas",
+            "https://maps.app.goo.gl/SarakinikoBeach"
+          ],
+          "directions": [
+            "Join organized tour or take local bus to famous white cliffs"
+          ],
+          "transportation": [
+            "Tour bus or KTEL bus ~20 min"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to Sarakiniko Beach."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Most famous beach in Milos with unique white cliff formations"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "10:00 AM - 12:30 PM",
+          "activity": "Explore Sarakiniko Beach",
+          "location": "Sarakiniko Beach",
+          "mapLink": "https://maps.app.goo.gl/SarakinikoBeach",
+          "directions": [
+            "Explore the dramatic white volcanic cliffs and turquoise waters"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Sarakiniko Beach."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Stunning lunar-like landscape, perfect for photos",
+            "Bring sun protection and water"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:30 PM - 13:00 PM",
+          "activity": "Travel to Plaka",
+          "location": "Sarakiniko to Plaka village",
+          "mapLink": [
+            "https://maps.app.goo.gl/Sarakiniko",
+            "https://maps.app.goo.gl/Plakavillage"
+          ],
+          "directions": [
+            "Continue tour or take connecting transport to traditional village"
+          ],
+          "transportation": [
+            "Tour bus or local transport ~15 min"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to Plaka."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Charming traditional Cycladic village"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "13:00 PM - 14:30 PM",
+          "activity": "Explore Plaka village",
+          "location": "Plaka village and beach",
+          "mapLink": "https://maps.app.goo.gl/Plakavillageandbeach",
+          "directions": [
+            "Walk through traditional village, visit local beach"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Plaka village and beach."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Traditional architecture, local shops, beautiful beach nearby"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "14:30 PM - 15:30 PM",
+          "activity": "Lunch in Plaka",
+          "location": "Traditional taverna in Plaka",
+          "mapLink": "https://maps.app.goo.gl/TraditionaltavernainPlaka",
+          "directions": [
+            "Leisurely lunch with sea views"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy lunch in plaka at Traditional taverna in Plaka."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Fresh island cuisine, relaxed atmosphere"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "15:30 PM - 16:15 PM",
+          "activity": "Return to Adamantas Port",
+          "location": "Plaka to Adamantas Port",
+          "mapLink": [
+            "https://maps.app.goo.gl/Plaka",
+            "https://maps.app.goo.gl/AdamantasPort"
+          ],
+          "directions": [
+            "Return journey to port for ferry departure"
+          ],
+          "transportation": [
+            "Tour return or local bus ~20 min"
+          ],
+          "thingsToDo": [
+            "Perform activity: Return to Adamantas Port."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Allow time to reach ferry terminal"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "16:35 PM - 19:55 PM",
+          "activity": "Ferry back to Athens",
+          "location": "Adamantas to Piraeus",
+          "mapLink": [
+            "https://maps.app.goo.gl/Adamantas",
             "https://maps.app.goo.gl/Piraeus"
           ],
           "directions": [
-            "Arrive at Adamantas port at least 1 hour before departure (15:35)",
-            "Board directly with e-ticket"
+            "Board SEAJETS OLYMPIC CHAMPION JET (same reservation)"
           ],
           "transportation": [
-            "Ferry: Seajets, OLYMPIC CHAMPION JET, 3h 20m, Lounge (Economy)",
-            "Passengers: Passenger 1 (Full fare), Passenger 2 (Full fare), Passenger 3 (Full fare), Passenger 4 (Child 5-10)"
+            "SEAJETS ferry (~3h 20min) - Reservation: 7736EDALZ"
           ],
           "thingsToDo": [
-            "Perform activity: Ferry Travel."
+            "Perform activity: Ferry back to Athens."
           ],
           "ticketsToBuy": [
-            "Total: Included in €563"
+            "None."
           ],
           "costsAndNotes": [
-            "Ferryhopper Code: FH25YY6593UN, Reservation: 7736EDALZ",
-            "Baggage: 1 large piece free per passenger (check Seajets for port fees)",
-            "Total: Included in €563",
-            "00",
-            "Check weather for delays",
-            "Use Ferryhopper app"
+            "Lounge (economy) seating",
+            "Evening ferry with sunset views"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "19:55 PM - 20:30 PM",
+          "activity": "Travel to hotel",
+          "location": "Athenaeum Eridanus Luxury Hotel",
+          "mapLink": "https://maps.app.goo.gl/AthenaeumEridanusLuxuryHotel",
+          "directions": [
+            "Take metro or taxi from Piraeus to hotel"
+          ],
+          "transportation": [
+            "Metro Line 1 or taxi ~30 min"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Priceline: 830-974-425-18",
+            "Breakfast included"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "20:30 PM - 21:00 PM",
+          "activity": "Check-in at Athenaeum Eridanus",
+          "location": "Athenaeum Eridanus Luxury Hotel",
+          "mapLink": "https://maps.app.goo.gl/AthenaeumEridanusLuxuryHotel",
+          "directions": [
+            "At hotel front desk, settle in for final Athens night"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Complete check-in/out at Athenaeum Eridanus Luxury Hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Luxury hotel, request quiet rooms for rest before flight"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "21:00 PM - 22:15 PM",
+          "activity": "Dinner near hotel",
+          "location": "Local restaurant",
+          "mapLink": "https://maps.app.goo.gl/Localrestaurant",
+          "directions": [
+            "Find nearby restaurant for final Greek dinner"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy dinner near hotel at Local restaurant."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Authentic Greek cuisine, reflect on island experience"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "22:15 PM Onward",
+          "activity": "Rest at hotel",
+          "location": "Athenaeum Eridanus Luxury Hotel",
+          "mapLink": "https://maps.app.goo.gl/AthenaeumEridanusLuxuryHotel",
+          "directions": [
+            "Prepare for departure tomorrow"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Rest at hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Pack, early rest for travel day"
+          ],
+          "type": [
+            "travel"
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Athens, Detroit",
+      "date": "July 13, 2025",
+      "activities": [
+        {
+          "time": "08:00 AM - 09:30 AM",
+          "activity": "Breakfast and check out",
+          "location": "Athenaeum Eridanus Luxury Hotel",
+          "mapLink": "https://maps.app.goo.gl/AthenaeumEridanusLuxuryHotel",
+          "directions": [
+            "Final breakfast in Athens, check out procedures"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast and check out at Athenaeum Eridanus Luxury Hotel.",
+            "Complete check-in/out at Athenaeum Eridanus Luxury Hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Included breakfast, organize luggage for airport"
+          ],
+          "type": [
+            "travel",
+            "dining"
+          ]
+        },
+        {
+          "time": "09:30 AM - 11:30 AM",
+          "activity": "Final Athens exploration",
+          "location": "Athens city center",
+          "mapLink": "https://maps.app.goo.gl/Athenscitycenter",
+          "directions": [
+            "Last-minute sightseeing or shopping near hotel"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Final Athens exploration."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Acropolis views, final souvenir shopping, café time"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:30 AM - 12:30 PM",
+          "activity": "Travel to airport",
+          "location": "Athens El. Venizelos Airport",
+          "mapLink": "https://maps.app.goo.gl/AthensEl.VenizelosAirport",
+          "directions": [
+            "Take metro or taxi to airport for international departure"
+          ],
+          "transportation": [
+            "Metro Line 3 or taxi ~45 min"
+          ],
+          "thingsToDo": [
+            "Perform activity: Travel to airport."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Allow plenty of time for international flight check-in"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:30 PM - 16:00 PM",
+          "activity": "At Athens Airport",
+          "location": "Athens El. Venizelos Airport",
+          "mapLink": "https://maps.app.goo.gl/AthensEl.VenizelosAirport",
+          "directions": [
+            "Check-in, security, departure preparations"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: At Athens Airport."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Turkish Airlines flight to Detroit",
+            "Reference: S67J58",
+            "Present documents"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "Flight departure time TBD",
+          "activity": "Flight to Detroit",
+          "location": "Athens to Detroit via Turkish Airlines",
+          "mapLink": [
+            "https://maps.app.goo.gl/Athens",
+            "https://maps.app.goo.gl/DetroitviaTurkishAirlines"
+          ],
+          "directions": [
+            "Board Turkish Airlines flight (Reference: S67J58)"
+          ],
+          "transportation": [
+            "Turkish Airlines connection flight"
+          ],
+          "thingsToDo": [
+            "Travel to Athens to Detroit via Turkish Airlines."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "International return journey, likely via Istanbul connection"
           ],
           "type": [
             "travel"
