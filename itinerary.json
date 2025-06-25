@@ -1,165 +1,88 @@
 {
   "itinerary": [
     {
-      "city": "Munich",
+      "city": "Athens, Munich",
       "date": "July 10, 2025",
       "activities": [
         {
-          "time": "07:30 AM - 08:30 AM",
+          "time": "08:00 AM - 09:00 AM",
           "activity": "Breakfast",
-          "location": "Café Luitpold (Brienner Straße 11)",
-          "mapLink": "https://maps.app.goo.gl/CaféLuitpoldBriennerStraße11",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
           "directions": [
-            "Exit hotel, walk to Marsstraße tram stop (~2 min, 50m, flat)",
-            "Take tram and U-Bahn to café"
-          ],
-          "transportation": [
-            "Tram 16/17 to Hauptbahnhof (~5 min), U4/U5 to Odeonsplatz (~5 min), walk 5 min (300m, flat)"
-          ],
-          "thingsToDo": [
-            "Enjoy breakfast at Café Luitpold (Brienner Straße 11)."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€40-60 (artisan granola, vegan croissants, juices, €8-15",
-            "kids’ waffles, smoothies, €6-10, Apple Pay)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€40-60 (artisan granola, vegan croissants, juices, €8-15",
-            "kids’ waffles, smoothies, €6-10, Apple Pay)",
-            "Elegant, historic café, luxurious vibe",
-            "14-year-old likes smoothies, 10-year-old loves waffles",
-            "Book via cafeluitpold",
-            "de for 07:30 AM"
-          ],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "08:30 AM - 08:45 AM",
-          "activity": "Travel to Nymphenburg",
-          "location": "Nymphenburg Palace Gardens (Schloß Nymphenburg 1)",
-          "mapLink": "https://maps.app.goo.gl/NymphenburgPalaceGardensSchloßNymphenburg1",
-          "directions": [
-            "Walk to Odeonsplatz U-Bahn (~5 min, 300m, flat)",
-            "Take tram to Nymphenburg"
-          ],
-          "transportation": [
-            "U4/U5 to Hauptbahnhof (~5 min), tram 17 to Schloss Nymphenburg (~10 min)"
-          ],
-          "thingsToDo": [
-            "Perform activity: Travel to Nymphenburg."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€17",
-            "90 (group day ticket, Apple Pay)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€17",
-            "90 (group day ticket, Apple Pay)",
-            "Munich’s most luxurious gardens, pristine and royal",
-            "Supervise kids in transit"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "08:45 AM - 11:00 AM",
-          "activity": "Nymphenburg Palace Gardens",
-          "location": "Nymphenburg Palace Gardens",
-          "mapLink": "https://maps.app.goo.gl/NymphenburgPalaceGardens",
-          "directions": [
-            "Stroll canals, fountains, Badenburg Lake",
-            "View Amalienburg exterior",
-            "Optional luxury rowboat ride (€15/hr for 4)"
+            "Leisurely breakfast at hotel"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Perform activity: Nymphenburg Palace Gardens."
+            "Enjoy breakfast at Novotel München City Arnulfpark."
           ],
           "ticketsToBuy": [
-            "Cost: ~€15 (rowboats, optional, cash/Apple Pay)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: ~€15 (rowboats, optional, cash/Apple Pay)",
-            "Well-maintained royal gardens, Alps views",
-            "14-year-old loves photos, 10-year-old enjoys lake",
-            "Book rowboats on-site",
-            "supervise 10-year-old near water"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "11:00 AM - 12:00 PM",
-          "activity": "Vegetarian Lunch",
-          "location": "Café Palmenhaus (Nymphenburg grounds)",
-          "mapLink": "https://maps.app.goo.gl/CaféPalmenhausNymphenburggrounds",
-          "directions": [
-            "Walk from gardens to Palmenhaus (~5 min, 300m, flat)",
-            "Follow “Café” signs"
-          ],
-          "transportation": [
-            "Walk (~5 min)"
-          ],
-          "thingsToDo": [
-            "Enjoy vegetarian lunch at Café Palmenhaus (Nymphenburg grounds)."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€50-70 (wraps, salads, desserts, €10-15",
-            "kids’ sandwiches, sorbet, €8-12, Apple Pay)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€50-70 (wraps, salads, desserts, €10-15",
-            "kids’ sandwiches, sorbet, €8-12, Apple Pay)",
-            "Upscale greenhouse, flawless garden views",
-            "14-year-old likes salads, 10-year-old prefers sorbet",
-            "Book via palmenhaus",
-            "de for 11:00 AM"
+            "Final breakfast in Munich"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "12:00 PM - 12:15 PM",
-          "activity": "Return to Hotel",
-          "location": "Novotel München City Arnulfpark",
-          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "time": "09:00 AM - 09:15 AM",
+          "activity": "Walk to Olympiapark",
+          "location": "Olympiapark München",
+          "mapLink": "https://maps.app.goo.gl/OlympiaparkMünchen",
           "directions": [
-            "Walk to Schloss Nymphenburg tram stop (~5 min, 300m, flat)",
-            "Take tram to hotel"
+            "Walk from hotel to nearby Olympiapark (~15 min)"
           ],
           "transportation": [
-            "Tram 17 to Marsstraße (~15 min)"
+            "N/A"
           ],
           "thingsToDo": [
-            "Perform activity: Return to Hotel."
+            "Walk to Olympiapark München."
           ],
           "ticketsToBuy": [
-            "Cost: Included in group ticket"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Included in group ticket",
-            "Check out by 12:00 PM",
-            "Supervise kids in transit"
+            "Unique 1972 Olympics site, very close to hotel"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "09:15 AM - 11:30 AM",
+          "activity": "Explore Olympiapark",
+          "location": "Olympiapark München",
+          "mapLink": "https://maps.app.goo.gl/OlympiaparkMünchen",
+          "directions": [
+            "Explore the Olympic grounds, tower, and architecture"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Olympiapark München."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Iconic architecture, great views from Olympic Tower, family-friendly"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "12:15 PM - 12:30 PM",
-          "activity": "Check Out",
+          "time": "11:30 AM - 12:15 PM",
+          "activity": "Return and check out",
           "location": "Novotel München City Arnulfpark",
           "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
           "directions": [
-            "At hotel front desk",
-            "Collect deposit, grab bags"
+            "Return to hotel, check out and collect luggage"
           ],
           "transportation": [
             "N/A"
@@ -168,67 +91,83 @@
             "Complete check-in/out at Novotel München City Arnulfpark."
           ],
           "ticketsToBuy": [
-            "Confirm deposit refund (€20 cash)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Free",
-            "Ensure bags are ready for airport transfer",
-            "Confirm deposit refund (€20 cash)"
+            "Confirm check-out procedures"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "12:30 PM - 12:40 PM",
+          "time": "12:15 PM - 12:30 PM",
           "activity": "Travel to Hauptbahnhof",
           "location": "Munich Hauptbahnhof",
           "mapLink": "https://maps.app.goo.gl/MunichHauptbahnhof",
           "directions": [
-            "Walk to Marsstraße tram stop (~2 min, 50m, flat)",
-            "Take tram to Hauptbahnhof"
+            "Take tram from hotel to Hauptbahnhof"
           ],
           "transportation": [
-            "Tram 16/17 to Hauptbahnhof (~10 min)"
+            "Tram 16/17 (~10 min)"
           ],
           "thingsToDo": [
             "Perform activity: Travel to Hauptbahnhof."
           ],
           "ticketsToBuy": [
-            "Cost: Included in group ticket"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Included in group ticket",
-            "Prepare for S-Bahn to airport",
-            "Supervise kids in busy station"
+            "Prepare for S-Bahn to airport"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "12:40 PM - 13:25 PM",
+          "time": "12:30 PM - 13:15 PM",
           "activity": "Travel to Airport",
-          "location": "Munich Airport (MUC)",
-          "mapLink": "https://maps.app.goo.gl/MunichAirportMUC",
+          "location": "Munich Airport Terminal 2",
+          "mapLink": "https://maps.app.goo.gl/MunichAirportTerminal2",
           "directions": [
-            "Board S8 at Hauptbahnhof, alight at Munich Airport Terminal"
+            "Board S8 at Hauptbahnhof to Munich Airport"
           ],
           "transportation": [
-            "S8 to airport (~45 min)"
+            "S8 (~45 min)"
           ],
           "thingsToDo": [
             "Perform activity: Travel to Airport."
           ],
           "ticketsToBuy": [
-            "Cost: ~€12/person (S-Bahn, Apple Pay)",
-            "Taxi alternative: ~€70, 35 min, cash"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: ~€12/person (S-Bahn, Apple Pay)",
-            "Arrive by ~13:25 PM for 18:25 PM flight (2 hours for check-in)",
-            "Kids carry light bags",
-            "Taxi alternative: ~€70, 35 min, cash"
+            "Allow plenty of time for international flight"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "13:15 PM - 18:25 PM",
+          "activity": "At Munich Airport",
+          "location": "Munich Airport Terminal 2",
+          "mapLink": "https://maps.app.goo.gl/MunichAirportTerminal2",
+          "directions": [
+            "Check-in, security, departure preparations"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: At Munich Airport."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flight A3807 to Athens",
+            "Present payment card if required for verification"
           ],
           "type": [
             "travel"
@@ -236,80 +175,32 @@
         },
         {
           "time": "18:25 PM - 21:55 PM",
-          "activity": "International Flight",
-          "location": "Munich (MUC) to Athens (ATH)",
+          "activity": "Flight to Athens",
+          "location": "Munich Terminal 2 to Athens El. Venizelos",
           "mapLink": [
-            "https://maps.app.goo.gl/MunichMUC",
-            "https://maps.app.goo.gl/AthensATH"
+            "https://maps.app.goo.gl/MunichTerminal2",
+            "https://maps.app.goo.gl/AthensEl.Venizelos"
           ],
           "directions": [
-            "Depart from Munich Franz Josef Strauss Airport, Terminal 2, to Athens Eleftherios Venizelos Airport (ATH)",
-            "Check-in at MUC and present payment card for verification if required"
+            "Board A3807 (NON-FLEXIBLE) - Seats 14A,14B,14C,14D"
           ],
           "transportation": [
-            "Flight: Aegean Airlines, A3807, Nonstop, 2h 30m, Airbus A320neo, Economy (Fare Family: Family, Class: T)",
-            "Seats: Passenger 1 (14A), Passenger 2 (14B), Passenger 3 (14D), Passenger 4 (14C)"
+            "Aegean Airlines A3807 - Airbus A320neo (~2h 30min) - Booking Ref: PKYIF7"
           ],
           "thingsToDo": [
-            "Travel to Munich (MUC) to Athens (ATH)."
+            "Travel to Munich Terminal 2 to Athens El. Venizelos."
           ],
           "ticketsToBuy": [
-            "Total: €638"
+            "Family fare, Economy class",
+            "Present e-ticket and ID"
           ],
           "costsAndNotes": [
-            "Booking Ref: PKYTF7",
-            "Baggage: 1 paid bag (32 kg) for Passenger 1 (Excess Baggage: 390-4084640176, 390-4084640175), others 0 checked",
-            "Cabin: 2 pieces (1 personal + 1 carry-on 8 kg)",
-            "Miles+Bonus: 708 miles each",
-            "Total: €638",
-            "56"
+            "Family fare, Economy class",
+            "1 checked bag (32kg)",
+            "Present e-ticket and ID"
           ],
           "type": [
             "travel"
-          ]
-        }
-      ]
-    },
-    {
-      "city": "Athens",
-      "date": "July 11, 2025",
-      "activities": [
-        {
-          "time": "14:45 PM - 17:30 PM",
-          "activity": "Ferry Travel",
-          "location": "Piraeus (Gate E7) to Adamantas (Milos)",
-          "mapLink": [
-            "https://maps.app.goo.gl/PiraeusGateE7",
-            "https://maps.app.goo.gl/AdamantasMilos"
-          ],
-          "directions": [
-            "Arrive at Piraeus port, Gate E7, at least 1 hour before departure (13:45)",
-            "Board directly with e-ticket"
-          ],
-          "transportation": [
-            "Ferry: Seajets, POWER JET, 2h 45m, Lounge (Economy)",
-            "Passengers: Passenger 1 (Full fare), Passenger 2 (Full fare), Passenger 3 (Full fare), Passenger 4 (Child 5-10)"
-          ],
-          "thingsToDo": [
-            "Perform activity: Ferry Travel."
-          ],
-          "ticketsToBuy": [
-            "Total: €563",
-            "00 (Ticket: €551",
-            "00, Fee: €12"
-          ],
-          "costsAndNotes": [
-            "Ferryhopper Code: FH25YY6593UN, Reservation: 7736EDALZ",
-            "Baggage: 1 large piece free per passenger (check Seajets for port fees)",
-            "Total: €563",
-            "00 (Ticket: €551",
-            "00, Fee: €12",
-            "00)",
-            "Check weather for delays",
-            "Use Ferryhopper app"
-          ],
-          "type": [
-            "activity"
           ]
         }
       ]
@@ -3282,73 +3173,32 @@
           ]
         },
         {
-          "time": "19:04 PM",
+          "time": "19:04 PM - 19:15 PM",
           "activity": "Arrive at München Hbf",
-          "location": "Munich Hauptbahnhof",
-          "mapLink": "https://maps.app.goo.gl/MunichHauptbahnhof",
+          "location": "Munich Hauptbahnhof Platform 27-36",
+          "mapLink": "https://maps.app.goo.gl/MunichHauptbahnhofPlatform27-36",
           "directions": [
-            "Follow “Exit” signs to tram stop (~2 min, 100m, flat)",
-            "Board tram to hotel"
+            "Follow \"Exit\" signs to tram stop"
           ],
           "transportation": [
-            "Train EC 195 from Zürich HB (~3h 31m, 1st class, booked via bahn",
-            "de, Coach 2, Seats 93-96, table, reserved)",
-            "Tram 16/17 to Marsstraße (~5 min, €3",
-            "20/person or €17",
-            "90 group day ticket)"
+            "Train EC 195 from Zürich HB - Coach 2, Seats 93-96"
           ],
           "thingsToDo": [
-            "Arrive at Munich Hauptbahnhof."
+            "Arrive at Munich Hauptbahnhof Platform 27-36."
           ],
           "ticketsToBuy": [
-            "Cost: Train €112",
-            "98 (booked), tram ~€17",
-            "90 (group ticket, Apple Pay)",
-            "Show ticket (code: GYSETXVR) and IDs at control",
-            "Snacks: Bring from Zürich (~€5-10, cash) or buy at station kiosk (~€10-15, Apple Pay)"
+            "Present e-ticket and ID"
           ],
           "costsAndNotes": [
-            "Cost: Train €112",
-            "98 (booked), tram ~€17",
-            "90 (group ticket, Apple Pay)",
-            "Busy station",
-            "kids carry light bags",
-            "Show ticket (code: GYSETXVR) and IDs at control",
-            "Snacks: Bring from Zürich (~€5-10, cash) or buy at station kiosk (~€10-15, Apple Pay)"
+            "Present e-ticket and ID",
+            "Busy station"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "19:04 PM - 19:14 PM",
-          "activity": "Withdraw Cash",
-          "location": "Munich Hauptbahnhof",
-          "mapLink": "https://maps.app.goo.gl/MunichHauptbahnhof",
-          "directions": [
-            "At station ATM (near ticket office, ground floor, follow “Geldautomat” signs)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Perform activity: Withdraw Cash."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€100 withdrawal (fee ~€2-3, cash only)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€100 withdrawal (fee ~€2-3, cash only)",
-            "Keep cash for taxis, tips",
-            "Check Apple Pay for nearby vendors",
-            "Supervise 10-year-old in busy station"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "19:14 PM - 19:19 PM",
+          "time": "19:15 PM - 19:25 PM",
           "activity": "Walk to Tram Stop",
           "location": "Hauptbahnhof Tram Stop",
           "mapLink": [
@@ -3356,10 +3206,10 @@
             "https://maps.app.goo.gl/p"
           ],
           "directions": [
-            "Exit station, follow “Tram” signs to platform (~2 min, 100m, flat)"
+            "Exit station, follow \"Tram\" signs to platform (~5 min walk)"
           ],
           "transportation": [
-            "Walk (~2 min)"
+            "N/A"
           ],
           "thingsToDo": [
             "Walk to Hauptbahnhof Tram Stop."
@@ -3368,49 +3218,43 @@
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Free",
-            "Flat path, busy evening crowds",
-            "Supervise 10-year-old"
+            "Flat path, evening crowds"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "19:19 PM - 19:24 PM",
+          "time": "19:25 PM - 19:35 PM",
           "activity": "Tram to Hotel",
-          "location": "Novotel München City Arnulfpark (Arnulfstraße 57)",
-          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfparkArnulfstraße57",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
           "directions": [
-            "Board tram 16/17 at Hauptbahnhof, alight at Marsstraße, walk 2 min to hotel (50m, flat)"
+            "Board tram 16/17 at Hauptbahnhof, alight at Marsstraße, walk 2 min to hotel"
           ],
           "transportation": [
-            "Tram (~5 min)"
+            "Tram 16/17 (~10 min)"
           ],
           "thingsToDo": [
             "Perform activity: Tram to Hotel."
           ],
           "ticketsToBuy": [
-            "Cost: Included in group ticket"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Included in group ticket",
-            "Modern trams",
-            "kids sit together",
-            "Luxurious hotel",
-            "confirm early check-in for Jul 9"
+            "Modern trams, short walk to hotel"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "19:24 PM - 19:44 PM",
+          "time": "19:35 PM - 20:00 PM",
           "activity": "Check-in at Novotel",
           "location": "Novotel München City Arnulfpark",
           "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
           "directions": [
-            "At hotel front desk"
+            "At hotel front desk, take time to settle"
           ],
           "transportation": [
             "N/A"
@@ -3419,22 +3263,42 @@
             "Complete check-in/out at Novotel München City Arnulfpark."
           ],
           "ticketsToBuy": [
-            "€20 cash deposit (refundable)"
+            "None."
           ],
           "costsAndNotes": [
-            "Cost: Booked (check-in from 15:00)",
             "Request quiet, high-floor family room with city views",
-            "€20 cash deposit (refundable)",
-            "Confirm check-out by 12:00 (Jul 10)",
-            "Upscale hotel",
-            "kids relax in lounge with Wi-Fi"
+            "Confirm check-out time"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "19:44 PM Onward",
+          "time": "20:00 PM - 21:15 PM",
+          "activity": "Dinner near hotel",
+          "location": "Local restaurant in Arnulfpark area",
+          "mapLink": "https://maps.app.goo.gl/LocalrestaurantinArnulfparkarea",
+          "directions": [
+            "Find family-friendly restaurant near hotel (~5 min walk)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy dinner near hotel at Local restaurant in Arnulfpark area."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Many options in the area, leisurely dinner"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "21:15 PM Onward",
           "activity": "Relax at Hotel",
           "location": "Novotel München City Arnulfpark",
           "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
@@ -3451,11 +3315,8 @@
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Free",
-            "Unpack essentials, early night after travel",
-            "Kids use Wi-Fi",
-            "guide 10-year-old to bed",
-            "Hotel has kids’ play area, board games"
+            "Early night for Innsbruck day trip",
+            "Hotel has family amenities"
           ],
           "type": [
             "activity"
@@ -3464,386 +3325,428 @@
       ]
     },
     {
-      "city": "Munich",
+      "city": "Innsbruck, Munich",
       "date": "July 9, 2025",
       "activities": [
         {
-          "time": "08:00 AM - 09:00 AM",
-          "activity": "Breakfast",
-          "location": "Seehaus im Englischen Garten (Kleinhesseloher 3)",
-          "mapLink": "https://maps.app.goo.gl/SeehausimEnglischenGartenKleinhesseloher3",
-          "directions": [
-            "Exit hotel, walk to Marsstraße tram stop (~2 min, 50m, flat)",
-            "Board tram to Kurfürstenplatz, then U-Bahn to restaurant"
-          ],
-          "transportation": [
-            "Tram 12 to Kurfürstenplatz (~10 min), U3 to Münchner Freiheit (~5 min), walk 10 min (500m, flat)"
-          ],
-          "thingsToDo": [
-            "Enjoy breakfast at Seehaus im Englischen Garten (Kleinhesseloher 3)."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€40-60 (vegetarian pastries, avocado tartines, juices, €8-15",
-            "kids’ pancakes, smoothies, €6-10, Apple Pay)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€40-60 (vegetarian pastries, avocado tartines, juices, €8-15",
-            "kids’ pancakes, smoothies, €6-10, Apple Pay)",
-            "Luxurious lakeside setting, pristine views",
-            "14-year-old likes granola, 10-year-old loves pancakes",
-            "Reserve table via seehaus",
-            "de for 08:00 AM"
-          ],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "09:00 AM - 11:30 AM",
-          "activity": "Marienplatz & Maximilianstraße Stroll",
-          "location": "Marienplatz, Maximilianstraße",
-          "mapLink": "https://maps.app.goo.gl/Marienplatz,Maximilianstraße",
-          "directions": [
-            "Exit Seehaus, walk to Münchner Freiheit U-Bahn (~10 min, 500m, flat)",
-            "Take U-Bahn to Marienplatz, then walk to Maximilianstraße"
-          ],
-          "transportation": [
-            "U3 to Marienplatz (~15 min), walk 5 min to Maximilianstraße (300m, flat)"
-          ],
-          "thingsToDo": [
-            "Perform activity: Marienplatz & Maximilianstraße Stroll."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€17",
-            "90 (group day ticket, Apple Pay)",
-            "Grab gourmet vegetarian snacks (truffle fries, €5-8) at Viktualienmarkt"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€17",
-            "90 (group day ticket, Apple Pay)",
-            "Polished Marienplatz with Alps views, upscale boutiques",
-            "Explore Maximilianstraße’s luxury shops (Chanel, Gucci)",
-            "Kids enjoy street performers",
-            "Grab gourmet vegetarian snacks (truffle fries, €5-8) at Viktualienmarkt",
-            "Supervise 10-year-old in crowds"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "11:30 AM - 12:45 PM",
-          "activity": "Vegetarian Lunch",
-          "location": "Tian (Frauenstraße 4)",
-          "mapLink": "https://maps.app.goo.gl/TianFrauenstraße4",
-          "directions": [
-            "Walk from Maximilianstraße to Tian (~8 min, 500m, flat)",
-            "Follow Frauenstraße signs"
-          ],
-          "transportation": [
-            "Walk (~8 min)"
-          ],
-          "thingsToDo": [
-            "Enjoy vegetarian lunch at Tian (Frauenstraße 4)."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€60-80 (vegan tasting plates, truffle risotto, €15-25",
-            "kids’ pizzas, pastas, €10-12, Apple Pay)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€60-80 (vegan tasting plates, truffle risotto, €15-25",
-            "kids’ pizzas, pastas, €10-12, Apple Pay)",
-            "Michelin-recommended, elegant vegetarian dining",
-            "14-year-old likes spicy dishes, 10-year-old prefers mild pasta",
-            "Book via tian-restaurant",
-            "com for 12:00 PM",
-            "Upscale yet kid-friendly"
-          ],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "12:45 PM - 13:05 PM",
-          "activity": "Travel to MAN Factory",
-          "location": "MAN Truck & Bus (Karlsfelder Str. 68)",
-          "mapLink": "https://maps.app.goo.gl/MANTruck&BusKarlsfelderStr.68",
-          "directions": [
-            "Walk to Marienplatz U-Bahn (~5 min, 300m, flat)",
-            "Take U-Bahn to factory"
-          ],
-          "transportation": [
-            "U3 to Marienplatz (~5 min), U1 to Feldmoching (~15 min), walk 10 min (600m, flat)"
-          ],
-          "thingsToDo": [
-            "Perform activity: Travel to MAN Factory."
-          ],
-          "ticketsToBuy": [
-            "Cost: Included in group ticket"
-          ],
-          "costsAndNotes": [
-            "Cost: Included in group ticket",
-            "Luxurious, high-tech MAN factory tour (2 hr) showcases premium truck/bus production",
-            "Book for 13:15 PM via besucherservice@man",
-            "eu or +49 89 1580 1333 (2-3 months ahead)",
-            "Supervise kids during transit"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "13:05 PM - 15:15 PM",
-          "activity": "MAN Factory Tour",
-          "location": "MAN Truck & Bus",
-          "mapLink": "https://maps.app.goo.gl/MANTruck&Bus",
-          "directions": [
-            "Check in at MAN visitor center (~5 min before tour, follow “Besucherzentrum” signs)",
-            "Follow guide for 2-hour tour"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Perform activity: MAN Factory Tour."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€30 (€10/adult, €5/child, cash/Apple Pay)",
-            "If unavailable, visit Luitpoldpark (luxurious park, €15 bike rentals)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€30 (€10/adult, €5/child, cash/Apple Pay)",
-            "Prestigious tour of pristine facility with robotics, assembly",
-            "14-year-old loves tech, 10-year-old enjoys big vehicles",
-            "English tour",
-            "headsets provided",
-            "Moderate walking (~2 km)",
-            "supervise 10-year-old near machinery",
-            "If unavailable, visit Luitpoldpark (luxurious park, €15 bike rentals)"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "15:15 PM - 15:45 PM",
-          "activity": "Travel to Fünf Höfe",
-          "location": "Fünf Höfe (Theatinerstraße 15)",
-          "mapLink": "https://maps.app.goo.gl/FünfHöfeTheatinerstraße15",
-          "directions": [
-            "Walk to Feldmoching U-Bahn (~10 min, 600m, flat)",
-            "Take U-Bahn to Odeonsplatz"
-          ],
-          "transportation": [
-            "U1 to Marienplatz (~15 min), U3/U6 to Odeonsplatz (~5 min), walk 5 min (300m, flat)"
-          ],
-          "thingsToDo": [
-            "Perform activity: Travel to Fünf Höfe."
-          ],
-          "ticketsToBuy": [
-            "Cost: Included in group ticket"
-          ],
-          "costsAndNotes": [
-            "Cost: Included in group ticket",
-            "Sleek, upscale shopping arcade with luxury boutiques (Max Mara, Emporio Armani)",
-            "Supervise kids in busy U-Bahn"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "15:45 PM - 17:45 PM",
-          "activity": "Luxury Shopping",
-          "location": "Fünf Höfe",
-          "mapLink": "https://maps.app.goo.gl/FünfHöfe",
-          "directions": [
-            "Explore Fünf Höfe boutiques, Manufactum for premium gifts",
-            "Kids relax in stylish courtyard, grab Läderach chocolates (€10-20)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Perform activity: Luxury Shopping."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€20-40 (chocolates, Apple Pay), shopping varies",
-            "Set €20-30 budget/kid for souvenirs"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€20-40 (chocolates, Apple Pay), shopping varies",
-            "Munich’s most luxurious shopping destination, pristine architecture",
-            "14-year-old enjoys fashion, 10-year-old loves treats",
-            "Set €20-30 budget/kid for souvenirs"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "17:45 PM - 18:00 PM",
-          "activity": "Travel to Dinner",
-          "location": "1910 Restaurant & Bar (Sofitel Munich Bayerpost, Bayerstraße 12)",
-          "mapLink": "https://maps.app.goo.gl/1910Restaurant&BarSofitelMunichBayerpost,Bayerstraße12",
-          "directions": [
-            "Walk to Odeonsplatz U-Bahn (~5 min, 300m, flat)",
-            "Take U-Bahn to Hauptbahnhof, then walk to Sofitel"
-          ],
-          "transportation": [
-            "U3 to Hauptbahnhof (~5 min), walk 5 min (300m, flat)"
-          ],
-          "thingsToDo": [
-            "Enjoy travel to dinner at 1910 Restaurant & Bar (Sofitel Munich Bayerpost, Bayerstraße 12)."
-          ],
-          "ticketsToBuy": [
-            "Cost: Included in group ticket"
-          ],
-          "costsAndNotes": [
-            "Cost: Included in group ticket",
-            "Upscale vegetarian dining at Sofitel",
-            "Book for 18:15 PM via sofitel-munich",
-            "com",
-            "Supervise kids in evening transit"
-          ],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "18:00 PM - 19:15 PM",
-          "activity": "Vegetarian Dinner",
-          "location": "1910 Restaurant & Bar",
-          "mapLink": "https://maps.app.goo.gl/1910Restaurant&Bar",
-          "directions": [
-            "Dine at 1910’s chic rooftop restaurant"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Enjoy vegetarian dinner at 1910 Restaurant & Bar."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€70-90 (cauliflower steak, vegan tartare, €18-25",
-            "kids’ pastas, flatbreads, €10-14, Apple Pay)",
-            "€5-10 cash tip optional"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€70-90 (cauliflower steak, vegan tartare, €18-25",
-            "kids’ pastas, flatbreads, €10-14, Apple Pay)",
-            "Luxurious ambiance, city views",
-            "14-year-old likes bold flavors, 10-year-old prefers mild flatbreads",
-            "€5-10 cash tip optional"
-          ],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "19:15 PM - 19:30 PM",
-          "activity": "Travel to English Garden",
-          "location": "English Garden (near Haus der Kunst)",
-          "mapLink": "https://maps.app.goo.gl/EnglishGardennearHausderKunst",
-          "directions": [
-            "Walk to Hauptbahnhof U-Bahn (~5 min, 300m, flat)",
-            "Take U-Bahn to Odeonsplatz, then walk to garden"
-          ],
-          "transportation": [
-            "U3 to Odeonsplatz (~5 min), walk 10 min (600m, flat)"
-          ],
-          "thingsToDo": [
-            "Perform activity: Travel to English Garden."
-          ],
-          "ticketsToBuy": [
-            "Cost: Included in group ticket"
-          ],
-          "costsAndNotes": [
-            "Cost: Included in group ticket",
-            "Pristine park with curated paths, ideal for evening stroll",
-            "Supervise 10-year-old during walk"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "19:30 PM - 20:45 PM",
-          "activity": "English Garden Evening Stroll",
-          "location": "English Garden",
-          "mapLink": "https://maps.app.goo.gl/EnglishGarden",
-          "directions": [
-            "Wander Japanese Teahouse area, pristine streams",
-            "Watch Eisbachwelle surfers; grab premium gelato (€3-5)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Perform activity: English Garden Evening Stroll."
-          ],
-          "ticketsToBuy": [
-            "Cost: ~€10-15 (gelato, Apple Pay)"
-          ],
-          "costsAndNotes": [
-            "Cost: ~€10-15 (gelato, Apple Pay)",
-            "Luxurious, well-maintained park, cultural teahouse",
-            "14-year-old loves photos, 10-year-old enjoys surfers",
-            "Stay near teahouse to avoid deep trails"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "20:45 PM - 21:05 PM",
-          "activity": "Return to Hotel",
+          "time": "06:30 AM - 07:15 AM",
+          "activity": "Breakfast and prepare",
           "location": "Novotel München City Arnulfpark",
           "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
           "directions": [
-            "Walk to Odeonsplatz U-Bahn (~10 min, 600m, flat)",
-            "Take U-Bahn to Scheidplatz, then tram to hotel"
-          ],
-          "transportation": [
-            "U3 to Scheidplatz (~10 min), tram 12 to Marsstraße (~5 min)"
-          ],
-          "thingsToDo": [
-            "Perform activity: Return to Hotel."
-          ],
-          "ticketsToBuy": [
-            "Cost: Included in group ticket"
-          ],
-          "costsAndNotes": [
-            "Cost: Included in group ticket",
-            "Early night for Day 2",
-            "Supervise kids in evening transit"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "21:05 PM Onward",
-          "activity": "Relax at Hotel",
-          "location": "Novotel",
-          "mapLink": "https://maps.app.goo.gl/Novotel",
-          "directions": [
-            "Kids relax (Wi-Fi, TV, lounge games)"
+            "Leisurely breakfast at hotel, prepare for day trip"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Novotel."
+            "Enjoy breakfast and prepare at Novotel München City Arnulfpark."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Cost: Free",
-            "Pack lightly for Jul 10 departure",
-            "Guide 10-year-old to bed",
-            "hotel has board games"
+            "Pack light for day trip, bring cameras"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "07:15 AM - 07:25 AM",
+          "activity": "Walk to station",
+          "location": "München Hbf",
+          "mapLink": "https://maps.app.goo.gl/MünchenHbf",
+          "directions": [
+            "Walk from hotel to Hauptbahnhof (~10 min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to München Hbf."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Allow time to find Platform 11"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "07:32 AM - 09:18 AM",
+          "activity": "Train to Innsbruck",
+          "location": "München Hbf Platform 11 to Innsbruck Hbf Platform 2",
+          "mapLink": [
+            "https://maps.app.goo.gl/MünchenHbfPlatform11",
+            "https://maps.app.goo.gl/InnsbruckHbfPlatform2"
+          ],
+          "directions": [
+            "Board EC 81 (NON-FLEXIBLE) - Coach 258, Seats 24,25,26,27"
+          ],
+          "transportation": [
+            "EuroCity 81 (~1h 46min) via Rosenheim, Kufstein, Jenbach - Res",
+            "-Nr",
+            "895176786807"
+          ],
+          "thingsToDo": [
+            "Travel to München Hbf Platform 11 to Innsbruck Hbf Platform 2."
+          ],
+          "ticketsToBuy": [
+            "Present e-ticket and ID"
+          ],
+          "costsAndNotes": [
+            "Present e-ticket and ID",
+            "Scenic Alpine journey"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "09:18 AM - 09:30 AM",
+          "activity": "Walk to bus stop",
+          "location": "Innsbruck Hauptbahnhof bus terminal",
+          "mapLink": "https://maps.app.goo.gl/InnsbruckHauptbahnhofbusterminal",
+          "directions": [
+            "Exit Platform 2, follow signs to bus terminal (~5 min walk)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Innsbruck Hauptbahnhof bus terminal."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Well-marked bus terminal"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "09:45 AM - 10:00 AM",
+          "activity": "Bus to Swarovski Kristallwelten",
+          "location": "Innsbruck to Swarovski Kristallwelten",
+          "mapLink": [
+            "https://maps.app.goo.gl/Innsbruck",
+            "https://maps.app.goo.gl/SwarovskiKristallwelten"
+          ],
+          "directions": [
+            "Board Bus 4110 to Wattens/Swarovski Kristallwelten"
+          ],
+          "transportation": [
+            "Bus 4110 (~15 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Bus to Swarovski Kristallwelten."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Direct bus service, runs every 30 minutes"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "10:00 AM - 12:30 PM",
+          "activity": "Explore Swarovski Kristallwelten",
+          "location": "Swarovski Kristallwelten, Wattens",
+          "mapLink": "https://maps.app.goo.gl/SwarovskiKristallwelten,Wattens",
+          "directions": [
+            "Explore the crystal worlds museum, gardens, and exhibitions"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Swarovski Kristallwelten, Wattens."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "World-famous crystal museum and experience",
+            "Family-friendly with interactive exhibits"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:30 PM - 13:00 PM",
+          "activity": "Lunch at Swarovski",
+          "location": "Restaurant at Swarovski Kristallwelten",
+          "mapLink": "https://maps.app.goo.gl/RestaurantatSwarovskiKristallwelten",
+          "directions": [
+            "Leisurely lunch at the on-site restaurant"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy lunch at swarovski at Restaurant at Swarovski Kristallwelten."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Beautiful views, family-friendly menu"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "13:00 PM - 13:15 PM",
+          "activity": "Bus back to Innsbruck",
+          "location": "Swarovski Kristallwelten to Innsbruck",
+          "mapLink": [
+            "https://maps.app.goo.gl/SwarovskiKristallwelten",
+            "https://maps.app.goo.gl/Innsbruck"
+          ],
+          "directions": [
+            "Board Bus 4110 back to Innsbruck Hauptbahnhof"
+          ],
+          "transportation": [
+            "Bus 4110 (~15 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Bus back to Innsbruck."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Check return schedule"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "13:15 PM - 13:30 PM",
+          "activity": "Walk to Old Town",
+          "location": "Innsbruck Altstadt",
+          "mapLink": "https://maps.app.goo.gl/InnsbruckAltstadt",
+          "directions": [
+            "Walk from station to old town (~10 min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Innsbruck Altstadt."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Beautiful historic center with colorful buildings"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "13:30 PM - 15:30 PM",
+          "activity": "Explore Innsbruck Old Town",
+          "location": "Innsbruck Altstadt and Golden Roof",
+          "mapLink": "https://maps.app.goo.gl/InnsbruckAltstadtandGoldenRoof",
+          "directions": [
+            "Explore the famous Golden Roof, colorful houses, and Alpine views"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Innsbruck Altstadt and Golden Roof."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Stunning mountain backdrop, historic architecture, perfect for photos"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "15:30 PM - 16:30 PM",
+          "activity": "Coffee and relaxation",
+          "location": "Café in Innsbruck Old Town",
+          "mapLink": "https://maps.app.goo.gl/CaféinInnsbruckOldTown",
+          "directions": [
+            "Find a café with mountain views for coffee and pastries"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Café in Innsbruck Old Town."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Enjoy Austrian café culture with Alpine scenery"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "16:30 PM - 17:30 PM",
+          "activity": "Walk along Inn River",
+          "location": "Inn River promenade",
+          "mapLink": "https://maps.app.goo.gl/InnRiverpromenade",
+          "directions": [
+            "Leisurely walk along the river with mountain views"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Inn River promenade."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Beautiful scenery, relaxing before return journey"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "17:30 PM - 18:30 PM",
+          "activity": "Return to station",
+          "location": "Innsbruck Hauptbahnhof",
+          "mapLink": "https://maps.app.goo.gl/InnsbruckHauptbahnhof",
+          "directions": [
+            "Walk back to station, find Platform 7 for departure"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Return to station."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Allow time to find correct platform"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "18:42 PM - 20:26 PM",
+          "activity": "Train back to Munich",
+          "location": "Innsbruck Hbf Platform 7 to München Hbf Platform 6",
+          "mapLink": [
+            "https://maps.app.goo.gl/InnsbruckHbfPlatform7",
+            "https://maps.app.goo.gl/MünchenHbfPlatform6"
+          ],
+          "directions": [
+            "Board RJ 82 (NON-FLEXIBLE)"
+          ],
+          "transportation": [
+            "Railjet 82 (~1h 44min) via Jenbach, Kufstein"
+          ],
+          "thingsToDo": [
+            "Travel to Innsbruck Hbf Platform 7 to München Hbf Platform 6."
+          ],
+          "ticketsToBuy": [
+            "Present e-ticket and ID"
+          ],
+          "costsAndNotes": [
+            "Present e-ticket and ID",
+            "Evening Alpine views"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "20:26 PM - 20:40 PM",
+          "activity": "Return to hotel",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "directions": [
+            "Take tram back to hotel from Hauptbahnhof"
+          ],
+          "transportation": [
+            "Tram 16/17 (~10 min)"
+          ],
+          "thingsToDo": [
+            "Perform activity: Return to hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "20:40 PM - 21:45 PM",
+          "activity": "Dinner",
+          "location": "Restaurant near hotel",
+          "mapLink": "https://maps.app.goo.gl/Restaurantnearhotel",
+          "directions": [
+            "Leisurely dinner reflecting on the Alpine experience"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy dinner at Restaurant near hotel."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Relax after full day of sightseeing"
+          ],
+          "type": [
+            "dining",
+            "activity"
+          ]
+        },
+        {
+          "time": "21:45 PM Onward",
+          "activity": "Relax at hotel",
+          "location": "Novotel München City Arnulfpark",
+          "mapLink": "https://maps.app.goo.gl/NovotelMünchenCityArnulfpark",
+          "directions": [
+            "Prepare for flight day tomorrow"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Novotel München City Arnulfpark."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Pack for Athens departure"
           ],
           "type": [
             "activity"
