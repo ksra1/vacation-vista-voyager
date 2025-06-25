@@ -121,7 +121,7 @@
             "Prepare for S-Bahn to airport"
           ],
           "type": [
-            "activity"
+            "travel"
           ]
         },
         {
@@ -240,7 +240,7 @@
             "Use Ferryhopper app"
           ],
           "type": [
-            "activity"
+            "travel"
           ]
         }
       ]
@@ -2979,6 +2979,7 @@
             "Pack, early night for travel day"
           ],
           "type": [
+            "travel",
             "activity"
           ]
         }
@@ -3245,7 +3246,7 @@
             "Modern trams, short walk to hotel"
           ],
           "type": [
-            "activity"
+            "travel"
           ]
         },
         {
@@ -3700,7 +3701,7 @@
           ],
           "costsAndNotes": [],
           "type": [
-            "activity"
+            "travel"
           ]
         },
         {
