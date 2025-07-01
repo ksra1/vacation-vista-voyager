@@ -121,7 +121,7 @@ const Index = () => {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 flex items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-blue-500 mx-auto mb-4"></div>
           <div className="text-blue-800 text-xl font-medium">Loading your adventure...</div>
@@ -132,7 +132,7 @@ const Index = () => {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-red-50 to-red-100 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 flex items-center justify-center">
         <div className="text-center max-w-md mx-auto p-8">
           <div className="text-red-600 text-xl mb-4 font-medium">Error loading itinerary</div>
           <div className="text-gray-600 mb-6">{error}</div>
@@ -149,14 +149,14 @@ const Index = () => {
 
   if (!itineraryData) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 flex items-center justify-center">
         <div className="text-blue-800 text-xl font-medium">No itinerary data available</div>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100">
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50">
       {/* Light Header - Not Sticky */}
       <div className="bg-white/80 backdrop-blur-sm border-b border-blue-200 shadow-sm">
         <div className="max-w-6xl mx-auto px-4 py-4">
@@ -164,11 +164,11 @@ const Index = () => {
           <div className="md:hidden">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
-                <div className="p-2 bg-blue-500 rounded-xl shadow-md">
+                <div className="p-2 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-xl shadow-md">
                   <Plane className="w-6 h-6 text-white" />
                 </div>
                 <div>
-                  <h1 className="text-xl font-bold text-blue-800">European Adventure</h1>
+                  <h1 className="text-xl font-bold bg-gradient-to-r from-blue-800 to-indigo-800 bg-clip-text text-transparent">European Adventure</h1>
                   <p className="text-sm text-blue-600">2025</p>
                 </div>
               </div>
@@ -188,7 +188,7 @@ const Index = () => {
                 <div className="flex flex-wrap gap-2">
                   {cities.map((city, index) => (
                     <div key={city} className="flex items-center">
-                      <span className="px-3 py-1 bg-blue-100 rounded-full text-sm text-blue-700 border border-blue-200">
+                      <span className="px-3 py-1 text-sm text-blue-700 font-medium">
                         {city}
                       </span>
                       {index < cities.length - 1 && (
@@ -203,12 +203,12 @@ const Index = () => {
 
           {/* Desktop Header */}
           <div className="hidden md:flex items-center gap-4">
-            <div className="p-3 bg-blue-500 rounded-2xl shadow-md">
+            <div className="p-3 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-2xl shadow-md">
               <Plane className="w-8 h-8 text-white" />
             </div>
             <div className="flex-1">
               <div className="flex items-center gap-2 mb-1">
-                <h1 className="text-3xl font-bold text-blue-800">European Adventure 2025</h1>
+                <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-800 to-indigo-800 bg-clip-text text-transparent">European Adventure 2025</h1>
                 <Sparkles className="w-6 h-6 text-yellow-500" />
               </div>
               <div className="flex items-center gap-2 text-blue-600">
@@ -216,7 +216,7 @@ const Index = () => {
                 <div className="flex items-center gap-2 flex-wrap">
                   {cities.map((city, index) => (
                     <div key={city} className="flex items-center">
-                      <span className="px-2 py-1 bg-blue-100 rounded-lg text-sm border border-blue-200 hover:bg-blue-150 transition-colors">
+                      <span className="px-2 py-1 text-sm font-medium text-blue-700 hover:text-indigo-700 transition-colors">
                         {city}
                       </span>
                       {index < cities.length - 1 && (
@@ -244,7 +244,7 @@ const Index = () => {
                     <TabsTrigger 
                       key={index}
                       value={`day-${index}`} 
-                      className="flex flex-col items-center justify-center whitespace-nowrap px-4 py-3 text-sm font-medium ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:bg-blue-500 data-[state=active]:text-white data-[state=active]:shadow-md text-blue-600 rounded-xl min-h-[60px] flex-shrink-0 min-w-[100px] border border-transparent data-[state=active]:border-blue-300 hover:bg-blue-50"
+                      className="flex flex-col items-center justify-center whitespace-nowrap px-4 py-3 text-sm font-medium ring-offset-background transition-all focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-400 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 data-[state=active]:bg-gradient-to-r data-[state=active]:from-blue-500 data-[state=active]:to-indigo-500 data-[state=active]:text-white data-[state=active]:shadow-md text-blue-600 rounded-xl min-h-[60px] flex-shrink-0 min-w-[100px] border border-transparent data-[state=active]:border-blue-300 hover:bg-blue-50"
                     >
                       <span className="font-semibold">
                         {new Date(day.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
@@ -268,7 +268,7 @@ const Index = () => {
                   variant="outline" 
                   size="sm"
                   onClick={() => handleExpandAll(`day-${index}`)}
-                  className="flex items-center gap-2 bg-white border-blue-200 text-blue-700 hover:bg-blue-50 hover:border-blue-300"
+                  className="flex items-center gap-2 bg-white border-blue-200 text-blue-700 hover:bg-gradient-to-r hover:from-blue-50 hover:to-indigo-50 hover:border-blue-300"
                 >
                   <ChevronDown className="w-4 h-4" />
                   Expand All
@@ -277,7 +277,7 @@ const Index = () => {
                   variant="outline" 
                   size="sm"
                   onClick={() => handleCollapseAll(`day-${index}`)}
-                  className="flex items-center gap-2 bg-white border-blue-200 text-blue-700 hover:bg-blue-50 hover:border-blue-300"
+                  className="flex items-center gap-2 bg-white border-blue-200 text-blue-700 hover:bg-gradient-to-r hover:from-blue-50 hover:to-indigo-50 hover:border-blue-300"
                 >
                   <ChevronUp className="w-4 h-4" />
                   Collapse All
