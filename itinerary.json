@@ -1252,7 +1252,7 @@
             "Follow \"Arrivals\" signs"
           ],
           "transportation": [
-            "Delta 96 from DTW"
+            "Delta 98 from DTW"
           ],
           "thingsToDo": [
             "Arrive at Terminal 2E."
@@ -1260,7 +1260,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -1282,7 +1284,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -1304,7 +1308,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -1326,7 +1332,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -1350,7 +1358,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -1372,7 +1382,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -1395,7 +1407,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -1417,13 +1431,15 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "08:50:00",
+          "time": "08:50 AM - 09:35 AM",
           "activity": "Eiffel Tower view",
           "location": "Trocadéro Gardens",
           "mapLink": "https://maps.app.goo.gl/TrocadéroGardens",
@@ -1439,185 +1455,223 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "09:35:00",
-          "activity": "Taxi to Louvre Pyramid",
-          "location": "Place du Carrousel",
-          "mapLink": "https://maps.app.goo.gl/PlaceduCarrousel",
+          "time": "09:35 AM - 09:50 AM",
+          "activity": "Walk to Roy Chocolatier",
+          "location": "27 Rue de Longchamp, 75116 Paris",
+          "mapLink": "https://maps.app.goo.gl/27RuedeLongchamp,75116Paris",
           "directions": [
-            "~15 min"
-          ],
-          "transportation": [
-            "Pick up at Place du Trocadéro taxi stand; drop off near Louvre Pyramid entrance"
-          ],
-          "thingsToDo": [
-            "Travel to Place du Carrousel."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "09:50:00",
-          "activity": "View Louvre Pyramid",
-          "location": "Louvre Pyramid",
-          "mapLink": "https://maps.app.goo.gl/LouvrePyramid",
-          "directions": [
-            "Outside, free, ~40 min"
+            "From Trocadéro Gardens, head east on Av",
+            "du Président Wilson, turn right onto Rue de Longchamp (~15 min, 1",
+            "2 km)",
+            "Leisurely pace"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Louvre Pyramid."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "10:30 AM - 10:40 AM",
-          "activity": "Walk to Jardin des Tuileries",
-          "location": "Jardin des Tuileries",
-          "mapLink": "https://maps.app.goo.gl/JardindesTuileries",
-          "directions": [
-            "Exit Louvre courtyard through Passage Richelieu (northwest corner), turn right onto Rue de Rivoli, walk 100m, cross Rue de Rivoli at crosswalk, enter Jardin des Tuileries through eastern gate - leisurely pace"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to Jardin des Tuileries."
+            "Walk to 27 Rue de Longchamp, 75116 Paris."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
             "Flat, busy area",
-            "use crosswalk"
+            "watch for traffic"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "10:40:00",
-          "activity": "Relax",
-          "location": "Jardin des Tuileries",
-          "mapLink": "https://maps.app.goo.gl/JardindesTuileries",
+          "time": "09:50 AM - 10:20 AM",
+          "activity": "Visit Roy Chocolatier",
+          "location": "27 Rue de Longchamp, 75116 Paris",
+          "mapLink": "https://maps.app.goo.gl/27RuedeLongchamp,75116Paris",
           "directions": [
-            "Free, ~1 hr 15 min - find a bench and enjoy"
+            "~30 min - browse and purchase chocolates"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Jardin des Tuileries."
+            "Perform activity: Visit Roy Chocolatier."
           ],
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "Purchase small treats for kids"
+          ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "11:55 AM - 12:05 PM",
-          "activity": "Walk to Café des Marronniers",
-          "location": "Café des Marronniers",
-          "mapLink": "https://maps.app.goo.gl/CafédesMarronniers",
+          "time": "10:20 AM - 10:35 AM",
+          "activity": "Taxi to La Maison d'Isabelle",
+          "location": "47ter Bd Saint-Germain, 75005 Paris",
+          "mapLink": "https://maps.app.goo.gl/47terBdSaint-Germain,75005Paris",
           "directions": [
-            "From central fountain in Jardin des Tuileries, head west toward Concorde entrance, turn right onto main path, find Café des Marronniers near northern edge (look for outdoor seating)"
+            "From Roy Chocolatier, take taxi to La Maison d'Isabelle (~15 min)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Café des Marronniers."
+            "Travel to 47ter Bd Saint-Germain, 75005 Paris."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Flat, paved path",
-            "easy walking"
+            "Drop off near bakery entrance"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "12:05:00",
-          "activity": "Lunch",
-          "location": "Café des Marronniers",
-          "mapLink": "https://maps.app.goo.gl/CafédesMarronniers",
+          "time": "10:35 AM - 11:05 AM",
+          "activity": "Visit La Maison d'Isabelle",
+          "location": "47ter Bd Saint-Germain, 75005 Paris",
+          "mapLink": "https://maps.app.goo.gl/47terBdSaint-Germain,75005Paris",
           "directions": [
-            "~1 hr 15 min - leisurely meal"
+            "~30 min - enjoy pastries, croissants"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy lunch at Café des Marronniers."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [],
-          "type": [
-            "dining"
-          ]
-        },
-        {
-          "time": "13:20 PM - 13:30 PM",
-          "activity": "Walk to taxi stand",
-          "location": "Place de la Concorde",
-          "mapLink": "https://maps.app.goo.gl/PlacedelaConcorde",
-          "directions": [
-            "Exit Café des Marronniers, head south to Concorde entrance of Jardin des Tuileries, cross Place de la Concorde at crosswalk to taxi stand on southwest corner (near Pont de la Concorde)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to Place de la Concorde.",
-            "Travel to Place de la Concorde."
+            "Perform activity: Visit La Maison d'Isabelle."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Busy area",
-            "use crosswalk"
+            "Kid-friendly bakery",
+            "try award-winning croissants"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:05 AM - 11:20 AM",
+          "activity": "Walk to Notre-Dame Cathedral",
+          "location": "Parvis Notre-Dame, 75004 Paris",
+          "mapLink": "https://maps.app.goo.gl/ParvisNotre-Dame,75004Paris",
+          "directions": [
+            "From La Maison d'Isabelle, head east on Bd Saint-Germain, turn right onto Rue de la Cité, cross Pont Notre-Dame, arrive at Notre-Dame (~15 min, 1 km)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Parvis Notre-Dame, 75004 Paris."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Flat, busy area",
+            "use crosswalks"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "13:30 PM",
+          "time": "11:20 AM - 12:00 PM",
+          "activity": "View Notre-Dame Cathedral",
+          "location": "Parvis Notre-Dame, 75004 Paris",
+          "mapLink": "https://maps.app.goo.gl/ParvisNotre-Dame,75004Paris",
+          "directions": [
+            "~40 min - view exterior, take photos"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Parvis Notre-Dame, 75004 Paris."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Under restoration",
+            "no interior access"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:00 PM - 12:15 PM",
+          "activity": "Taxi to Carton Paris",
+          "location": "6 Bd de Denain, 75010 Paris",
+          "mapLink": "https://maps.app.goo.gl/6BddeDenain,75010Paris",
+          "directions": [
+            "From Notre-Dame, take taxi to Carton Paris (~15 min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Travel to 6 Bd de Denain, 75010 Paris."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Drop off near patisserie"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:15 PM - 12:45 PM",
+          "activity": "Visit Carton Paris",
+          "location": "6 Bd de Denain, 75010 Paris",
+          "mapLink": "https://maps.app.goo.gl/6BddeDenain,75010Paris",
+          "directions": [
+            "~30 min - enjoy pastries, desserts"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Visit Carton Paris."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Kid-friendly",
+            "try macarons"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:45 PM - 13:30 PM",
           "activity": "Taxi to CDG",
           "location": "Terminal 2",
           "mapLink": "https://maps.app.goo.gl/Terminal2",
           "directions": [
-            "~40 min"
+            "~45 min - return to airport"
           ],
           "transportation": [
-            "Drop off at Terminal 2"
+            "N/A"
           ],
           "thingsToDo": [
             "Travel to Terminal 2."
@@ -1625,14 +1679,16 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "Allow extra time for traffic"
+          ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "14:15 PM",
-          "activity": "Arrive CDG and retrieve luggage",
+          "time": "13:30 PM - 13:45 PM",
+          "activity": "Retrieve luggage",
           "location": "Terminal 2",
           "mapLink": "https://maps.app.goo.gl/Terminal2",
           "directions": [
@@ -1642,19 +1698,20 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Arrive at Terminal 2.",
             "Handle luggage at Terminal 2."
           ],
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "14:15 PM - 16:05 PM",
+          "time": "13:45 PM - 16:05 PM",
           "activity": "Snack and relax",
           "location": "Terminal 2E",
           "mapLink": "https://maps.app.goo.gl/Terminal2E",
@@ -1670,7 +1727,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "dining",
             "activity"
@@ -1693,7 +1752,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -1807,10 +1868,10 @@
         {
           "time": "19:15 PM - 19:20 PM",
           "activity": "Walk to Hotel Carlton",
-          "location": "Hotel Carlton (Santa Croce 578)",
+          "location": "Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE",
           "mapLink": [
             "https://maps.app.goo.gl/HotelCarl",
-            "https://maps.app.goo.gl/nSantaCroce578"
+            "https://maps.app.goo.gl/nontheGrandCanal,FondamentadelMonastero,578,30135VeneziaVE"
           ],
           "directions": [
             "Exit Ferrovia stop (front of Santa Lucia Station), cross street (crosswalk, 10m), turn left, walk 40m along Rio Terà Lista di Spagna (~5 min, 50m)"
@@ -1819,7 +1880,7 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Hotel Carlton (Santa Croce 578)."
+            "Walk to Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -1835,10 +1896,10 @@
         {
           "time": "19:20 PM - 19:45 PM",
           "activity": "Check-in at Hotel Carlton",
-          "location": "Hotel Carlton (Santa Croce 578)",
+          "location": "Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE",
           "mapLink": [
             "https://maps.app.goo.gl/HotelCarl",
-            "https://maps.app.goo.gl/nSantaCroce578"
+            "https://maps.app.goo.gl/nontheGrandCanal,FondamentadelMonastero,578,30135VeneziaVE"
           ],
           "directions": [
             "At hotel front desk",
@@ -1848,7 +1909,7 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Complete check-in/out at Hotel Carlton (Santa Croce 578)."
+            "Complete check-in/out at Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -1893,10 +1954,10 @@
         {
           "time": "21:00 PM Onward",
           "activity": "Relax at hotel",
-          "location": "Hotel Carlton (Santa Croce 578)",
+          "location": "Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE",
           "mapLink": [
             "https://maps.app.goo.gl/HotelCarl",
-            "https://maps.app.goo.gl/nSantaCroce578"
+            "https://maps.app.goo.gl/nontheGrandCanal,FondamentadelMonastero,578,30135VeneziaVE"
           ],
           "directions": [
             "N/A"
@@ -1905,7 +1966,7 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Hotel Carlton (Santa Croce 578)."
+            "Explore or relax at Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -1926,21 +1987,17 @@
       "activities": [
         {
           "time": "08:30 AM - 09:45 AM",
-          "activity": "Breakfast at Hotel Carlton",
-          "location": "Hotel Carlton (Santa Croce 578)",
-          "mapLink": [
-            "https://maps.app.goo.gl/HotelCarl",
-            "https://maps.app.goo.gl/nSantaCroce578"
-          ],
+          "activity": "Breakfast at Al Cafetier",
+          "location": "Al Cafetier, Calle de l'Ogio o del Cafetier, 2411, 30125 Venezia VE",
+          "mapLink": "https://maps.app.goo.gl/AlCafetier,Calledel'OgioodelCafetier,2411,30125VeneziaVE",
           "directions": [
-            "No walking needed (on-site)",
-            "Leisurely breakfast"
+            "Exit hotel, head east on Rio Terà Lista di Spagna, turn right onto Calle del Traghetto, arrive at Al Cafetier (~10 min, 800m)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy breakfast at hotel carlton at Hotel Carlton (Santa Croce 578)."
+            "Enjoy breakfast at al cafetier at Al Cafetier, Calle de l'Ogio o del Cafetier, 2411, 30125 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -1955,10 +2012,10 @@
         {
           "time": "09:45 AM - 10:00 AM",
           "activity": "Check out and store luggage",
-          "location": "Hotel Carlton (Santa Croce 578)",
+          "location": "Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE",
           "mapLink": [
             "https://maps.app.goo.gl/HotelCarl",
-            "https://maps.app.goo.gl/nSantaCroce578"
+            "https://maps.app.goo.gl/nontheGrandCanal,FondamentadelMonastero,578,30135VeneziaVE"
           ],
           "directions": [
             "At hotel front desk"
@@ -1967,8 +2024,8 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Complete check-in/out at Hotel Carlton (Santa Croce 578).",
-            "Handle luggage at Hotel Carlton (Santa Croce 578)."
+            "Complete check-in/out at Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE.",
+            "Handle luggage at Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -1981,35 +2038,42 @@
           ]
         },
         {
-          "time": "10:00 AM - 10:20 AM",
+          "time": "10:00 AM - 10:15 AM",
           "activity": "Walk to S. Tomà Gondola Station",
-          "location": "S. Tomà Gondola Station",
-          "mapLink": "https://maps.app.goo.gl/S.TomàGondolaStation",
+          "location": "S. Tomà Gondola Station, Calle del Traghetto O Ca’ Garzon, 30125 Venezia VE",
+          "mapLink": [
+            "https://maps.app.goo.gl/S.TomàGondolaStation,CalledelTraghet",
+            "https://maps.app.goo.gl/OCa’Garzon,30125VeneziaVE"
+          ],
           "directions": [
-            "Exit hotel, walk to S",
-            "Tomà area for gondola pickup",
-            "Take your time walking"
+            "Exit hotel, head south on Fondamenta del Monastero, turn left onto Calle del Traghetto, arrive at S",
+            "Tomà (~15 min, 1 km)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to S. Tomà Gondola Station."
+            "Walk to S. Tomà Gondola Station, Calle del Traghetto O Ca’ Garzon, 30125 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "Flat path, some narrow streets"
+          ],
           "type": [
             "travel",
             "activity"
           ]
         },
         {
-          "time": "10:20 AM - 10:50 AM",
+          "time": "10:15 AM - 10:45 AM",
           "activity": "Gondola Ride",
-          "location": "S. Tomà Gondola Station",
-          "mapLink": "https://maps.app.goo.gl/S.TomàGondolaStation",
+          "location": "S. Tomà Gondola Station, Calle del Traghetto O Ca’ Garzon, 30125 Venezia VE",
+          "mapLink": [
+            "https://maps.app.goo.gl/S.TomàGondolaStation,CalledelTraghet",
+            "https://maps.app.goo.gl/OCa’Garzon,30125VeneziaVE"
+          ],
           "directions": [
             "At S",
             "Tomà gondola station",
@@ -2033,7 +2097,7 @@
           ]
         },
         {
-          "time": "10:50 AM - 11:10 AM",
+          "time": "10:45 AM - 11:05 AM",
           "activity": "Walk to Rialto Bridge",
           "location": "Rialto Bridge",
           "mapLink": [
@@ -2042,7 +2106,9 @@
           ],
           "directions": [
             "From S",
-            "Tomà gondola drop-off, walk north to Rialto Bridge (~20 min at leisurely pace)"
+            "Tomà gondola drop-off, head north on Calle del Scalater, turn right onto Rio Terà S",
+            "Silvestro, arrive at Rialto Bridge (~20 min, 1",
+            "2 km)"
           ],
           "transportation": [
             "N/A"
@@ -2053,13 +2119,16 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "Leisurely pace",
+            "watch for crowds"
+          ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "11:10 AM - 11:50 AM",
+          "time": "11:05 AM - 11:45 AM",
           "activity": "Explore Rialto Bridge and Market area",
           "location": "Rialto Bridge",
           "mapLink": [
@@ -2079,13 +2148,16 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "Crowded area",
+            "hold kids' hands"
+          ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "11:50 AM - 12:00 PM",
+          "time": "11:45 AM - 11:55 AM",
           "activity": "Walk to Rialto Vaporetto stop",
           "location": "Rialto Vaporetto Stop",
           "mapLink": [
@@ -2095,7 +2167,7 @@
             "https://maps.app.goo.gl/p"
           ],
           "directions": [
-            "Short walk from bridge to vaporetto stop, but take your time"
+            "From Rialto Bridge, head south on Ruga dei Oresi, arrive at Rialto Vaporetto stop (~10 min, 200m)"
           ],
           "transportation": [
             "N/A"
@@ -2107,30 +2179,29 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "Busy area",
+            "use crosswalks"
+          ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "12:00 PM - 12:15 PM",
+          "time": "11:55 AM - 12:10 PM",
           "activity": "Vaporetto to St. Mark's Square",
-          "location": "From Rialto to St. Mark's Square",
-          "mapLink": [
-            "https://maps.app.goo.gl/FromRial",
-            "https://maps.app.goo.gl/",
-            "https://maps.app.goo.gl/St.Mark'sSquare"
-          ],
+          "location": "Piazza San Marco, P.za San Marco, 30100 Venezia VE",
+          "mapLink": "https://maps.app.goo.gl/PiazzaSanMarco,P.zaSanMarco,30100VeneziaVE",
           "directions": [
             "Board Line 1 at Rialto to San Zaccaria",
             "Exit, walk to St",
             "Mark's Square (~5 min, 100m)"
           ],
           "transportation": [
-            "Vaporetto Line 1 to San Zaccaria (~10 min)"
+            "Vaporetto Line 1 (~10 min)"
           ],
           "thingsToDo": [
-            "Travel to From Rialto to St. Mark's Square."
+            "Travel to Piazza San Marco, P.za San Marco, 30100 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -2143,10 +2214,10 @@
           ]
         },
         {
-          "time": "12:15 PM - 13:00 PM",
+          "time": "12:10 PM - 12:50 PM",
           "activity": "Explore St. Mark's Square (Exterior)",
-          "location": "St. Mark's Square",
-          "mapLink": "https://maps.app.goo.gl/St.Mark'sSquare",
+          "location": "Piazza San Marco, P.za San Marco, 30100 Venezia VE",
+          "mapLink": "https://maps.app.goo.gl/PiazzaSanMarco,P.zaSanMarco,30100VeneziaVE",
           "directions": [
             "At St",
             "Mark's Square",
@@ -2156,7 +2227,7 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at St. Mark's Square."
+            "Explore or relax at Piazza San Marco, P.za San Marco, 30100 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -2171,148 +2242,167 @@
           ]
         },
         {
-          "time": "13:00 PM - 13:10 PM",
-          "activity": "Walk to Trattoria Al Gazzettino",
-          "location": "Trattoria Al Gazzettino (San Marco 4973)",
-          "mapLink": [
-            "https://maps.app.goo.gl/Trat",
-            "https://maps.app.goo.gl/riaAlGazzettinoSanMarco4973"
-          ],
+          "time": "12:50 PM - 13:00 PM",
+          "activity": "Walk to Dal Moro's Venice",
+          "location": "Dal Moro's Venice, Rugagiuffa, 4864, 30122 Venezia VE",
+          "mapLink": "https://maps.app.goo.gl/DalMoro'sVenice,Rugagiuffa,4864,30122VeneziaVE",
           "directions": [
             "Exit St",
-            "Mark's Square (eastern side, near Bridge of Sighs), walk straight on Calle delle Rasse (150m), turn left on Calle de la Rizza (100m), arrive at Trattoria (~10 min, 300m)"
+            "Mark's Square (eastern side, near Bridge of Sighs), walk straight on Calle delle Rasse, turn left onto Rugagiuffa, arrive at Dal Moro's (~10 min, 300m)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Trattoria Al Gazzettino (San Marco 4973)."
+            "Walk to Dal Moro's Venice, Rugagiuffa, 4864, 30122 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Busy area"
+            "Busy area",
+            "narrow streets"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "13:10 PM - 14:30 PM",
-          "activity": "Lunch at Trattoria Al Gazzettino",
-          "location": "Trattoria Al Gazzettino (San Marco 4973)",
-          "mapLink": [
-            "https://maps.app.goo.gl/Trat",
-            "https://maps.app.goo.gl/riaAlGazzettinoSanMarco4973"
-          ],
+          "time": "13:00 PM - 14:00 PM",
+          "activity": "Lunch at Dal Moro's Venice",
+          "location": "Dal Moro's Venice, Rugagiuffa, 4864, 30122 Venezia VE",
+          "mapLink": "https://maps.app.goo.gl/DalMoro'sVenice,Rugagiuffa,4864,30122VeneziaVE",
           "directions": [
-            "At Trattoria Al Gazzettino",
-            "Long, leisurely lunch"
+            "~1 hr - enjoy fresh pasta, takeout style"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy lunch at trattoria al gazzettino at Trattoria Al Gazzettino (San Marco 4973)."
+            "Enjoy lunch at dal moro's venice at Dal Moro's Venice, Rugagiuffa, 4864, 30122 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Pasta, pizza",
-            "Kids can share dishes"
+            "Pasta to-go",
+            "eat nearby in Campo San Lio",
+            "Kid-friendly options"
           ],
           "type": [
             "dining"
           ]
         },
         {
-          "time": "14:30 PM - 14:40 PM",
-          "activity": "Walk to San Marco area for free time",
-          "location": "St. Mark's Square",
-          "mapLink": "https://maps.app.goo.gl/St.Mark'sSquare",
-          "directions": [
-            "Exit Trattoria, turn right on Calle de la Rizza (100m), right on Calle delle Rasse (150m), arrive at St",
-            "Mark's Square (~10 min, 300m)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to St. Mark's Square.",
-            "Explore or relax at St. Mark's Square."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Busy area"
-          ],
-          "type": [
-            "travel",
-            "activity"
-          ]
-        },
-        {
-          "time": "14:40 PM - 15:40 PM",
-          "activity": "Free Time in San Marco Area",
-          "location": "San Marco Area (St. Mark's Square)",
-          "mapLink": "https://maps.app.goo.gl/SanMarcoAreaSt.Mark'sSquare",
-          "directions": [
-            "Stay in St",
-            "Mark's Square area",
-            "Find a café, people watch, relax"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Explore or relax at San Marco Area (St. Mark's Square)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Set souvenir budget",
-            "Crowded areas"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "15:40 PM - 15:50 PM",
-          "activity": "Walk to San Zaccaria Vaporetto stop",
-          "location": "San Zaccaria Vaporetto Stop",
+          "time": "14:00 PM - 14:10 PM",
+          "activity": "Walk to Gelateria Gallonetto",
+          "location": "Gelateria Gallonetto, Salizada S. Lio, 5727, 30122 Venezia VE",
           "mapLink": [
-            "https://maps.app.goo.gl/SanZaccariaVaporet",
-            "https://maps.app.goo.gl/S",
-            "https://maps.app.goo.gl/p"
+            "https://maps.app.goo.gl/GelateriaGallonet",
+            "https://maps.app.goo.gl/,SalizadaS.Lio,5727,30122VeneziaVE"
           ],
           "directions": [
-            "From St",
-            "Mark's Square, walk straight on Calle delle Rasse (50m), turn right on Riva degli Schiavoni (50m), arrive at San Zaccaria stop (~10 min, 100m)"
+            "From Dal Moro's, head west on Rugagiuffa, turn right onto Salizada S",
+            "Lio, arrive at Gelateria (~10 min, 200m)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to San Zaccaria Vaporetto Stop.",
-            "Travel to San Zaccaria Vaporetto Stop."
+            "Walk to Gelateria Gallonetto, Salizada S. Lio, 5727, 30122 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Busy area"
+            "Narrow streets",
+            "watch for crowds"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "15:50 PM - 16:30 PM",
+          "time": "14:10 PM - 14:40 PM",
+          "activity": "Gelato at Gelateria Gallonetto",
+          "location": "Gelateria Gallonetto, Salizada S. Lio, 5727, 30122 Venezia VE",
+          "mapLink": [
+            "https://maps.app.goo.gl/GelateriaGallonet",
+            "https://maps.app.goo.gl/,SalizadaS.Lio,5727,30122VeneziaVE"
+          ],
+          "directions": [
+            "~30 min - enjoy gelato, relax"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy gelato at gelateria gallonetto at Gelateria Gallonetto, Salizada S. Lio, 5727, 30122 Venezia VE."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Kid-friendly flavors",
+            "try pistachio or stracciatella"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "14:40 PM - 14:50 PM",
+          "activity": "Walk to VizioVirtù Cioccolateria",
+          "location": "VizioVirtù Cioccolateria, Calle del Forner, 5988, 30122 Venezia VE",
+          "mapLink": "https://maps.app.goo.gl/VizioVirtùCioccolateria,CalledelForner,5988,30122VeneziaVE",
+          "directions": [
+            "From Gelateria, head west on Salizada S",
+            "Lio, turn left onto Calle del Forner, arrive at VizioVirtù (~10 min, 300m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to VizioVirtù Cioccolateria, Calle del Forner, 5988, 30122 Venezia VE."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Narrow streets",
+            "busy area"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "14:50 PM - 15:20 PM",
+          "activity": "Visit VizioVirtù Cioccolateria",
+          "location": "VizioVirtù Cioccolateria, Calle del Forner, 5988, 30122 Venezia VE",
+          "mapLink": "https://maps.app.goo.gl/VizioVirtùCioccolateria,CalledelForner,5988,30122VeneziaVE",
+          "directions": [
+            "~30 min - browse and purchase chocolates"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Visit VizioVirtù Cioccolateria."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Small treats for kids",
+            "try pralines"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "15:20 PM - 15:50 PM",
           "activity": "Vaporetto to Ferrovia",
           "location": "From San Zaccaria to Ferrovia",
           "mapLink": [
@@ -2320,10 +2410,12 @@
             "https://maps.app.goo.gl/Ferrovia"
           ],
           "directions": [
-            "Board Line 1 at San Zaccaria to Ferrovia"
+            "From VizioVirtù, head east on Calle del Forner, turn right onto Salizada S",
+            "Lio, left onto Calle delle Rasse, arrive at San Zaccaria stop (~10 min, 400m)",
+            "Board Line 1 to Ferrovia"
           ],
           "transportation": [
-            "Vaporetto Line 1 (~40 min)"
+            "Vaporetto Line 1 (~30 min)"
           ],
           "thingsToDo": [
             "Travel to From San Zaccaria to Ferrovia."
@@ -2339,12 +2431,12 @@
           ]
         },
         {
-          "time": "16:30 PM - 16:35 PM",
+          "time": "15:50 PM - 15:55 PM",
           "activity": "Walk to Hotel Carlton",
-          "location": "Hotel Carlton (Santa Croce 578)",
+          "location": "Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE",
           "mapLink": [
             "https://maps.app.goo.gl/HotelCarl",
-            "https://maps.app.goo.gl/nSantaCroce578"
+            "https://maps.app.goo.gl/nontheGrandCanal,FondamentadelMonastero,578,30135VeneziaVE"
           ],
           "directions": [
             "Exit Ferrovia stop, cross street (crosswalk, 10m), turn left, walk 40m along Rio Terà Lista di Spagna (~5 min, 50m)"
@@ -2353,7 +2445,7 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Hotel Carlton (Santa Croce 578)."
+            "Walk to Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -2366,12 +2458,12 @@
           ]
         },
         {
-          "time": "16:35 PM - 16:50 PM",
+          "time": "15:55 PM - 16:10 PM",
           "activity": "Retrieve luggage from Hotel Carlton",
-          "location": "Hotel Carlton (Santa Croce 578)",
+          "location": "Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE",
           "mapLink": [
             "https://maps.app.goo.gl/HotelCarl",
-            "https://maps.app.goo.gl/nSantaCroce578"
+            "https://maps.app.goo.gl/nontheGrandCanal,FondamentadelMonastero,578,30135VeneziaVE"
           ],
           "directions": [
             "At hotel front desk"
@@ -2380,7 +2472,7 @@
             "N/A"
           ],
           "thingsToDo": [
-            "Handle luggage at Hotel Carlton (Santa Croce 578)."
+            "Handle luggage at Hotel Carlton on the Grand Canal, Fondamenta del Monastero, 578, 30135 Venezia VE."
           ],
           "ticketsToBuy": [
             "None."
@@ -2393,7 +2485,7 @@
           ]
         },
         {
-          "time": "16:50 PM - 17:00 PM",
+          "time": "16:10 PM - 16:20 PM",
           "activity": "Walk to Venezia Santa Lucia Station",
           "location": "Venezia Santa Lucia Station",
           "mapLink": "https://maps.app.goo.gl/VeneziaSantaLuciaStation",
@@ -2417,7 +2509,7 @@
           ]
         },
         {
-          "time": "17:00 PM - 18:18 PM",
+          "time": "16:20 PM - 18:18 PM",
           "activity": "At Venezia Santa Lucia Station",
           "location": "Venezia Santa Lucia Station",
           "mapLink": "https://maps.app.goo.gl/VeneziaSantaLuciaStation",
@@ -3014,7 +3106,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
@@ -4654,7 +4748,9 @@
           "ticketsToBuy": [
             "None."
           ],
-          "costsAndNotes": [],
+          "costsAndNotes": [
+            "None."
+          ],
           "type": [
             "travel"
           ]
