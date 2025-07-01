@@ -4457,75 +4457,218 @@
           ]
         },
         {
-          "time": "09:18 AM - 09:30 AM",
-          "activity": "Walk to bus stop",
-          "location": "Innsbruck Hauptbahnhof bus terminal",
-          "mapLink": "https://maps.app.goo.gl/InnsbruckHauptbahnhofbusterminal",
+          "time": "09:18 AM - 09:25 AM",
+          "activity": "Arrive at Innsbruck Central Train Station",
+          "location": "Innsbruck Central Train Station, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/InnsbruckCentralTrainStation,6020Innsbruck,Austria",
           "directions": [
-            "Exit Platform 2, follow signs to bus terminal (~5 min walk)"
+            "Exit Platform 2, follow signs to station exit (~5 min walk)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Innsbruck Hauptbahnhof bus terminal."
+            "Arrive at Innsbruck Central Train Station, 6020 Innsbruck, Austria.",
+            "Travel to Innsbruck Central Train Station, 6020 Innsbruck, Austria."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Well-marked bus terminal"
+            "Well-marked station"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "09:45 AM - 10:00 AM",
-          "activity": "Bus to Swarovski Kristallwelten",
-          "location": "Innsbruck to Swarovski Kristallwelten",
-          "mapLink": [
-            "https://maps.app.goo.gl/Innsbruck",
-            "https://maps.app.goo.gl/SwarovskiKristallwelten"
-          ],
+          "time": "09:25 AM - 09:35 AM",
+          "activity": "Walk to Maria-Theresien-Straße",
+          "location": "Maria-Theresien-Straße, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/Maria-Theresien-Straße,6020Innsbruck,Austria",
           "directions": [
-            "Board Bus 4110 to Wattens/Swarovski Kristallwelten"
+            "Exit station, head north on Südtiroler Platz, turn left onto Brixner Straße, continue onto Maria-Theresien-Straße (~10 min, 600m)"
           ],
           "transportation": [
-            "Bus 4110 (~15 min)"
+            "N/A"
           ],
           "thingsToDo": [
-            "Perform activity: Bus to Swarovski Kristallwelten."
+            "Walk to Maria-Theresien-Straße, 6020 Innsbruck, Austria."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Direct bus service, runs every 30 minutes"
+            "Pedestrian-friendly, vibrant street"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "09:35 AM - 10:15 AM",
+          "activity": "Explore Maria-Theresien-Straße",
+          "location": "Maria-Theresien-Straße, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/Maria-Theresien-Straße,6020Innsbruck,Austria",
+          "directions": [
+            "Stroll along the street, view St",
+            "Anne’s Column, enjoy shops and Alpine backdrop"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Maria-Theresien-Straße, 6020 Innsbruck, Austria."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Perfect for photos, family-friendly"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "10:00 AM - 12:30 PM",
-          "activity": "Explore Swarovski Kristallwelten",
-          "location": "Swarovski Kristallwelten, Wattens",
-          "mapLink": "https://maps.app.goo.gl/SwarovskiKristallwelten,Wattens",
+          "time": "10:15 AM - 10:25 AM",
+          "activity": "Walk to Strudel Cafe Kroll",
+          "location": "Strudel Cafe Kroll, Hofgasse 6, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/StrudelCafeKroll,Hofgasse6,6020Innsbruck,Austria",
           "directions": [
-            "Explore the crystal worlds museum, gardens, and exhibitions"
+            "From Maria-Theresien-Straße, head north, turn left onto Herzog-Friedrich-Straße, continue to Hofgasse (~10 min, 400m)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Swarovski Kristallwelten, Wattens."
+            "Walk to Strudel Cafe Kroll, Hofgasse 6, 6020 Innsbruck, Austria."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "World-famous crystal museum and experience",
+            "Narrow streets, watch for pedestrians"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "10:25 AM - 11:10 AM",
+          "activity": "Breakfast at Strudel Cafe Kroll",
+          "location": "Strudel Cafe Kroll, Hofgasse 6, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/StrudelCafeKroll,Hofgasse6,6020Innsbruck,Austria",
+          "directions": [
+            "Enjoy Austrian strudel and coffee at the café (~45 min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy breakfast at strudel cafe kroll at Strudel Cafe Kroll, Hofgasse 6, 6020 Innsbruck, Austria."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Family-friendly, try apple strudel"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "11:10 AM - 11:20 AM",
+          "activity": "Walk to Colourful Houses Innsbruck",
+          "location": "Colourful Houses Innsbruck, Mariahilfstraße, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/ColourfulHousesInnsbruck,Mariahilfstraße,6020Innsbruck,Austria",
+          "directions": [
+            "From Hofgasse, head west to Innstraße, turn right onto Mariahilfstraße (~10 min, 500m)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Colourful Houses Innsbruck, Mariahilfstraße, 6020 Innsbruck, Austria."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Scenic route along the Inn River"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:20 AM - 12:00 PM",
+          "activity": "Explore Colourful Houses Innsbruck",
+          "location": "Colourful Houses Innsbruck, Mariahilfstraße, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/ColourfulHousesInnsbruck,Mariahilfstraße,6020Innsbruck,Austria",
+          "directions": [
+            "View the iconic colorful houses along the Inn River, take photos (~40 min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Colourful Houses Innsbruck, Mariahilfstraße, 6020 Innsbruck, Austria."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Stunning mountain backdrop, perfect for photos"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "12:00 PM - 12:15 PM",
+          "activity": "Taxi to Swarovski Kristallwelten",
+          "location": "Swarovski Kristallwelten, Kristallweltenstraße 1, 6112 Wattens, Austria",
+          "mapLink": "https://maps.app.goo.gl/SwarovskiKristallwelten,Kristallweltenstraße1,6112Wattens,Austria",
+          "directions": [
+            "From Mariahilfstraße, take taxi to Swarovski Kristallwelten (~15 min)"
+          ],
+          "transportation": [
+            "Taxi (~15 min, 10 km)"
+          ],
+          "thingsToDo": [
+            "Travel to Swarovski Kristallwelten, Kristallweltenstraße 1, 6112 Wattens, Austria."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Confirm destination with driver"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:15 PM - 14:45 PM",
+          "activity": "Explore Swarovski Kristallwelten",
+          "location": "Swarovski Kristallwelten, Kristallweltenstraße 1, 6112 Wattens, Austria",
+          "mapLink": "https://maps.app.goo.gl/SwarovskiKristallwelten,Kristallweltenstraße1,6112Wattens,Austria",
+          "directions": [
+            "Explore the crystal worlds museum, gardens, and exhibitions (~2h 30min)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Swarovski Kristallwelten, Kristallweltenstraße 1, 6112 Wattens, Austria."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "World-famous crystal museum",
             "Family-friendly with interactive exhibits"
           ],
           "type": [
@@ -4533,12 +4676,12 @@
           ]
         },
         {
-          "time": "12:30 PM - 13:00 PM",
+          "time": "14:45 PM - 15:15 PM",
           "activity": "Lunch at Swarovski",
           "location": "Restaurant at Swarovski Kristallwelten",
           "mapLink": "https://maps.app.goo.gl/RestaurantatSwarovskiKristallwelten",
           "directions": [
-            "Leisurely lunch at the on-site restaurant"
+            "Leisurely lunch at the on-site restaurant (~30 min)"
           ],
           "transportation": [
             "N/A"
@@ -4557,150 +4700,75 @@
           ]
         },
         {
-          "time": "13:00 PM - 13:15 PM",
-          "activity": "Bus back to Innsbruck",
-          "location": "Swarovski Kristallwelten to Innsbruck",
-          "mapLink": [
-            "https://maps.app.goo.gl/SwarovskiKristallwelten",
-            "https://maps.app.goo.gl/Innsbruck"
-          ],
+          "time": "15:15 PM - 15:30 PM",
+          "activity": "Taxi to Innsbruck Central Train Station",
+          "location": "Innsbruck Central Train Station, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/InnsbruckCentralTrainStation,6020Innsbruck,Austria",
           "directions": [
-            "Board Bus 4110 back to Innsbruck Hauptbahnhof"
+            "From Swarovski Kristallwelten, take taxi back to Innsbruck Hbf (~15 min)"
           ],
           "transportation": [
-            "Bus 4110 (~15 min)"
+            "Taxi (~15 min, 10 km)"
           ],
           "thingsToDo": [
-            "Perform activity: Bus back to Innsbruck."
+            "Travel to Innsbruck Central Train Station, 6020 Innsbruck, Austria."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Check return schedule"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "13:15 PM - 13:30 PM",
-          "activity": "Walk to Old Town",
-          "location": "Innsbruck Altstadt",
-          "mapLink": "https://maps.app.goo.gl/InnsbruckAltstadt",
-          "directions": [
-            "Walk from station to old town (~10 min)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to Innsbruck Altstadt."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Beautiful historic center with colorful buildings"
+            "Confirm station drop-off"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "13:30 PM - 15:30 PM",
-          "activity": "Explore Innsbruck Old Town",
-          "location": "Innsbruck Altstadt and Golden Roof",
-          "mapLink": "https://maps.app.goo.gl/InnsbruckAltstadtandGoldenRoof",
+          "time": "15:30 PM - 17:30 PM",
+          "activity": "Relax at station",
+          "location": "Innsbruck Central Train Station, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/InnsbruckCentralTrainStation,6020Innsbruck,Austria",
           "directions": [
-            "Explore the famous Golden Roof, colorful houses, and Alpine views"
+            "Find a café or lounge area, relax before return train"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Innsbruck Altstadt and Golden Roof."
+            "Explore or relax at Innsbruck Central Train Station, 6020 Innsbruck, Austria."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Stunning mountain backdrop, historic architecture, perfect for photos"
+            "Plenty of time to rest"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "15:30 PM - 16:30 PM",
-          "activity": "Coffee and relaxation",
-          "location": "Café in Innsbruck Old Town",
-          "mapLink": "https://maps.app.goo.gl/CaféinInnsbruckOldTown",
+          "time": "17:30 PM - 17:45 PM",
+          "activity": "Prepare for return",
+          "location": "Innsbruck Central Train Station, 6020 Innsbruck, Austria",
+          "mapLink": "https://maps.app.goo.gl/InnsbruckCentralTrainStation,6020Innsbruck,Austria",
           "directions": [
-            "Find a café with mountain views for coffee and pastries"
+            "Find Platform 7 for return train"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Explore or relax at Café in Innsbruck Old Town."
+            "Perform activity: Prepare for return."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Enjoy Austrian café culture with Alpine scenery"
+            "Check platform screens for train details"
           ],
           "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "16:30 PM - 17:30 PM",
-          "activity": "Walk along Inn River",
-          "location": "Inn River promenade",
-          "mapLink": "https://maps.app.goo.gl/InnRiverpromenade",
-          "directions": [
-            "Leisurely walk along the river with mountain views"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to Inn River promenade."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Beautiful scenery, relaxing before return journey"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "17:30 PM - 18:30 PM",
-          "activity": "Return to station",
-          "location": "Innsbruck Hauptbahnhof",
-          "mapLink": "https://maps.app.goo.gl/InnsbruckHauptbahnhof",
-          "directions": [
-            "Walk back to station, find Platform 7 for departure"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Perform activity: Return to station."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Allow time to find correct platform"
-          ],
-          "type": [
-            "activity"
+            "travel"
           ]
         },
         {
