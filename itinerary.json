@@ -2780,25 +2780,26 @@
       "activities": [
         {
           "time": "08:30 AM - 08:40 AM",
-          "activity": "Walk to breakfast spot",
-          "location": "Breakfast café near hotel",
-          "mapLink": "https://maps.app.goo.gl/Breakfastcafénearhotel",
+          "activity": "Taxi to breakfast spot",
+          "location": "Ditta Artigianale Specialty Coffee Roasters (Corso Magenta, 31)",
+          "mapLink": "https://maps.app.goo.gl/DittaArtigianaleSpecialtyCoffeeRoastersCorsoMagenta,31",
           "directions": [
-            "Exit hotel, find nearby café in Porta Nuova area (~10 min walk)"
+            "Board taxi near hotel",
+            "Drop off at breakfast spot"
           ],
           "transportation": [
-            "N/A"
+            "Taxi (~10-15 min)"
           ],
           "thingsToDo": [
-            "Walk to Breakfast café near hotel.",
-            "Enjoy walk to breakfast spot at Breakfast café near hotel."
+            "Travel to Ditta Artigianale Specialty Coffee Roasters (Corso Magenta, 31).",
+            "Enjoy taxi to breakfast spot at Ditta Artigianale Specialty Coffee Roasters (Corso Magenta, 31)."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Flat path",
-            "Several options available"
+            "Family-friendly café",
+            "Central location for morning activities"
           ],
           "type": [
             "travel",
@@ -2808,17 +2809,17 @@
         {
           "time": "08:40 AM - 09:45 AM",
           "activity": "Breakfast",
-          "location": "Local café",
-          "mapLink": "https://maps.app.goo.gl/Localcafé",
+          "location": "Ditta Artigianale Specialty Coffee Roasters",
+          "mapLink": "https://maps.app.goo.gl/DittaArtigianaleSpecialtyCoffeeRoasters",
           "directions": [
-            "At chosen café",
+            "At café",
             "Leisurely breakfast"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy breakfast at Local café."
+            "Enjoy breakfast at Ditta Artigianale Specialty Coffee Roasters."
           ],
           "ticketsToBuy": [
             "None."
@@ -2831,25 +2832,74 @@
           ]
         },
         {
-          "time": "09:45 AM - 10:00 AM",
-          "activity": "Taxi to Duomo area",
-          "location": "Piazza del Duomo",
-          "mapLink": "https://maps.app.goo.gl/PiazzadelDuomo",
+          "time": "09:45 AM - 09:55 AM",
+          "activity": "Walk to Ciacco",
+          "location": "Ciacco (Via Spadari, 13)",
+          "mapLink": "https://maps.app.goo.gl/CiaccoViaSpadari,13",
           "directions": [
-            "Board taxi near hotel",
-            "Drop off at Piazza del Duomo"
+            "Exit café, walk to gelato shop (~500m, ~10 min, flat)"
           ],
           "transportation": [
-            "Taxi (~15 min)"
+            "N/A"
           ],
           "thingsToDo": [
-            "Travel to Piazza del Duomo."
+            "Walk to Ciacco (Via Spadari, 13)."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Central drop-off point for sightseeing"
+            "Short walk, family-friendly gelato stop"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "09:55 AM - 10:30 AM",
+          "activity": "Coffee & Gelato",
+          "location": "Ciacco",
+          "mapLink": "https://maps.app.goo.gl/Ciacco",
+          "directions": [
+            "Enjoy coffee and gelato"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Enjoy coffee & gelato at Ciacco."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Kids enjoy gelato",
+            "Relaxed stop"
+          ],
+          "type": [
+            "dining"
+          ]
+        },
+        {
+          "time": "10:30 AM - 10:40 AM",
+          "activity": "Walk to Piazza del Duomo",
+          "location": "Piazza del Duomo (P.za del Duomo)",
+          "mapLink": "https://maps.app.goo.gl/PiazzadelDuomoP.zadelDuomo",
+          "directions": [
+            "Exit Ciacco, walk to Duomo square (~400m, ~5-7 min, flat)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Piazza del Duomo (P.za del Duomo)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Central square, iconic cathedral",
+            "Great for photos"
           ],
           "type": [
             "travel",
@@ -2857,7 +2907,60 @@
           ]
         },
         {
-          "time": "10:00 AM - 11:30 AM",
+          "time": "10:40 AM - 11:30 AM",
+          "activity": "Explore Piazza del Duomo",
+          "location": "Piazza del Duomo",
+          "mapLink": "https://maps.app.goo.gl/PiazzadelDuomo",
+          "directions": [
+            "Explore the square, view the Duomo exterior"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Piazza del Duomo."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Kids enjoy open space",
+            "Take photos"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "11:30 AM - 11:35 AM",
+          "activity": "Walk to Galleria Vittorio Emanuele II",
+          "location": "Galleria Vittorio Emanuele II",
+          "mapLink": [
+            "https://maps.app.goo.gl/GalleriaVit",
+            "https://maps.app.goo.gl/rioEmanueleII"
+          ],
+          "directions": [
+            "Exit Piazza del Duomo, enter Galleria (~200m, ~3-5 min, flat)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Galleria Vittorio Emanuele II."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Luxury shopping arcade",
+            "Kids enjoy glass ceiling and mosaic floors"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "11:35 AM - 12:30 PM",
           "activity": "Explore Galleria Vittorio Emanuele II",
           "location": "Galleria Vittorio Emanuele II",
           "mapLink": [
@@ -2865,7 +2968,7 @@
             "https://maps.app.goo.gl/rioEmanueleII"
           ],
           "directions": [
-            "At Galleria, directly connected to Piazza del Duomo"
+            "Walk through the arcade, enjoy architecture"
           ],
           "transportation": [
             "N/A"
@@ -2877,58 +2980,8 @@
             "None."
           ],
           "costsAndNotes": [
-            "Luxury shopping arcade",
-            "Kids enjoy the glass ceiling and mosaic floors",
-            "Take photos at the bull mosaic"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "11:30 AM - 11:40 AM",
-          "activity": "Walk to La Scala area",
-          "location": "Teatro alla Scala",
-          "mapLink": "https://maps.app.goo.gl/TeatroallaScala",
-          "directions": [
-            "Exit Galleria from the north end, Teatro alla Scala is right there (~5 min walk)"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Walk to Teatro alla Scala."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Very short walk, flat path"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "11:40 AM - 12:30 PM",
-          "activity": "Explore La Scala area",
-          "location": "Teatro alla Scala and surrounding area",
-          "mapLink": "https://maps.app.goo.gl/TeatroallaScalaandsurroundingarea",
-          "directions": [
-            "View the famous opera house exterior, explore the nearby streets"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Explore or relax at Teatro alla Scala and surrounding area."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Historic area with beautiful architecture",
-            "Great for photos"
+            "Take photos at the bull mosaic",
+            "Family-friendly"
           ],
           "type": [
             "activity"
@@ -2936,24 +2989,130 @@
         },
         {
           "time": "12:30 PM - 12:40 PM",
-          "activity": "Walk to lunch restaurant",
-          "location": "Restaurant near La Scala",
-          "mapLink": "https://maps.app.goo.gl/RestaurantnearLaScala",
+          "activity": "Walk to Cova Montenapoleone",
+          "location": "Cova Montenapoleone (Via Monte Napoleone, 8)",
+          "mapLink": "https://maps.app.goo.gl/CovaMontenapoleoneViaMonteNapoleone,8",
           "directions": [
-            "Find a family-friendly restaurant in the La Scala area (~10 min walk)"
+            "Exit Galleria north end, walk to café (~500m, ~10 min, flat)"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Walk to Restaurant near La Scala.",
-            "Enjoy walk to lunch restaurant at Restaurant near La Scala."
+            "Walk to Cova Montenapoleone (Via Monte Napoleone, 8)."
           ],
           "ticketsToBuy": [
             "None."
           ],
           "costsAndNotes": [
-            "Many options available in this central area"
+            "Upscale café in fashion district",
+            "Short walk"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "12:40 PM - 13:30 PM",
+          "activity": "Coffee break",
+          "location": "Cova Montenapoleone",
+          "mapLink": "https://maps.app.goo.gl/CovaMontenapoleone",
+          "directions": [
+            "At café",
+            "Enjoy coffee and pastries"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Perform activity: Coffee break."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Relaxing stop",
+            "Family-friendly"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "13:30 PM - 13:40 PM",
+          "activity": "Walk to Ferrari Store",
+          "location": "Ferrari Flagship Store Milano (Via Giovanni Berchet, 2)",
+          "mapLink": [
+            "https://maps.app.goo.gl/FerrariFlagshipS",
+            "https://maps.app.goo.gl/reMilanoViaGiovanniBerchet,2"
+          ],
+          "directions": [
+            "Exit Cova, walk to Ferrari store (~400m, ~5-7 min, flat)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Ferrari Flagship Store Milano (Via Giovanni Berchet, 2)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Short walk, exciting for kids"
+          ],
+          "type": [
+            "travel"
+          ]
+        },
+        {
+          "time": "13:40 PM - 14:15 PM",
+          "activity": "Explore Ferrari Store",
+          "location": "Ferrari Flagship Store Milano",
+          "mapLink": [
+            "https://maps.app.goo.gl/FerrariFlagshipS",
+            "https://maps.app.goo.gl/reMilano"
+          ],
+          "directions": [
+            "Explore the store, view merchandise"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Explore or relax at Ferrari Flagship Store Milano."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Kids enjoy car-themed items",
+            "Fun stop"
+          ],
+          "type": [
+            "activity"
+          ]
+        },
+        {
+          "time": "14:15 PM - 14:25 PM",
+          "activity": "Walk to lunch",
+          "location": "Piz (Via Torino, 34)",
+          "mapLink": "https://maps.app.goo.gl/PizViaTorino,34",
+          "directions": [
+            "Exit Ferrari store, walk to restaurant (~500m, ~10 min, flat)"
+          ],
+          "transportation": [
+            "N/A"
+          ],
+          "thingsToDo": [
+            "Walk to Piz (Via Torino, 34).",
+            "Enjoy walk to lunch at Piz (Via Torino, 34)."
+          ],
+          "ticketsToBuy": [
+            "None."
+          ],
+          "costsAndNotes": [
+            "Family-friendly pizzeria"
           ],
           "type": [
             "travel",
@@ -2961,19 +3120,19 @@
           ]
         },
         {
-          "time": "12:40 PM - 14:00 PM",
+          "time": "14:25 PM - 15:45 PM",
           "activity": "Lunch",
-          "location": "Local restaurant",
-          "mapLink": "https://maps.app.goo.gl/Localrestaurant",
+          "location": "Piz",
+          "mapLink": "https://maps.app.goo.gl/Piz",
           "directions": [
-            "At chosen restaurant",
-            "Long, leisurely lunch"
+            "At restaurant",
+            "Leisurely lunch"
           ],
           "transportation": [
             "N/A"
           ],
           "thingsToDo": [
-            "Enjoy lunch at Local restaurant."
+            "Enjoy lunch at Piz."
           ],
           "ticketsToBuy": [
             "None."
@@ -2987,67 +3146,16 @@
           ]
         },
         {
-          "time": "14:00 PM - 14:15 PM",
-          "activity": "Taxi to Brera District",
-          "location": "Brera District (Via Brera)",
-          "mapLink": "https://maps.app.goo.gl/BreraDistrictViaBrera",
-          "directions": [
-            "Board taxi near restaurant",
-            "Drop off at main Brera area"
-          ],
-          "transportation": [
-            "Taxi (~10 min)"
-          ],
-          "thingsToDo": [
-            "Travel to Brera District (Via Brera)."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Historic artist quarter"
-          ],
-          "type": [
-            "travel"
-          ]
-        },
-        {
-          "time": "14:15 PM - 16:00 PM",
-          "activity": "Explore Brera District",
-          "location": "Brera District",
-          "mapLink": "https://maps.app.goo.gl/BreraDistrict",
-          "directions": [
-            "Walk through the charming cobblestone streets, visit art galleries and boutiques"
-          ],
-          "transportation": [
-            "N/A"
-          ],
-          "thingsToDo": [
-            "Explore or relax at Brera District."
-          ],
-          "ticketsToBuy": [
-            "None."
-          ],
-          "costsAndNotes": [
-            "Picturesque area perfect for walking",
-            "Take lots of photos",
-            "Watch footing on cobblestones"
-          ],
-          "type": [
-            "activity"
-          ]
-        },
-        {
-          "time": "16:00 PM - 16:15 PM",
+          "time": "15:45 PM - 16:00 PM",
           "activity": "Taxi to Navigli District",
           "location": "Navigli District (Alzaia Naviglio Grande)",
           "mapLink": "https://maps.app.goo.gl/NavigliDistrictAlzaiaNaviglioGrande",
           "directions": [
-            "Board taxi in Brera",
-            "Drop off at the main canal area"
+            "Board taxi near Piz",
+            "Drop off at main canal area"
           ],
           "transportation": [
-            "Taxi (~15 min)"
+            "Taxi (~15-20 min)"
           ],
           "thingsToDo": [
             "Travel to Navigli District (Alzaia Naviglio Grande)."
@@ -3056,14 +3164,15 @@
             "None."
           ],
           "costsAndNotes": [
-            "Famous canal district"
+            "Famous canal district",
+            "Exception for taxi due to distance"
           ],
           "type": [
             "travel"
           ]
         },
         {
-          "time": "16:15 PM - 17:30 PM",
+          "time": "16:00 PM - 17:30 PM",
           "activity": "Explore Navigli District",
           "location": "Navigli District",
           "mapLink": "https://maps.app.goo.gl/NavigliDistrict",
@@ -3081,16 +3190,15 @@
           ],
           "costsAndNotes": [
             "Beautiful canal-side stroll",
-            "Kids enjoy watching boats",
-            "Many shops and cafés along the way"
+            "Kids enjoy watching boats"
           ],
           "type": [
             "activity"
           ]
         },
         {
-          "time": "17:30 PM - 17:45 PM",
-          "activity": "Taxi back to hotel",
+          "time": "17:30 PM - 17:50 PM",
+          "activity": "Taxi to hotel",
           "location": "NH Collection Porta Nuova",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
           "directions": [
@@ -3114,7 +3222,7 @@
           ]
         },
         {
-          "time": "17:45 PM - 19:30 PM",
+          "time": "17:50 PM - 19:30 PM",
           "activity": "Rest at hotel",
           "location": "NH Collection Porta Nuova",
           "mapLink": "https://maps.app.goo.gl/NHCollectionPortaNuova",
@@ -3132,7 +3240,7 @@
           ],
           "costsAndNotes": [
             "Long rest period",
-            "Kids can relax, use Wi-Fi, prepare for evening"
+            "Kids can relax, use Wi-Fi"
           ],
           "type": [
             "activity"
